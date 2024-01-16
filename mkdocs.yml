@@ -1,5 +1,5 @@
 # 项目信息 / Project information
-site_name: Hello CTF
+site_name: RP01sword Service
 site_url: https://rp01ctfer.su-cvestone.cn
 site_author: cvestone
 site_description: RP01sword战队成员博客实时更新情况
@@ -169,91 +169,8 @@ extra_css:
 # 目录
 nav:
 
-# 导航排布 —— | Hello CTF | 赛事 | 工具 | 团队 | 扩展 | Achieve | Blog
+# 导航排布 —— | 赛事 | 工具 | Archives |
 
-# - HelloCTF 内容 (.HC) Part ------------
-  - HelloCTF:
-    - index.md
-    - 快速开始:
-      - HC_Start/index.md
-
-    - 前言:
-      - HC_Preface/index.md
-      - 关于本书: HC_Preface/about.md
-      - 食用方法: HC_Preface/usage.md
-      - 加入我们: HC_Preface/join.md
-
-    - 环境设置:
-      - HC_envSet/index.md
-      - 工具一览: HC_envSet/CTFtool.md
-      - Docker环境: HC_envSet/Docker_On_Linux.md
-      - Web环境设置: HC_envSet/Web.md
-      - MISC环境设置: HC_envSet/MISC.md
-      - Crypto环境设置: HC_envSet/Crypto.md
-
-    - MISC | 杂项:
-      - HC_MISC/index.md
-      - 信息收集: HC_MISC/osint.md
-      - 编码扩展: HC_MISC/Encode_extra.md
-      - 文件基础: HC_MISC/file.md
-      - 压缩包: HC_MISC/Archivefile.md
-      - 隐写技术: HC_MISC/stego.md
-      - 流量分析: HC_MISC/pcap.md
-      - 内存取证: HC_MISC/memory.md
-      - 附:文件签名表 : HC_MISC/file_sign.md
-
-    - Web | 网络攻防:
-      - HC_Web/index.md
-      - Web入门题单: HC_Web/web_start.md
-      - PHP基础: HC_Web/php_basic.md
-      - PHP反序列化基础: HC_Web/php_unser_base.md 
-      - SQL注入: HC_Web/sql_injection.md
-      - XSS攻击: HC_Web/xss.md
-      - 文件包含: HC_Web/include.md
-      - SSTI注入: HC_Web/ssti.md
-
-    - Crypto | 密码学:
-      - HC_Crypto/index.md
-      - 1.前情提要: HC_Crypto/Recap.md
-      - 2.编码基础: HC_Crypto/Encode.md
-      - 3.古典密码: HC_Crypto/Classicalcipher.md
-
-    - Reverse | 逆向工程:
-      - HC_Reverse/index.md
-
-    - Pwn | 二进制安全:
-      - HC_PWN/index.md
-      - 0. &nbsp; 汇编语言(x86): HC_PWN/Asm_x86.md
-      - 1. &nbsp; 栈上数组越界&栈溢出: HC_PWN/Stack_Overflow.md
-      - 1.1. &nbsp; ROP入门: HC_PWN/ROP.md
-      - 1.2. &nbsp; 常见的ROP技巧: HC_PWN/ROP_Tricks.md
-      - 2. &nbsp; 常见保护: HC_PWN/Protections.md
-      - x. &nbsp; 杂七杂八的解题技巧: HC_PWN/Tricks.md
-
-    - AWD | 攻防模式:
-      - 1. &nbsp; AWD介绍: HC_AWD/awd_about.md
-      - 2. &nbsp; AWD平台: HC_AWD/awd_platform.md
-      - 3. &nbsp; 【WEB】AWD技巧: HC_AWD/awd_web.exp.md
-      - 4. &nbsp; 【PWN】AWD技巧: HC_AWD/awd_pwn.exp.md
-
-    - AI | 人工智能安全:
-      - HC_AI/index.md
-      - 初识AI: HC_AI/What_is_AI.md
-      - 你的第一个神经网络: HC_AI/MLP.md
-
-    - blockchain | 区块链安全:
-      - Move:
-        - 从0开始的签到题: HC_blockchain/Move/0x00.md
-
-    - 附录:
-      - 提问的智慧: HC_Appendix/how-to-ask.md
-      - CTF赛事: HC_Appendix/CTFevent.md
-      - NSSCTF平台使用: HC_Appendix/NSSCTF_Usage.md
-      - 推荐书单: HC_Appendix/book.md
-
-# - CTF Training 练习 (.TT) Part ------------
-  - 刷题:
-    - TT/index.md
 
 # - CTF Event 赛事 (.TK) Part ------------
   - 赛事:
@@ -261,62 +178,21 @@ nav:
     - 即将开始: ET/Upcoming_events.md
     - 正在进行: ET/Now_running.md
     - 已经结束: ET/Past_events.md
-    - 办赛指南:
-      - ET/organize.md
     
 # - CTF ToolKit 工具 (.TK) Part ------------
   - 工具: TK/index.md
 
-# - TeamBuild (.TB) 团队 Part ------------
-  - 团队: 
-    - TB/index.md
-    - 团队建设与运营:
-      - TB/build.md
-    - 团队纳新及培训:
-      - TB/recruit.md
-    - 团队训练及CTF平台:
-      - TB/train.md
-
-# - Set Challenges (.SC) 命题 Part ------------
-  - 命题:
-    - SC/index.md
-
-
-# - ExtensionEnhancement 扩展 (.EE) Part ------------
-  - 扩展:
-    - EE/index.md
-    - Docker| 容器技术:
-      - EE_Docker/index.md
-      - 一文速通Docker(粗): EE_Docker/dockerstart.md
-      - 关于Docker: EE_Docker/about.md 
-      # - Windows下的Docker环境配置: EE_Docker/install_windows.md
-      # - Linux下的Docker环境配置: EE_Docker/install_linux.md
-      # - Docker的基本操作: EE_Docker/usage_basic.md
-      # - Docker在CTF中的应用: EE_Docker/usage_ctf.md
-      # - Web题目的Docker化: EE_Docker/usage_web.md
-      # - 示例-经典web靶场封装: EE_Docker/usage_example.md
-      # - Pwn题目的Docker化: EE_Docker/usage_pwn.md
-      # - Crypto题目的Docker化: EE_Docker/usage_crypto.md
-
-# - Archives 存档 (.AR) Part ----
+# - Archives 归档 (.AR) Part ----
   - Archives:
     - AR/index.md
-    - 赛事归档:
-      - AR/Events.md
     - 师傅们和他们的博客:
       - AR/friends.md
-    - 联合战队信息/招新:
-      - AR/Teams.md
     - 社区资源:
       - AR/Community.md
     - 书单推荐:
       - AR/books.md
     - 视频资源:
       - AR/Videos.md
-
-# - Blog Part ----
-  - Blog:
-    - blog/index.md
 
 watch:
   - docs
