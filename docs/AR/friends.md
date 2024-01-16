@@ -5,7 +5,7 @@ comments: true
 # CTFer档案馆
 ## List
 - [antigone｜蒟蒻CTFer CUIT驾校在读 逆向苦手](https://antigone4224.github.io)
-- [cvestone｜](https://www.su-cvestone.cn/)
+- [cvestone｜风之子 pwn大学在读小学生](https://www.su-cvestone.cn/)
 
 ## Recent Post
 ### [HTB_machines](https://www.su-cvestone.cn/128/)  
