@@ -1,13 +1,13 @@
 # 项目信息 / Project information
 site_name: Hello CTF
-site_url: https://ctf.probius.xyz/
+site_url: https://rp01ctfer.su-cvestone.cn
 site_author: 探姬
 site_description: 开源免费、新手友好的CTF(Capture The Flag,夺旗赛)入门教程
 
 # 仓库信息 / Repository 
 repo_name: Hello-CTF
-repo_url: https://github.com/ProbiusOfficial/Hello-CTF
-edit_uri: https://github.com/ProbiusOfficial/Hello-CTF/tree/main/docs/
+repo_url: https://github.com/cvestone/helloctf
+edit_uri: https://github.com/cvestone/helloctf/tree/main/docs/
 
 # 版权声明 / Copyright
 copyright: Copyright &copy; 2023 探姬
