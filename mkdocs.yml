@@ -80,12 +80,8 @@ extra:
 
   # 页脚社交媒体
   social:
-    - icon: fontawesome/brands/twitter 
-      link: 
     - icon: fontawesome/brands/github
       link: https://github.com/cvestone
-    - icon: fontawesome/brands/bilibili
-      link: 
     - icon: fontawesome/solid/paper-plane
       link: mailto:<stonectf1@gmail.com> 
 
