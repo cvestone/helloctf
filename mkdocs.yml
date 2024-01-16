@@ -65,7 +65,7 @@ theme:
 
   favicon: assets/images/favicon.png
 
-  logo: assets/images/logo.png
+  logo: assets/images/rp01sword_logo.png
   
   icon:
     logo: logo
@@ -169,7 +169,7 @@ extra_css:
 # 目录
 nav:
 
-# 导航排布 —— | 赛事 | 工具 | Archives |
+# 导航排布 —— | 赛事 | 工具 | 归档 |
 
 
 # - CTF Event 赛事 (.TK) Part ------------
