@@ -6,6 +6,8 @@ comments: true
 ## List
 - [antigone｜蒟蒻CTFer CUIT驾校在读 逆向苦手](https://antigone4224.github.io)
 - [cvestone｜风之子 pwn大学在读小学生](https://www.su-cvestone.cn/)
+- [shark｜鲨鱼辣椒](https://www.shark45.cn)
+- [Lobok｜是否有个我们完成了缘分](http://dis4.cn)
 
 ## Recent Post
 ### [HTB_machines](https://www.su-cvestone.cn/128/)  
@@ -16,6 +18,14 @@ PivotAPI “红队笔记”学习记录 信息搜集 nmap tcp详细扫描结果�
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-14
 
 简单 PlanetExpress 端口扫描 可知目标web服务用了Pico CMS系统，优先看web服务 暂时没找到可利用点，尝试 ......
+### [世界，您好！](https://www.shark45.cn/2024/01/11/hello-world/)  
+>by [shark](https://www.shark45.cn), 2024-01-11
+
+欢迎使用 WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！...
+### [CVE-2023-50724 resque-web<2.1.0 XSS学习](http://dis4.cn/post/cve-2023-50724-resque-webless210-xss-xue-xi/)  
+>by [Lobok](http://dis4.cn), 2024-01-10
+
+...
 ### [安全开发实验室](https://www.su-cvestone.cn/88/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-05
 
