@@ -21,14 +21,9 @@ hide:
             <div class="grid cards">
                 <div class="carousel">
                     <div class="carousel-container">
-                        <a href="/blog/2023/12/22/movectf2024-激情预热中/" target="_blank"><img
-                                src="./assets/banner-MoveCTF.png" /></a>
                         <a href="../HC_Start/" target="_blank"><img src="./assets/banner-quickstart.png" /></a>
-                        <a href="../HC_AI/" target="_blank"><img src="./assets/banner-update.png" /></a>
                         <a href="https://github.com/CTF-Archives" target="_blank"><img
                                 src="./assets/banner-Achieve.png" /></a>
-                        <a href="javascript:alert$.next('我很可爱，请给我钱w');"><img
-                                src="./assets/Banner-imcutesogivememoney.png" /></a>
                     </div>
                     <!-- 触发 hover 的区域 -->
                     <div class="carousel-hover left">
@@ -131,7 +126,6 @@ hide:
 
     ---
 
-    更新了Misc部分 首页改版优化ing
 
 </div>  
 </div>
@@ -143,21 +137,14 @@ hide:
 
     ---
 
-    - 入门CTF/阅读本书前必读：[快速开始](./HC_Start/)以及[前言部分](./HC_Preface/)  
-    - 请善用搜索功能来寻找你想要的内容！！
-    - 站点已接入 CDN，感谢[渊龙Sec安全团队](https://dh.aabyss.cn)友情赞助
 
 -   :fontawesome-regular-paper-plane:{ .lg .middle } __友链__
 
-    ---
+    ---    
 
-    [最棒的CTF平台 - NSSCTF](https://www.nssctf.cn/)  
-
-    [安全导航-渊龙Sec安全团队](https://dh.aabyss.cn)    
-
-    [CTF导航-猫捉鱼铃](https://ctf.mzy0.com/)
-
-    [CTF-Archive](https://github.com/CTF-Archives)
+    [探姬师傅的轮子](https://github.com/ProbiusOfficial)
+    
+    [巨魔师傅的轮子](https://github.com/CTF-Archives)
 
 </div>   
 
