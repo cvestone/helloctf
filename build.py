@@ -29,7 +29,7 @@ def insert_content(original_file, start_marker, end_marker, new_content):
 
 def update_files():
     # 更新 friends.md 和 index.md
-    friends_content = download_file("https://raw.githubusercontent.com/ProbiusOfficial/helloCTF-CTFerlink/main/output/friends.md")
+    friends_content = download_file("https://raw.githubusercontent.com/cvestone/rp01ctfer/main/output/friends.md")
     with open("docs/AR/friends.md", 'w', encoding='utf-8') as file:
         file.write(friends_content)
     with open("docs/AR/index.md", 'w', encoding='utf-8') as file:
@@ -37,12 +37,12 @@ def update_files():
 
     # 更新 events 相关文件
     for filename in ["Now_running.md", "Past_events.md", "Upcoming_events.md"]:
-        content = download_file(f"https://raw.githubusercontent.com/ProbiusOfficial/Hello-CTFtime/main/Out/{filename}")
+        content = download_file(f"https://raw.githubusercontent.com/cvestone/ctftime/main/Out/{filename}")
         with open(f"docs/ET/{filename}", 'w', encoding='utf-8') as file:
             file.write(content)
 
     # 更新 events.html
-    events_html_content = download_file("https://raw.githubusercontent.com/ProbiusOfficial/Hello-CTFtime/main/Out/events.html")
+    events_html_content = download_file("https://github.com/cvestone/ctftime/raw/main/Out/events.html")
     insert_content("overrides/partials/events.html", "<!-- 赛事模块前置_开始 -->", "<!-- 赛事模块前置_结束 -->", events_html_content)
 
 if __name__ == "__main__":
