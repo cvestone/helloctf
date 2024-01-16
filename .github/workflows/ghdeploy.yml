@@ -42,6 +42,10 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             echo "CHANGES=true" >> $GITHUB_ENV
           fi
+          
+      - name: Pull remote changes
+        if: env.CHANGES == 'true'
+        run: git pull
 
       - name: Commit and push changes
         if: env.CHANGES == 'true'
