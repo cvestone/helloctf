@@ -12,6 +12,10 @@ comments: true
 - [HeYuMeng｜萌瓜学习记](http://www.heyumeng.online/)
 
 ## Recent Post
+### [如何爆破呢](http://www.heyumeng.online/index.php/157/)  
+>by [HeYuMeng](http://www.heyumeng.online/), 2024-01-16
+
+CTFshow WEB入门爆破web21这里第一题，我们看到需要输入账号密码登录，打开burp抓个包看看，输入账号密码后，在抓包历史中我找到了验证包，看到了什么，看到了==，应该是base64编码，去md5在线查了可以猜出来账号密码中间用分号隔开，然后利用bp，自定义迭代，载入字典，开始跑就行了正确的编码显而易见，把最后一串编码解密就得到了账号密码，然后回去输入账号密码就可以看到flag了，...
 ### [HTB_machines](https://www.su-cvestone.cn/128/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-15
 
