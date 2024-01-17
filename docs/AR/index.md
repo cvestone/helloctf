@@ -12,6 +12,10 @@ comments: true
 - [HeYuMeng｜萌瓜学习记](http://www.heyumeng.online/)
 
 ## Recent Post
+### [hexo+githubpage搭建并添加博客RSS](https://www.su-cvestone.cn/135/)  
+>by [cvestone](https://www.su-cvestone.cn/), 2024-01-17
+
+非原创，由各个博客综合提取，主要为了查找方便，感谢这些bloggers提供的珍贵参考材料 安装必要环境 node 下载对应操作系统 ......
 ### [如何爆破呢](http://www.heyumeng.online/index.php/157/)  
 >by [HeYuMeng](http://www.heyumeng.online/), 2024-01-16
 
