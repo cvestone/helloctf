@@ -10,12 +10,17 @@ comments: true
 - [Lobok｜是否有个我们完成了缘分](http://dis4.cn)
 - [摸鱼的猫｜酷爱摸鱼&正在准备考研的ctfer](https://blog.csdn.net/qq_62172019/)
 - [HeYuMeng｜萌瓜学习记](http://www.heyumeng.online/)
+- [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
 ### [hexo+githubpage搭建并添加博客RSS](https://www.su-cvestone.cn/135/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-17
 
 非原创，由各个博客综合提取，主要为了查找方便，感谢这些bloggers提供的珍贵参考材料 安装必要环境 node 下载对应操作系统 ......
+### [wordpress报道篇](https://qsheep24.wordpress.com/2024/01/17/wordpress%e6%8a%a5%e9%81%93%e7%af%87/)  
+>by [q1@N9](https://qsheep24.wordpress.com), 2024-01-17
+
+cppu在读本科小白，，hello world以后也会坚持完善个人blog...
 ### [如何爆破呢](http://www.heyumeng.online/index.php/157/)  
 >by [HeYuMeng](http://www.heyumeng.online/), 2024-01-16
 
