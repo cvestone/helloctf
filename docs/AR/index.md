@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [231216WargamesMY CTF](https://www.su-cvestone.cn/141/)  
+>by [cvestone](https://www.su-cvestone.cn/), 2024-01-19
+
+pwn Magic Door 考察点： （1）查看程序保护 开了nx保护，利用shellcode困难，且是amd64 （2）查看程 ......
 ### [hexo+githubpage搭建并添加博客RSS](https://www.su-cvestone.cn/135/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-17
 
