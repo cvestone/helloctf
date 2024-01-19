@@ -41,10 +41,6 @@ PivotAPI “红队笔记”学习记录 信息搜集 nmap tcp详细扫描结果�
 >by [shark](https://www.shark45.cn), 2024-01-11
 
 欢迎使用 WordPress。这是您的第一篇文章。编辑或删除它，然后开始写作吧！...
-### [CVE-2023-50724 resque-web<2.1.0 XSS学习](http://dis4.cn/post/cve-2023-50724-resque-webless210-xss-xue-xi/)  
->by [Lobok](http://dis4.cn), 2024-01-10
-
-...
 ### [安全开发实验室](https://www.su-cvestone.cn/88/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-05
 
