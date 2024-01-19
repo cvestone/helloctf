@@ -13,7 +13,7 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
-### [231216WargamesMY CTF](https://www.su-cvestone.cn/141/)  
+### [231216WargamesMY CTF](https://www.su-cvestone.cn/144/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-19
 
 pwn Magic Door 考察点： （1）查看程序保护 开了nx保护，利用shellcode困难，且是amd64 （2）查看程 ......
@@ -65,10 +65,6 @@ Hardware Debugging Interface 考察点 SALEAE Logic分析器的异步串行解�
 >by [cvestone](https://www.su-cvestone.cn/), 2023-12-27
 
 菜狗杯 misc 损坏的压缩包 考察点：文件不符改后缀 先丢到binwalk分析，发现是由png和zlib文件组成的，再丢到win ......
-### [231216WargamesMY CTF](https://www.su-cvestone.cn/29/)  
->by [cvestone](https://www.su-cvestone.cn/), 2023-12-27
-
-pwn Magic Door 考察点： （1）查看程序保护 开了nx保护，利用shellcode困难，且是amd64 （2）查看程 ......
 ### [你想有多pwn(入门第二章)](https://www.su-cvestone.cn/25/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2023-12-27
 
