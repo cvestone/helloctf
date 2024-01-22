@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [mapnactf2023 pwn buggypaint](https://blog.csdn.net/qq_62172019/article/details/135749706)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-22
+
+现在申请一次context为0x40的块(称为a块) 这样的话a块就可以控制paint结构体,也就间接控制了一个paint结构体。用任意写将链表的数量改大方便块进入unsortedbin内,然后任意读泄露库的地址。题目所给库版本是2.35存在tache机制,依据tache后进先出的机制,可以先申请一个context大小为0x40的块和三块context超过0x70大小的块(方便待会泄露libc基址...
 ### [231216WargamesMY CTF](https://www.su-cvestone.cn/144/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-19
 
@@ -153,10 +157,6 @@ HGAME 2022...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-05-11
 
 总体思路为利用溢出造成overlap，free掉使得libc信息落入其他块中泄漏地址，最后和house of orange一样的手法打io不过2.23的fsop比较原始没什么看头。最近学习了house of cat以后萌生了想看看远古fsop的想法，最近又刚好打完了第四届铁人三项信息安全竞赛所以顺便拿了18年的题目来做，这波属实冷饭热炒了。add 限制了malloc的大小 但是没有限制大小不能为0...
-### [第四届铁人三项信息安全竞赛决赛pwn](https://blog.csdn.net/qq_62172019/article/details/130474727)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-05-03
-
-第四届铁人三项信息安全竞赛决赛pwn。...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
