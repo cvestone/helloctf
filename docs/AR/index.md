@@ -13,7 +13,11 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
-### [mapnactf2023 pwn buggypaint](https://blog.csdn.net/qq_62172019/article/details/135749706)  
+### [mapnactf2024 pwn ninipwn&protector](https://blog.csdn.net/qq_62172019/article/details/135790635)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-23
+
+tips:之所以两个不一起泄露是因为在调试的过程中两个一起泄露需要10个字节刚好覆盖了text_len会导致后面的加密函数越界使得程序崩溃，故分开泄露。先溢出泄露库地址然后将剩下的语句写到bss段上面,然后栈转移,接着调用mprotect函数将bss段改为可执行,最后跳到shellcode处读flag。2.通过格式化字符串泄露程序加载地址最后将win函数的加载地址覆盖回返回地址。开启了沙箱根据其提...
+### [mapnactf2024 pwn buggypaint](https://blog.csdn.net/qq_62172019/article/details/135749706)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-22
 
 现在申请一次context为0x40的块(称为a块) 这样的话a块就可以控制paint结构体,也就间接控制了一个paint结构体。用任意写将链表的数量改大方便块进入unsortedbin内,然后任意读泄露库的地址。题目所给库版本是2.35存在tache机制,依据tache后进先出的机制,可以先申请一个context大小为0x40的块和三块context超过0x70大小的块(方便待会泄露libc基址...
@@ -153,10 +157,6 @@ HGAME 2022...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-05-18
 
 探究apple2在高版本glibc的可行性...
-### [2018 铁人三项信息安全竞赛 bookstore](https://blog.csdn.net/qq_62172019/article/details/130613806)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-05-11
-
-总体思路为利用溢出造成overlap，free掉使得libc信息落入其他块中泄漏地址，最后和house of orange一样的手法打io不过2.23的fsop比较原始没什么看头。最近学习了house of cat以后萌生了想看看远古fsop的想法，最近又刚好打完了第四届铁人三项信息安全竞赛所以顺便拿了18年的题目来做，这波属实冷饭热炒了。add 限制了malloc的大小 但是没有限制大小不能为0...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
