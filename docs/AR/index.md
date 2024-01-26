@@ -13,6 +13,14 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [THM](https://www.su-cvestone.cn/153/)  
+>by [cvestone](https://www.su-cvestone.cn/), 2024-01-26
+
+The Cod Caper 介绍 Hello there my name is Pingu. I've come here to  ......
+### [春秋杯2024 house of some](https://blog.csdn.net/qq_62172019/article/details/135875602)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-26
+
+fopen函数会在打开设备以后会在_IO_list_all_插入新的IO结构,这一点在后面会用到。在菜单函数这里显然有一个未初始化的变量v4由于getint使用了scanf,"%lld"接收数据在遇到’-'时不会覆盖栈上的数据又由于下面会打印出栈上的值存在一个泄露问题。第一次利用写在114514上面写入新的任意读fake_io1和fake_io2,同时这个fake_io1的chain成员应该是一个...
 ### [mapnactf2024 pwn ninipwn&protector](https://blog.csdn.net/qq_62172019/article/details/135790635)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-23
 
@@ -153,10 +161,6 @@ HGAME 2022...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-05-23
 
 探究高版本下house of apple的可行性...
-### [探究高版本glibc(2.37)下对house of apple2的利用(1)](https://blog.csdn.net/qq_62172019/article/details/130757223)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-05-18
-
-探究apple2在高版本glibc的可行性...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
