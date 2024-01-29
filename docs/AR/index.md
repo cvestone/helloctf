@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [pwn-college kernel l1](https://blog.csdn.net/qq_62172019/article/details/135920197)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-29
+
+模块在初始化的时候就已经将flag读出来了所以本题并不需要提权。read函数从用户空间读入一串字符作为password进行比较。write函数下,如果read函数比较正确就返回flag。...
 ### [THM](https://www.su-cvestone.cn/153/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-26
 
@@ -157,10 +161,6 @@ HGAME choose_the_seat...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-07-10
 
 HGAME 2022...
-### [探究高版本glibc(2.37)下对house of apple2的利用(2)](https://blog.csdn.net/qq_62172019/article/details/130779745)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-05-23
-
-探究高版本下house of apple的可行性...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
