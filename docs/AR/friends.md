@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [dicectf2024 pwn](https://blog.csdn.net/qq_62172019/article/details/136030402)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-04
+
+strtok函数在分割字符串的时候会将delim置为\x00这将导致前面的字符串在分割的时候把后面的堆块size某些字节置为\x00,因此可以利用这个漏洞打off by null。打完off by null向前合并之后就简单了直接控制tache块申请到free_hook直接改写就行。主办方虽然没有给libc但是给了题目所使用的dockerfile。本题使用的是Ubuntu18。查看函数,此处调用了...
 ### [pwn-college kernel l1](https://blog.csdn.net/qq_62172019/article/details/135920197)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-29
 
@@ -157,10 +161,6 @@ php反序列化小结...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-07-14
 
 HGAME choose_the_seat...
-### [HGAME enter the evil pwn land](https://blog.csdn.net/qq_62172019/article/details/131645055)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-07-10
-
-HGAME 2022...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
