@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [l3hctf2024 pwn treasure_hunter](https://blog.csdn.net/qq_62172019/article/details/136064207)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-06
+
+可以看到上面的大块可以覆盖到0x20小块的数据区,正好这个小块存放着hashmap的pairs指针我们只需要覆盖其低地址并且在可控制的块伪造pairs和修改一些关键字符(dream操作)就可以完成伪造,伪造之后就可以实现将任意的key放在hashmap中从而实现任意读任意写。我刚才提到了" 修改关键字符 ",如上图在hashmap每插入一对pair的时候都会产生一个字符用于标识key,所以我们只需...
 ### [dicectf2024 pwn](https://blog.csdn.net/qq_62172019/article/details/136030402)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-04
 
@@ -157,10 +161,6 @@ php反序列化小结...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-07-25
 
 [HZNUCTF 2023 final]mheap...
-### [HGAME choose_the_seat](https://blog.csdn.net/qq_62172019/article/details/131727808)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-07-14
-
-HGAME choose_the_seat...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
