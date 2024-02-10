@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
+
+其中rax, qword ptr [rdi + 0xa0] rax会被赋值为wide_data结构体的地址(rdi是我们伪造的io结构体地址)mov    rax, qword ptr [rax + 0xe0] rax被赋值为指向wide_data结构体+0xe0的地址。在_IO_switch_to_wget_mode 函数可以进行一次任意执行。最后可以进入_IO_switch_to_wget_m...
 ### [l3hctf2024 pwn treasure_hunter](https://blog.csdn.net/qq_62172019/article/details/136064207)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-06
 
@@ -157,10 +161,6 @@ php反序列化小结...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-07-26
 
 [HZNUCTF 2023 final]easy_rw...
-### [HZNUCTF 2023 final mheap](https://blog.csdn.net/qq_62172019/article/details/131922277)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-07-25
-
-[HZNUCTF 2023 final]mheap...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
