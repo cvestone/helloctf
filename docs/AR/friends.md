@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [HTB gamepwn CubeMadness1&CubeMadness2](https://blog.csdn.net/qq_62172019/article/details/136107916)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
+
+HTB gamepwn CubeMadness1&CubeMadness2...
 ### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
 
@@ -157,10 +161,6 @@ php反序列化小结...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-08-01
 
 [*CTF 2022]examination...
-### [HZNUCTF 2023 final easy_rw](https://blog.csdn.net/qq_62172019/article/details/131943694)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-07-26
-
-[HZNUCTF 2023 final]easy_rw...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
