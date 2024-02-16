@@ -13,6 +13,14 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [CTFwebSSRF篇](http://www.heyumeng.online/index.php/181/)  
+>by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
+
+CTFshow WEB入门SSRF服务端请求伪造web351url=http:/127.0.0.1/flag.phpweb352url=http://127.0.0.2/flag.phpweb353url=http://2130706433/flag.phpurl=http://0x7f.0.0.1/flag.phpurl=http://0/flag.phpurl=htt...
+### [CTFwebXSS篇](http://www.heyumeng.online/index.php/176/)  
+>by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
+
+CTFshow WEB入门XSS跨站脚本攻击XSS漏洞通常分为三种类型：反射型XSS、存储型XSS、DOM-Based XSSweb316题目如图所示，使用经典语句<script>alert(1)</script>测试成功，在攻击服务器准备一个文件接收cookie，get.php<?php$cookie=$_GET['c'];$myfile=fopen("cookie.txt","w...
 ### [HTB pwn Evil Corp](https://blog.csdn.net/qq_62172019/article/details/136121775)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-15
 
@@ -69,7 +77,7 @@ pwn Magic Door 考察点： （1）查看程序保护 开了nx保护，利用she
 >by [q1@N9](https://qsheep24.wordpress.com), 2024-01-17
 
 cppu在读本科小白，，hello world以后也会坚持完善个人blog...
-### [如何爆破呢](http://www.heyumeng.online/index.php/157/)  
+### [CTFweb如何爆破呢](http://www.heyumeng.online/index.php/157/)  
 >by [HeYuMeng](http://www.heyumeng.online/), 2024-01-16
 
 CTFshow WEB入门爆破web21这里第一题，我们看到需要输入账号密码登录，打开burp抓个包看看，输入账号密码后，在抓包历史中我找到了验证包，看到了什么，看到了==，应该是base64编码，去md5在线查了可以猜出来账号密码中间用分号隔开，然后利用bp，自定义迭代，载入字典，开始跑就行了正确的编码显而易见，把最后一串编码解密就得到了账号密码，然后回去输入账号密码就可以看到flag了，...
