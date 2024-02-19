@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [HTB pwn Bad grades&Restaurant](https://blog.csdn.net/qq_62172019/article/details/136181222)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-19
+
+HTB pwn Bad grades&Restaurant...
 ### [CTFwebSSRF篇](http://www.heyumeng.online/index.php/181/)  
 >by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
 
@@ -165,10 +169,6 @@ php反序列化小结...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-08-09
 
 漏洞点出在移动功能上面未检查移动前后的坐标导致了越界赋值行为，所以这是一个任意字节写功能。使用这个任意写我们可以修改堆块的大小造成堆块重叠结合tcahe任意地址申请向free_hook写入setcontext+53。最后构造堆块完成利用。开启了沙箱 ，注意了原本这个函数调用了prctl函数进行反调试所以要将这个调用nop掉才能进行调试。有地图创建，人物创建，人物删除，打印人物信息，以及上下左右移动...
-### [*ctf 2023 drop](https://blog.csdn.net/qq_62172019/article/details/132129032)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-08-06
-
-*ctf 2023 drop...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
