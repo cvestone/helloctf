@@ -88,7 +88,7 @@ CTFshow WEB入门爆破web21这里第一题，我们看到需要输入账号密�
 ### [HTB_machines](https://www.su-cvestone.cn/128/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-15
 
-PivotAPI “红队笔记”学习记录 信息搜集 nmap tcp详细扫描结果： sudo nmap -sT -sV -sC -O ......
+PivotAPI “红队笔记”学习记录 机器介绍 Pivotapi is an insane machine that invol ......
 ### [offsec PG lab](https://www.su-cvestone.cn/125/)  
 >by [cvestone](https://www.su-cvestone.cn/), 2024-01-14
 
