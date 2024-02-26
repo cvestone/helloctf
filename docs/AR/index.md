@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [*ctf 2019 oob](https://blog.csdn.net/qq_62172019/article/details/136294799)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-26
+
+*ctf 2019 oob...
 ### [HTB pwn Dragon Army](https://blog.csdn.net/qq_62172019/article/details/136264417)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-23
 
@@ -165,10 +169,6 @@ php反序列化小结...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-09-07
 
 放入ida分析发现花指令。nop掉就能看到伪代码了。一共使用了五种加密算法。...
-### [细究sql注入漏洞](https://blog.csdn.net/qq_62172019/article/details/132615048)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-09-07
-
-它是一种专门用于定义、操作和管理关系型数据库的语言，广泛应用于各种数据库管理系统（DBMS）中，如MySQL、Oracle、SQL Server、PostgreSQL等。虽然各个数据库管理软件遵循sql标准但是相对来讲各个数据库管理软件是作为sql的超集也就是说它们有自己独特的功能。SQL允许用户通过使用预定义的命令和语法来执行各种数据库操作，包括创建、修改和删除数据库、创建和修改表格、插入、更新...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
