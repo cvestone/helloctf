@@ -13,6 +13,10 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
+>by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
+
+xnuca2020-babyV8...
 ### [*ctf 2019 oob](https://blog.csdn.net/qq_62172019/article/details/136294799)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-26
 
@@ -165,10 +169,6 @@ php反序列化小结...
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-09-13
 
 结合刚才调试的操作码可以在原h的位置下写入断点判断加密方式。无pie可以轻松从寄存器找到相对应的加密数组和加密之后的数。断点下在switch就可以知道vm做了什么。既然flag是输入的所以一定有比较函数。在操作码15处有一个比较函数。知道了谁和谁比接下去就是动调。调试可得需要输入32个字母。无壳 放入ida分析。输入h * 32观察。可得加密为异或与移位。...
-### [HZNUCTF 2023 final虽然他送了我玫瑰花](https://blog.csdn.net/qq_62172019/article/details/132743092)  
->by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2023-09-07
-
-放入ida分析发现花指令。nop掉就能看到伪代码了。一共使用了五种加密算法。...
 ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
 >by [antigone](https://antigone4224.github.io), 2018-01-06
 
