@@ -13,6 +13,14 @@ comments: true
 - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
 
 ## Recent Post
+### [rp01sword队员最近发布文章](https://www.su-cvestone.cn/272/)  
+>by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
+
+...
+### [密码保护：攻防艺术](https://www.su-cvestone.cn/260/)  
+>by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
+
+无法提供摘要。这是一篇受保护的文章。...
 ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
 >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
@@ -129,14 +137,6 @@ Hardware Debugging Interface 考察点 SALEAE Logic分析器的异步串行解�
 >by [cvestone](https://www.su-cvestone.cn/), 2023-12-27
 
 菜狗杯 misc 损坏的压缩包 考察点：文件不符改后缀 先丢到binwalk分析，发现是由png和zlib文件组成的，再丢到win ......
-### [你想有多pwn(入门第二章)](https://www.su-cvestone.cn/25/)  
->by [cvestone](https://www.su-cvestone.cn/), 2023-12-27
-
---b站up主"国资社畜"《你想有多pwn》学习记录与补充 0x00 提升pwn体验 pwndbg插件 (待续，pwndbg调试时 ......
-### [你想有多pwn(入门第一章)](https://www.su-cvestone.cn/20/)  
->by [cvestone](https://www.su-cvestone.cn/), 2023-12-27
-
---b站up主"国资社畜“《你想有多pwn》学习记录与补充 0x00 前言 qaq真的很感谢这个up主提供的pwn入门课程，对pw ......
 ### [CTFweb信息搜集篇](http://www.heyumeng.online/index.php/7/)  
 >by [HeYuMeng](http://www.heyumeng.online/), 2023-12-13
 
