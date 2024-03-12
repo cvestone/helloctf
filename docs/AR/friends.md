@@ -67,6 +67,7 @@ hide:
     - [HeYuMeng｜假装看不见，余光千万遍](http://www.heyumeng.online/)
     - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
     - [ba1100n｜ba1100n的学习随笔](http://www.ba1100n.tech)
+    - [Lobok｜萝卜的部落格](https://dis4.cn)
 
 </div>
 <div class="grid cards" markdown>
@@ -134,6 +135,10 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
 
     HTB gamepwn CubeMadness1&CubeMadness2...
+    ### [Ugra CTF Quals 2024复盘](http://dis4.cn/post/1)  
+    >by [Lobok](https://dis4.cn), 2024-02-13
+
+    这次Web属于有思路，但是最后不知道怎么做的，复盘了下还是学到东西了WebWicket gate:::info{title="URL"}https://wicketgate.q.2024.ugractf.ru/j62t0oc2vyvm6k0j:::首先打开有三个页面（首页/登录/目录)目录页面没登录状态下是访问不了的，所以只...
     ### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
 
@@ -150,9 +155,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-29
 
     模块在初始化的时候就已经将flag读出来了所以本题并不需要提权。read函数从用户空间读入一串字符作为password进行比较。write函数下,如果read函数比较正确就返回flag。...
-    ### [THM](https://www.su-cvestone.cn/153/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-26
-
-    The Cod Caper 介绍 Hello there my name is Pingu. I've come here to  ......
 
 </div>
