@@ -75,6 +75,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
+
+    无法提供摘要。这是一篇受保护的文章。...
+    ### [ctfshow web做题记录](https://www.shark45.cn/2024/03/12/ctfshow-web%e5%81%9a%e9%a2%98%e8%ae%b0%e5%bd%95/)  
+    >by [shark](https://www.shark45.cn/), 2024-03-12
+
+    ①、查看源码，有一串令人在意的字符，查询后发现是base64编码，解一下就知道flag了②、很明显的sql注入这里说二种解法第一种：sql注入第一步： 万能密码，用1和1’判断是什么类型的注入。随后用or语句判断真假后面必须为真值再用#注释掉后面的内容。1′ or true #第二步：查字段数，先用order by语句1′ or true order b...
     ### [3.9本周小结](http://122.112.221.240/index.php/83/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
@@ -147,13 +155,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-06
 
     可以看到上面的大块可以覆盖到0x20小块的数据区,正好这个小块存放着hashmap的pairs指针我们只需要覆盖其低地址并且在可控制的块伪造pairs和修改一些关键字符(dream操作)就可以完成伪造,伪造之后就可以实现将任意的key放在hashmap中从而实现任意读任意写。我刚才提到了" 修改关键字符 ",如上图在hashmap每插入一对pair的时候都会产生一个字符用于标识key,所以我们只需...
-    ### [dicectf2024 pwn](https://blog.csdn.net/qq_62172019/article/details/136030402)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-04
-
-    strtok函数在分割字符串的时候会将delim置为\x00这将导致前面的字符串在分割的时候把后面的堆块size某些字节置为\x00,因此可以利用这个漏洞打off by null。打完off by null向前合并之后就简单了直接控制tache块申请到free_hook直接改写就行。主办方虽然没有给libc但是给了题目所使用的dockerfile。本题使用的是Ubuntu18。查看函数,此处调用了...
-    ### [pwn-college kernel l1](https://blog.csdn.net/qq_62172019/article/details/135920197)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-01-29
-
-    模块在初始化的时候就已经将flag读出来了所以本题并不需要提权。read函数从用户空间读入一串字符作为password进行比较。write函数下,如果read函数比较正确就返回flag。...
 
 </div>
