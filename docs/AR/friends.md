@@ -75,6 +75,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [Netgear DGN1000 RCE](http://122.112.221.240/index.php/136/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-13
+
+    前言声明：技术讨论仅限合法用途，不要用于从事相关违法行为，否则行为后果与本人无关实际上这里需要两枚漏洞才能达成rce效果，一枚是带有鉴权的rce，另一枚则是绕过鉴权而且这还是mirai变种比较青睐的一个漏洞漏洞详情带鉴权RCEpoc注意仅仅在英语的页面有这个syscmd.htmhttp://114.51.41.91/syscm...
+    ### [Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique](http://122.112.221.240/index.php/110/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-13
+
+    虽然研究方向目前不是这个，但上个学期因为课程缘故，精读完这篇顶会论文以后，不禁赞叹，韩国那边的作者团队真的太细致了，对这一时序侧信道问题进行了如此精细的思考和测试，还提出了缓解方案，甚至基于未来应用该方案的考量，对其进行了性能测试。无论是不是做相关领域的事情，都要有这种探究精神👍很棒很棒但在反复思考的过程中，发现了缓解方案仍然可以被绕过💀，当时放在课程报告里面了，刚刚想起来，感觉还是搬出来...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
@@ -106,7 +114,7 @@ hide:
     ### [Hello world!](http://122.112.221.240/index.php/1/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-08
 
-    Welcome to WordPress. This is your first post. Edit or delete it, then start writing!...
+    Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Hello world!最先出现在ba1100n。...
     ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
@@ -147,13 +155,5 @@ hide:
     >by [Lobok](https://dis4.cn), 2024-02-13
 
     这次Web属于有思路，但是最后不知道怎么做的，复盘了下还是学到东西了WebWicket gate:::info{title="URL"}https://wicketgate.q.2024.ugractf.ru/j62t0oc2vyvm6k0j:::首先打开有三个页面（首页/登录/目录)目录页面没登录状态下是访问不了的，所以只...
-    ### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
-
-    其中rax, qword ptr [rdi + 0xa0] rax会被赋值为wide_data结构体的地址(rdi是我们伪造的io结构体地址)mov    rax, qword ptr [rax + 0xe0] rax被赋值为指向wide_data结构体+0xe0的地址。在_IO_switch_to_wget_mode 函数可以进行一次任意执行。最后可以进入_IO_switch_to_wget_m...
-    ### [l3hctf2024 pwn treasure_hunter](https://blog.csdn.net/qq_62172019/article/details/136064207)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-06
-
-    可以看到上面的大块可以覆盖到0x20小块的数据区,正好这个小块存放着hashmap的pairs指针我们只需要覆盖其低地址并且在可控制的块伪造pairs和修改一些关键字符(dream操作)就可以完成伪造,伪造之后就可以实现将任意的key放在hashmap中从而实现任意读任意写。我刚才提到了" 修改关键字符 ",如上图在hashmap每插入一对pair的时候都会产生一个字符用于标识key,所以我们只需...
 
 </div>
