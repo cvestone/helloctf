@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [IpTIME C200 BackdoorRCE(CVE-2021-26614)](http://122.112.221.240/index.php/207/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-14
+
+    漏洞简介CVE-2021-26614 ipTIME C200摄像头存在后门，可以造成rce，当时还是属于1day状态poc：跟随https://www.iotsec-zone.com/article/135的思路进行1day的分析看看补丁比对分析比对漏洞补丁c200_1_058.bin与c200_1_060.bin各自的iux_get.cgi，...
     ### [Netgear DGN1000 RCE](http://122.112.221.240/index.php/136/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-13
 
@@ -151,9 +155,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
 
     HTB gamepwn CubeMadness1&CubeMadness2...
-    ### [Ugra CTF Quals 2024复盘](http://dis4.cn/post/1)  
-    >by [Lobok](https://dis4.cn), 2024-02-13
-
-    这次Web属于有思路，但是最后不知道怎么做的，复盘了下还是学到东西了WebWicket gate:::info{title="URL"}https://wicketgate.q.2024.ugractf.ru/j62t0oc2vyvm6k0j:::首先打开有三个页面（首页/登录/目录)目录页面没登录状态下是访问不了的，所以只...
 
 </div>
