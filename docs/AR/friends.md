@@ -91,10 +91,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
     无法提供摘要。这是一篇受保护的文章。...
-    ### [ctfshow web做题记录](https://www.shark45.cn/2024/03/12/ctfshow-web%e5%81%9a%e9%a2%98%e8%ae%b0%e5%bd%95/)  
-    >by [shark](https://www.shark45.cn/), 2024-03-12
-
-    ①、查看源码，有一串令人在意的字符，查询后发现是base64编码，解一下就知道flag了②、很明显的sql注入这里说二种解法第一种：sql注入第一步： 万能密码，用1和1’判断是什么类型的注入。随后用or语句判断真假后面必须为真值再用#注释掉后面的内容。1′ or true #第二步：查字段数，先用order by语句1′ or true order b...
     ### [3.9本周小结](http://122.112.221.240/index.php/83/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
@@ -155,5 +151,9 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
 
     HTB gamepwn CubeMadness1&CubeMadness2...
+    ### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
+
+    其中rax, qword ptr [rdi + 0xa0] rax会被赋值为wide_data结构体的地址(rdi是我们伪造的io结构体地址)mov    rax, qword ptr [rax + 0xe0] rax被赋值为指向wide_data结构体+0xe0的地址。在_IO_switch_to_wget_mode 函数可以进行一次任意执行。最后可以进入_IO_switch_to_wget_m...
 
 </div>
