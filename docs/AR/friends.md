@@ -75,15 +75,19 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
-    ### [IpTIME C200 BackdoorRCE(CVE-2021-26614)](http://122.112.221.240/index.php/207/)  
+    ### [3.17 本周小结](http://ba1100n.tech/index.php/222/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-17
+
+    这样公布学习进展的方式对我来说是某一种监督，接受透明的监督让我觉得后背发凉，但同时也让我反思了不少上周进展的问题这周算是对漏洞复现开了个头，但其实以老师的任务为重，然后把工位的电脑什么的搞好了，感觉在那边学习其实可以学得很快，椅子和空气都舒服多了而且周日到周四上午的进展还是比较快的，课堂上见缝插针地去学习老师、自己的东西，然后课下完成老师的任务以后开始自己的学习，那几天晚上还搞到很...
+    ### [IpTIME C200 BackdoorRCE(CVE-2021-26614)](http://ba1100n.tech/index.php/207/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-14
 
     漏洞简介CVE-2021-26614 ipTIME C200摄像头存在后门，可以造成rce，当时还是属于1day状态poc：跟随https://www.iotsec-zone.com/article/135的思路进行1day的分析看看补丁比对分析比对漏洞补丁c200_1_058.bin与c200_1_060.bin各自的iux_get.cgi，...
-    ### [Netgear DGN1000 RCE](http://122.112.221.240/index.php/136/)  
+    ### [Netgear DGN1000 RCE](http://ba1100n.tech/index.php/136/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-13
 
     前言声明：技术讨论仅限合法用途，不要用于从事相关违法行为，否则行为后果与本人无关实际上这里需要两枚漏洞才能达成rce效果，一枚是带有鉴权的rce，另一枚则是绕过鉴权而且这还是mirai变种比较青睐的一个漏洞漏洞详情带鉴权RCEpoc注意仅仅在英语的页面有这个syscmd.htmhttp://114.51.41.91/syscm...
-    ### [Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique](http://122.112.221.240/index.php/110/)  
+    ### [Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique](http://ba1100n.tech/index.php/110/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-13
 
     虽然研究方向目前不是这个，但上个学期因为课程缘故，精读完这篇顶会论文以后，不禁赞叹，韩国那边的作者团队真的太细致了，对这一时序侧信道问题进行了如此精细的思考和测试，还提出了缓解方案，甚至基于未来应用该方案的考量，对其进行了性能测试。无论是不是做相关领域的事情，都要有这种探究精神👍很棒很棒但在反复思考的过程中，发现了缓解方案仍然可以被绕过💀，当时放在课程报告里面了，刚刚想起来，感觉还是搬出来...
@@ -91,15 +95,15 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
     无法提供摘要。这是一篇受保护的文章。...
-    ### [3.9本周小结](http://122.112.221.240/index.php/83/)  
+    ### [3.9本周小结](http://ba1100n.tech/index.php/83/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
     更换科研的方向，实际上跟IOT安全有关系，好消息是不需要搞ai相关的东西了，而且不需要自己瞎搞了摸清楚了新的学期的事情，课程还是挺多的，打了两台靶机以后就去专攻科研了，而且有点奇怪，我的靶机环境有些是不能走通的，折腾了大半天，但别人却可以QwQ，为了保持一定的学习速度就没有细究了IOT安全看了三个漏洞，其实偏web的那些理解起来不难，很快的，就是工具实在难安装。。。我是说firmw...
-    ### [Zyxel硬编码后门(CVE-2020-29583)](http://122.112.221.240/index.php/79/)  
+    ### [Zyxel硬编码后门(CVE-2020-29583)](http://ba1100n.tech/index.php/79/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
     漏洞详情Zyxel (CVE-2020-29583) 硬编码后门Username: zyfwpPassword: PrOw!aN_fXp概括Zyxel 发布了针对荷兰 EYE 研究人员最近报告的防火墙和 AP 控制器硬编码凭证漏洞的补丁。建议用户安装适用的固件更新以获得最佳保护。 漏洞是什么？在某些 Zyxel 防火墙和 AP 控制器的“zy...
-    ### [浅谈CGI](http://122.112.221.240/index.php/68/)  
+    ### [浅谈CGI](http://ba1100n.tech/index.php/68/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
     虽说目前的web服务基本上都是基于前后端解耦的各种框架进行开发，之前学head first servlet这本书的时候甚至看到作者当时（十年前）就说CGI技术已经比较落后了但是目前看到有好些物联网设备都是使用CGI技术的，所以可以了解一下，实际上跟servlet有一些相似之处。以网上现成的例子（https://blog.csdn.net/no_pao_spite/article/d...
@@ -107,11 +111,11 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
 
     无法提供摘要。这是一篇受保护的文章。...
-    ### [D-Link DIR-823G命令注入（CVE-2021-43474）](http://122.112.221.240/index.php/13/)  
+    ### [D-Link DIR-823G命令注入（CVE-2021-43474）](http://ba1100n.tech/index.php/13/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-08
 
     前言实际上goahead是个漏洞高发区，学习一下有很多好处只搞到了D-Link DIR-823G v1.02 B03没有搞到D-Link DIR-823G v1.02 B05的固件，不过大差不差漏洞详情固件解包惯例binwalk可以看到有个Squashfs文件系统，漏洞存在于web文件夹内：开放服务情况...
-    ### [Hello world!](http://122.112.221.240/index.php/1/)  
+    ### [Hello world!](http://ba1100n.tech/index.php/1/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-08
 
     Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Hello world!最先出现在ba1100n。...
@@ -151,9 +155,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
 
     HTB gamepwn CubeMadness1&CubeMadness2...
-    ### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
-
-    其中rax, qword ptr [rdi + 0xa0] rax会被赋值为wide_data结构体的地址(rdi是我们伪造的io结构体地址)mov    rax, qword ptr [rax + 0xe0] rax被赋值为指向wide_data结构体+0xe0的地址。在_IO_switch_to_wget_mode 函数可以进行一次任意执行。最后可以进入_IO_switch_to_wget_m...
 
 </div>
