@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [LD_PRELOAD与linux木马的一种隐匿方法](http://ba1100n.tech/index.php/257/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-20
+
+    LD_PRELOADLinux ELF 共享库加载顺序LD_PRELOAD -> /etc/ld.so.preload -> DT_RPATH(编译指定) -> LD_LIBRARY_PATH -> [/etc/ld.so.conf] -> /lib -> /usr/lib什么是LD_PRELOAD(Load Preload，加载的预加载)正常情况下...
     ### [3.17 本周小结](http://ba1100n.tech/index.php/222/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-17
 
@@ -151,9 +155,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-14
 
     HTB game LightningFast...
-    ### [HTB gamepwn CubeMadness1&CubeMadness2](https://blog.csdn.net/qq_62172019/article/details/136107916)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
-
-    HTB gamepwn CubeMadness1&CubeMadness2...
 
 </div>
