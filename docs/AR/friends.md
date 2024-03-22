@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [工控协议漏挖入门之初尝boofuzz与电线鲨鱼抓包分析Modbus](http://ba1100n.tech/index.php/267/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-21
+
+    0x00 前言并非有意开新坑的，但是其实昨天上课学到了一下下，然后四节课里面塞了那么多东西感觉云里雾里的，所以想趁着还没忘记赶紧总结一下，以供日后不时之需，其实学习到的这方面的东西尚且非常浅薄。。。还请海涵而且听说工控的溢出漏洞其实很难转化成RCE，因为缺少很多库函数，但是，也恰恰是因为这是工控，如果存在远程的dos漏洞，就足以形成损失了，所以还请不要在fofa乱测试，如果真的伤及...
     ### [LD_PRELOAD与linux木马的一种隐匿方法](http://ba1100n.tech/index.php/257/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-20
 
@@ -119,10 +123,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-08
 
     前言实际上goahead是个漏洞高发区，学习一下有很多好处只搞到了D-Link DIR-823G v1.02 B03没有搞到D-Link DIR-823G v1.02 B05的固件，不过大差不差漏洞详情固件解包惯例binwalk可以看到有个Squashfs文件系统，漏洞存在于web文件夹内：开放服务情况...
-    ### [Hello world!](http://ba1100n.tech/index.php/1/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-03-08
-
-    Welcome to WordPress. This is your first post. Edit or delete it, then start writing!Hello world!最先出现在ba1100n。...
     ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
