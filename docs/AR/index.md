@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [3.24本周小结](http://ba1100n.tech/index.php/315/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-24
+
+    这周其实很低效率，很想很想复现点不一样的东西，结果就是，周一周二课比较多，而且都是不能偷学东西的课，但晚上没有珍惜时间，周一晚上玩RON刷S去了，（这游戏通关简单，但刷S是真的折磨）周二吃完饭甚至忍不住在宿舍玩了两小时才去工位（这byd游戏刷S是真的折磨）。。。那天晚上学习了MIPS的堆栈、寄存器之类的东西，为复现MIPS上的漏洞做准备，以及因为要配iot仿真环境，所以学习了一波LD_PR...
     ### [工控协议漏挖入门之初尝boofuzz与电线鲨鱼抓包分析Modbus](http://ba1100n.tech/index.php/267/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-21
 
@@ -119,10 +123,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
 
     无法提供摘要。这是一篇受保护的文章。...
-    ### [D-Link DIR-823G命令注入（CVE-2021-43474）](http://ba1100n.tech/index.php/13/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-03-08
-
-    前言实际上goahead是个漏洞高发区，学习一下有很多好处只搞到了D-Link DIR-823G v1.02 B03没有搞到D-Link DIR-823G v1.02 B05的固件，不过大差不差漏洞详情固件解包惯例binwalk可以看到有个Squashfs文件系统，漏洞存在于web文件夹内：开放服务情况...
     ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
