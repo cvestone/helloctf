@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [3.31本周小结](http://ba1100n.tech/index.php/325/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-31
+
+    这周前两天半其实一直在干活，在思考某件东西怎么改进优化，导致没有怎么复现漏洞什么的，周三下午上课的时候很认真地看完了一个内存漏洞的前因后果，然后后面逆向了主要的数据的流程，但发现目前自己还是在动态调试上太生疏了QwQ，后面回家了一下，所以这两天又没有学习。实际上最近确实研究了两个mips内存破坏方面的漏洞，但都没有来的及彻底搞清楚,虽然确实梳理出来了漏洞点前后的相关功能，也因为曾经的学习能...
     ### [3.24本周小结](http://ba1100n.tech/index.php/315/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-24
 
@@ -115,10 +119,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
     漏洞详情Zyxel (CVE-2020-29583) 硬编码后门Username: zyfwpPassword: PrOw!aN_fXp概括Zyxel 发布了针对荷兰 EYE 研究人员最近报告的防火墙和 AP 控制器硬编码凭证漏洞的补丁。建议用户安装适用的固件更新以获得最佳保护。 漏洞是什么？在某些 Zyxel 防火墙和 AP 控制器的“zy...
-    ### [浅谈CGI](http://ba1100n.tech/index.php/68/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
-
-    虽说目前的web服务基本上都是基于前后端解耦的各种框架进行开发，之前学head first servlet这本书的时候甚至看到作者当时（十年前）就说CGI技术已经比较落后了但是目前看到有好些物联网设备都是使用CGI技术的，所以可以了解一下，实际上跟servlet有一些相似之处。以网上现成的例子（https://blog.csdn.net/no_pao_spite/article/d...
     ### [密码保护：攻防艺术](https://www.su-cvestone.cn/260/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
 
