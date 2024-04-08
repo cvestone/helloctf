@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [4.7本周小结](http://ba1100n.tech/index.php/331/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-04-07
+
+    继续刚仿真环境修复。周一周二感觉有点混乱不知道怎么办好，尝试安装qiling框架，结果发现坑是真的多，比如IDA>=7.5的话，必须安装1.4.5的qiling而不是pip默认最新的1.4.6，以及qilingIDA插件的一些代码问题需要被手动修复。而且qiling的continue似乎有些小问题，下断点也会被无视掉，最好excute till。但是好在最后还是学会如何使用IDA的qiling插件...
     ### [3.31本周小结](http://ba1100n.tech/index.php/325/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-31
 
@@ -115,10 +119,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
 
     更换科研的方向，实际上跟IOT安全有关系，好消息是不需要搞ai相关的东西了，而且不需要自己瞎搞了摸清楚了新的学期的事情，课程还是挺多的，打了两台靶机以后就去专攻科研了，而且有点奇怪，我的靶机环境有些是不能走通的，折腾了大半天，但别人却可以QwQ，为了保持一定的学习速度就没有细究了IOT安全看了三个漏洞，其实偏web的那些理解起来不难，很快的，就是工具实在难安装。。。我是说firmw...
-    ### [Zyxel硬编码后门(CVE-2020-29583)](http://ba1100n.tech/index.php/79/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-03-09
-
-    漏洞详情Zyxel (CVE-2020-29583) 硬编码后门Username: zyfwpPassword: PrOw!aN_fXp概括Zyxel 发布了针对荷兰 EYE 研究人员最近报告的防火墙和 AP 控制器硬编码凭证漏洞的补丁。建议用户安装适用的固件更新以获得最佳保护。 漏洞是什么？在某些 Zyxel 防火墙和 AP 控制器的“zy...
     ### [密码保护：攻防艺术](https://www.su-cvestone.cn/260/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
 
