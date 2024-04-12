@@ -123,22 +123,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
 
     无法提供摘要。这是一篇受保护的文章。...
-    ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
-
-    xnuca2020-babyV8...
-    ### [*ctf 2019 oob](https://blog.csdn.net/qq_62172019/article/details/136294799)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-26
-
-    *ctf 2019 oob...
-    ### [HTB pwn Dragon Army](https://blog.csdn.net/qq_62172019/article/details/136264417)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-23
-
-    HTB pwn Dragon Army...
-    ### [HTB pwn Bad grades&Restaurant](https://blog.csdn.net/qq_62172019/article/details/136181222)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-19
-
-    HTB pwn Bad grades&Restaurant...
     ### [CTFwebSSRF篇](http://www.heyumeng.online/index.php/181/)  
     >by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
 
@@ -147,13 +131,29 @@ hide:
     >by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
 
     CTFshow WEB入门XSS跨站脚本攻击XSS漏洞通常分为三种类型：反射型XSS、存储型XSS、DOM-Based XSSweb316题目如图所示，使用经典语句<script>alert(1)</script>测试成功，在攻击服务器准备一个文件接收cookie，get.php<?php$cookie=$_GET['c'];$myfile=fopen("cookie.txt","w...
-    ### [HTB pwn Evil Corp](https://blog.csdn.net/qq_62172019/article/details/136121775)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-15
+    ### [THM](https://www.su-cvestone.cn/153/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-26
 
-    HTB pwn Evil Corp...
-    ### [HTB gamepwn LightningFast](https://blog.csdn.net/qq_62172019/article/details/136114870)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-14
+    Snort Challenge - The Basics Task 3:Writing IDS Rules (FTP) 问题：使用 ......
+    ### [231216WargamesMY CTF](https://www.su-cvestone.cn/144/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-19
 
-    HTB game LightningFast...
+    pwn Magic Door 考察点： （1）查看程序保护 开了nx保护，利用shellcode困难，且是amd64 （2）查看程 ......
+    ### [hexo+githubpage搭建并添加博客RSS](https://www.su-cvestone.cn/135/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-17
+
+    非原创，由各个博客综合提取，主要为了查找方便，感谢这些bloggers提供的珍贵参考材料 安装必要环境 node 下载对应操作系统 ......
+    ### [wordpress报道篇](https://qsheep24.wordpress.com/2024/01/17/wordpress%e6%8a%a5%e9%81%93%e7%af%87/)  
+    >by [q1@N9](https://qsheep24.wordpress.com), 2024-01-17
+
+    cppu在读本科小白，，hello world以后也会坚持完善个人blog...
+    ### [CTFweb如何爆破呢](http://www.heyumeng.online/index.php/157/)  
+    >by [HeYuMeng](http://www.heyumeng.online/), 2024-01-16
+
+    CTFshow WEB入门爆破web21这里第一题，我们看到需要输入账号密码登录，打开burp抓个包看看，输入账号密码后，在抓包历史中我找到了验证包，看到了什么，看到了==，应该是base64编码，去md5在线查了可以猜出来账号密码中间用分号隔开，然后利用bp，自定义迭代，载入字典，开始跑就行了正确的编码显而易见，把最后一串编码解密就得到了账号密码，然后回去输入账号密码就可以看到flag了，...
+    ### [HTB_machines](https://www.su-cvestone.cn/128/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-15
+
+    PivotAPI “红队笔记”学习记录 机器介绍 Pivotapi is an insane machine that invol ......
 
 </div>
