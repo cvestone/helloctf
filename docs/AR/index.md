@@ -75,6 +75,46 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [WordPress的Sakurairo主题每当增加新文章就会让整个网站都打不开的解决方案](http://ba1100n.tech/?p=391)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-04-13
+
+    大半年前有人提过issue可是被作者无视啦，放在这里备用一下，以免有遇到一样问题的人，希望百度等搜索引擎的spider能够爬到这里 ......
+    ### [4.13本周小结](http://ba1100n.tech/?p=388)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-04-13
+
+    这周的前两天做的事情其实主要还是之前那些调试什么的，然后分心去玩好多年没玩的d5人格了，更新的人物好好看，真好玩（￣▽￣）d　 周 ......
+    ### [恢复D-Link DIR-605L(FW_113)固件运行环境的详细踩坑过程](http://ba1100n.tech/?p=335)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-04-10
+
+    前言 感觉iot这块最麻烦的还是仿真和动态调试，因为硬件的缺失，固件的执行过程中总是会缺失部分内容，从而使得仿真、调试失败 这段时 ......
+    ### [4.7本周小结](http://ba1100n.tech/?p=331)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-04-07
+
+    继续刚仿真环境修复。周一周二感觉有点混乱不知道怎么办好，尝试安装qiling框架，结果发现坑是真的多，比如IDA>=7.5的话，必 ......
+    ### [3.31本周小结](http://ba1100n.tech/?p=325)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-31
+
+    这周前两天半其实一直在干活，在思考某件东西怎么改进优化，导致没有怎么复现漏洞什么的，周三下午上课的时候很认真地看完了一个内存漏洞的 ......
+    ### [3.24本周小结](http://ba1100n.tech/?p=315)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-24
+
+    这周其实很低效率，很想很想复现点不一样的东西，结果就是，周一周二课比较多，而且都是不能偷学东西的课，但晚上没有珍惜时间，周一晚上玩 ......
+    ### [工控协议漏挖入门之初尝boofuzz与电线鲨鱼抓包分析Modbus](http://ba1100n.tech/?p=267)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-21
+
+    0x00 前言 并非有意开新坑的，但是其实昨天上课学到了一下下，然后四节课里面塞了那么多东西感觉云里雾里的，所以想趁着还没忘记赶紧 ......
+    ### [LD_PRELOAD与linux木马的一种隐匿方法](http://ba1100n.tech/?p=257)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-20
+
+    LD_PRELOAD Linux ELF 共享库加载顺序 LD_PRELOAD -> /etc/ld.so.preload  ......
+    ### [3.17 本周小结](http://ba1100n.tech/?p=222)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-17
+
+    这样公布学习进展的方式对我来说是某一种监督，接受透明的监督让我觉得后背发凉，但同时也让我反思了不少上周进展的问题 这周算是对漏洞复 ......
+    ### [IpTIME C200 BackdoorRCE(CVE-2021-26614)](http://ba1100n.tech/?p=207)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-03-14
+
+    漏洞简介 CVE-2021-26614 ipTIME C200摄像头存在后门，可以造成rce，当时还是属于1day状态 poc：  ......
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
@@ -115,45 +155,5 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-01-15
 
     PivotAPI “红队笔记”学习记录 机器介绍 Pivotapi is an insane machine that invol ......
-    ### [offsec PG lab](https://www.su-cvestone.cn/125/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-14
-
-    简单 PlanetExpress 端口扫描 可知目标web服务用了Pico CMS系统，优先看web服务 暂时没找到可利用点，尝试 ......
-    ### [安全开发实验室](https://www.su-cvestone.cn/88/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-05
-
-    每天一安全开发，脚本小子远离我~ 本实验室专门分析一些安全工具的代码，知其然知其所以然，持续更新......
-    ### [计算机等级备考心得](http://www.heyumeng.online/index.php/80/)  
-    >by [HeYuMeng](http://www.heyumeng.online/), 2024-01-03
-
-    自动化专业计算机二级WPS已过，计算机三级网络技术已过，计算机四级网络工程师已过。同学L：计算机在日常生活中无处不在，涉及各个方面的领域，在学习计算机二级后可以学到很多技能知识应用到各个方面，解决很多问题，在备考时我经常在b站搜索教程便于我更好的理解和掌握他的使用方法，我考的是二级wps office，当然他可供九种选择，wps是我认为简单且实用的其中之一，做题过程中首先要仔细阅读弄清基本...
-    ### [HTB_ctf](https://www.su-cvestone.cn/76/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-01
-
-    Hardware Debugging Interface 考察点 SALEAE Logic分析器的异步串行解码操作 描述 We a ......
-    ### [Pingctf2023 Dangleme 复现](https://antigone4224.github.io/PingCTF2023-dangleme-%E5%A4%8D%E7%8E%B0)  
-    >by [antigone](https://antigone4224.github.io/), 2023-12-29
-
-    复现:Pingctf 2023 dangleme环境搭建用官方wp在本地发现打不通，只能试着去复现官方题目的环境，下载文件查看dockerfile后发现，他们使用了redpwnjail搭建题目环境,FAQ里有如何更改dockerfile辅助调试的方法,其实也就是撤销将环境迁移进jail的过程，然后再安装一些调试所需要的工具，python3环境，gdb，pwntools，pwndbg这些...
-    ### [ctfshow](https://www.su-cvestone.cn/30/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2023-12-27
-
-    菜狗杯 misc 损坏的压缩包 考察点：文件不符改后缀 先丢到binwalk分析，发现是由png和zlib文件组成的，再丢到win ......
-    ### [CTFweb信息搜集篇](http://www.heyumeng.online/index.php/7/)  
-    >by [HeYuMeng](http://www.heyumeng.online/), 2023-12-13
-
-    在CTFshow平台刷了web入门的信息搜集篇的题目，对这篇内容做个总结。查看网页源代码鼠标右击会看到”查看源代码可以使用快捷Ctrl+U来查看源码Q在地址栏前面加上view-source，如view-source: https://www.baidu.com;浏览器的设置菜单框中，找到“更多工具”，然后再找开发者工具，也可以查看网页源代码通过bu...
-    ### [你好！](http://www.heyumeng.online/index.php/1/)  
-    >by [HeYuMeng](http://www.heyumeng.online/), 2023-12-13
-
-    欢迎来到我的博客！...
-    ### [Yet Another Sample Page](https://antigone4224.github.io/Yet-Another-Sample-Page)  
-    >by [antigone](https://antigone4224.github.io/), 2018-01-06
-
-    Text can be bold, italic, strikethrough or keyword.Link to another page.There should be whitespace between paragraphs.There should be whitespace between paragraphs. We recommend including a READ...
-    ### [Sample Page](https://antigone4224.github.io/Sample-Page)  
-    >by [antigone](https://antigone4224.github.io/), 2017-12-12
-
-    Text can be bold, italic, strikethrough or keyword.Link to another page.There should be whitespace between paragraphs.There should be whitespace between paragraphs. We recommend including a READ...
 
 </div>
