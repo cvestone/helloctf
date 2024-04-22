@@ -75,6 +75,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [4.21本周小结](http://ba1100n.tech/?p=455)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
+
+    其实这周还是挺充实的，上周英语方面有些小任务，完成了以后就开始看了看那些固件加解密的东西，然后发现我的IDA版本有点老(7.5)， ......
+    ### [浅析linux系统加载：从CPU加电到用户态，讲讲BIOS、UEFI、MBR引导、GRUB引导](http://ba1100n.tech/?p=417)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
+
+    前言 由于解密固件方面的逆向需要，所以需要了解linux系统加载机制。花了我好几天来来去去缕清关系和学习，学的时候还是慎用语言大模 ......
     ### [WordPress的Sakurairo主题每当增加新文章就会让整个网站都打不开的解决方案](http://ba1100n.tech/?p=391)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-13
 
@@ -107,14 +115,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-20
 
     LD_PRELOAD Linux ELF 共享库加载顺序 LD_PRELOAD -> /etc/ld.so.preload  ......
-    ### [3.17 本周小结](http://ba1100n.tech/?p=222)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-03-17
-
-    这样公布学习进展的方式对我来说是某一种监督，接受透明的监督让我觉得后背发凉，但同时也让我反思了不少上周进展的问题 这周算是对漏洞复 ......
-    ### [IpTIME C200 BackdoorRCE(CVE-2021-26614)](http://ba1100n.tech/?p=207)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-03-14
-
-    漏洞简介 CVE-2021-26614 ipTIME C200摄像头存在后门，可以造成rce，当时还是属于1day状态 poc：  ......
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
