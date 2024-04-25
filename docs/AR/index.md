@@ -123,14 +123,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
 
     无法提供摘要。这是一篇受保护的文章。...
-    ### [CTFwebSSRF篇](http://www.heyumeng.online/index.php/181/)  
-    >by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
-
-    CTFshow WEB入门SSRF服务端请求伪造web351url=http:/127.0.0.1/flag.phpweb352url=http://127.0.0.2/flag.phpweb353url=http://2130706433/flag.phpurl=http://0x7f.0.0.1/flag.phpurl=http://0/flag.phpurl=htt...
-    ### [CTFwebXSS篇](http://www.heyumeng.online/index.php/176/)  
-    >by [HeYuMeng](http://www.heyumeng.online/), 2024-02-16
-
-    CTFshow WEB入门XSS跨站脚本攻击XSS漏洞通常分为三种类型：反射型XSS、存储型XSS、DOM-Based XSSweb316题目如图所示，使用经典语句<script>alert(1)</script>测试成功，在攻击服务器准备一个文件接收cookie，get.php<?php$cookie=$_GET['c'];$myfile=fopen("cookie.txt","w...
     ### [THM](https://www.su-cvestone.cn/153/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-01-26
 
@@ -147,13 +139,21 @@ hide:
     >by [q1@N9](https://qsheep24.wordpress.com), 2024-01-17
 
     cppu在读本科小白，，hello world以后也会坚持完善个人blog...
-    ### [CTFweb如何爆破呢](http://www.heyumeng.online/index.php/157/)  
-    >by [HeYuMeng](http://www.heyumeng.online/), 2024-01-16
-
-    CTFshow WEB入门爆破web21这里第一题，我们看到需要输入账号密码登录，打开burp抓个包看看，输入账号密码后，在抓包历史中我找到了验证包，看到了什么，看到了==，应该是base64编码，去md5在线查了可以猜出来账号密码中间用分号隔开，然后利用bp，自定义迭代，载入字典，开始跑就行了正确的编码显而易见，把最后一串编码解密就得到了账号密码，然后回去输入账号密码就可以看到flag了，...
     ### [HTB_machines](https://www.su-cvestone.cn/128/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-01-15
 
     PivotAPI “红队笔记”学习记录 机器介绍 Pivotapi is an insane machine that invol ......
+    ### [offsec PG lab](https://www.su-cvestone.cn/125/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-14
+
+    简单 PlanetExpress 端口扫描 可知目标web服务用了Pico CMS系统，优先看web服务 暂时没找到可利用点，尝试 ......
+    ### [安全开发实验室](https://www.su-cvestone.cn/88/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-05
+
+    每天一安全开发，脚本小子远离我~ 本实验室专门分析一些安全工具的代码，知其然知其所以然，持续更新......
+    ### [HTB_ctf](https://www.su-cvestone.cn/76/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-01
+
+    Hardware Debugging Interface 考察点 SALEAE Logic分析器的异步串行解码操作 描述 We a ......
 
 </div>
