@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [4.28本周小结](http://ba1100n.tech/?p=460)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-04-28
+
+    在看完CPU加电直到linux系统初始化完成，第一个main函数被执行的那种过程以后，对bzImage镜像文件的逆向过程变得比较丝 ......
     ### [4.21本周小结](http://ba1100n.tech/?p=455)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
 
@@ -111,10 +115,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-03-21
 
     0x00 前言 并非有意开新坑的，但是其实昨天上课学到了一下下，然后四节课里面塞了那么多东西感觉云里雾里的，所以想趁着还没忘记赶紧 ......
-    ### [LD_PRELOAD与linux木马的一种隐匿方法](http://ba1100n.tech/?p=257)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-03-20
-
-    LD_PRELOAD Linux ELF 共享库加载顺序 LD_PRELOAD -> /etc/ld.so.preload  ......
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
