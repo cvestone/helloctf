@@ -75,46 +75,46 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
-    ### [从bzImage启动镜像到解密固件得到文件系统](http://ba1100n.tech/iot_security/474/)  
+    ### [从bzImage启动镜像到解密固件得到文件系统](http://ba1100n.tech/iot_security/%e4%bb%8ebzimage%e5%90%af%e5%8a%a8%e9%95%9c%e5%83%8f%e5%88%b0%e8%a7%a3%e5%af%86%e5%9b%ba%e4%bb%b6%e5%be%97%e5%88%b0%e6%96%87%e4%bb%b6%e7%b3%bb%e7%bb%9f/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-07
 
-    前言 就是为了学这个事情所以去学习了linux底层机制，包括CPU加电直到第一个main函数的过程 在知晓其机制以前，刚开始是对着 ......
-    ### [五一摸鱼特别篇：世界是参差的，对他人评价实际是自我的某种映射](http://ba1100n.tech/after_meal/469/)  
+    前言 就是为了学这个事情所以去学习了linux底层机制，包括CPU加电直到第一个main函数的过程 在知晓其机 […]...
+    ### [五一摸鱼特别篇：世界是参差的，对他人评价实际是自我的某种映射](http://ba1100n.tech/after_meal/%e4%ba%94%e4%b8%80%e6%91%b8%e9%b1%bc%e7%89%b9%e5%88%ab%e7%af%87%ef%bc%9a%e4%b8%96%e7%95%8c%e6%98%af%e5%8f%82%e5%b7%ae%e7%9a%84%ef%bc%8c%e5%af%b9%e4%bb%96%e4%ba%ba%e8%af%84%e4%bb%b7%e5%ae%9e%e9%99%85/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-05
 
-    既然五一这周几乎啥都没做成，那就简单聊聊这段时间对人生的新体会吧_(:з」∠)_非常乱，好难组织语言，因为很少见到有人讨论，所以语 ......
-    ### [5.5本周小结](http://ba1100n.tech/after_meal/462/)  
+    既然五一这周几乎啥都没做成，那就简单聊聊这段时间对人生的新体会吧_(:з」∠)_非常乱，好难组织语言，因为很少 […]...
+    ### [5.5本周小结](http://ba1100n.tech/after_meal/5-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-05
 
-    五一彻底摆烂，没有之前国庆长假那样认真了，放假每天都想出去看看。学习时间基本上研究在跑起来qemu system之后，怎么仅仅使用 ......
-    ### [4.28本周小结](http://ba1100n.tech/after_meal/460/)  
+    五一彻底摆烂，没有之前国庆长假那样认真了，放假每天都想出去看看。学习时间基本上研究在跑起来qemu syste […]...
+    ### [4.28本周小结](http://ba1100n.tech/after_meal/4-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-28
 
-    在看完CPU加电直到linux系统初始化完成，第一个main函数被执行的那种过程以后，对bzImage镜像文件的逆向过程变得比较丝 ......
-    ### [4.21本周小结](http://ba1100n.tech/after_meal/455/)  
+    在看完CPU加电直到linux系统初始化完成，第一个main函数被执行的那种过程以后，对bzImage镜像文件 […]...
+    ### [4.21本周小结](http://ba1100n.tech/after_meal/4-21%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
 
-    其实这周还是挺充实的，上周英语方面有些小任务，完成了以后就开始看了看那些固件加解密的东西，然后发现我的IDA版本有点老(7.5)， ......
-    ### [浅析linux系统加载：从CPU加电到用户态，讲讲BIOS、UEFI、MBR引导、GRUB引导](http://ba1100n.tech/iot_basic/417/)  
+    其实这周还是挺充实的，上周英语方面有些小任务，完成了以后就开始看了看那些固件加解密的东西，然后发现我的IDA版 […]...
+    ### [浅析linux系统加载：从CPU加电到用户态，讲讲BIOS、UEFI、MBR引导、GRUB引导](http://ba1100n.tech/iot_basic/%e6%b5%85%e6%9e%90linux%e7%b3%bb%e7%bb%9f%e5%8a%a0%e8%bd%bd%ef%bc%9a%e4%bb%8ecpu%e5%8a%a0%e7%94%b5%e5%88%b0%e7%94%a8%e6%88%b7%e6%80%81%ef%bc%8c%e8%ae%b2%e8%ae%b2bios%e3%80%81uefi%e3%80%81mbr%e5%bc%95/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
 
-    前言 由于解密固件方面的逆向需要，所以需要了解linux系统加载机制。花了我好几天来来去去缕清关系和学习，学的时候还是慎用语言大模 ......
-    ### [WordPress的Sakurairo主题每当增加新文章就会让整个网站都打不开的解决方案](http://ba1100n.tech/after_meal/391/)  
+    前言 由于解密固件方面的逆向需要，所以需要了解linux系统加载机制。花了我好几天来来去去缕清关系和学习，学的 […]...
+    ### [WordPress的Sakurairo主题每当增加新文章就会让整个网站都打不开的解决方案](http://ba1100n.tech/after_meal/sakurairo%e6%a1%86%e6%9e%b6%e6%af%8f%e5%bd%93%e5%a2%9e%e5%8a%a0%e6%96%b0%e6%96%87%e7%ab%a0%e5%b0%b1%e4%bc%9a%e8%ae%a9%e6%95%b4%e4%b8%aa%e7%bd%91%e7%ab%99%e9%83%bd%e6%89%93%e4%b8%8d%e5%bc%80%e7%9a%84/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-13
 
-    大半年前有人提过issue可是被作者无视啦，放在这里备用一下，以免有遇到一样问题的人，希望百度等搜索引擎的spider能够爬到这里 ......
-    ### [4.13本周小结](http://ba1100n.tech/after_meal/388/)  
+    大半年前有人提过issue可是被作者无视啦，放在这里备用一下，以免有遇到一样问题的人，希望百度等搜索引擎的sp […]...
+    ### [4.13本周小结](http://ba1100n.tech/after_meal/4-13%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-13
 
-    这周的前两天做的事情其实主要还是之前那些调试什么的，然后分心去玩好多年没玩的d5人格了，更新的人物好好看，真好玩（￣▽￣）d　 周 ......
-    ### [恢复D-Link DIR-605L(FW_113)固件运行环境的详细踩坑过程](http://ba1100n.tech/iot_security/335/)  
+    这周的前两天做的事情其实主要还是之前那些调试什么的，然后分心去玩好多年没玩的d5人格了，更新的人物好好看，真好 […]...
+    ### [恢复D-Link DIR-605L(FW_113)固件运行环境的详细踩坑过程](http://ba1100n.tech/iot_security/%e6%81%a2%e5%a4%8dd-link-dir-605lfw_113%e5%9b%ba%e4%bb%b6%e8%bf%90%e8%a1%8c%e7%8e%af%e5%a2%83%e7%9a%84%e8%af%a6%e7%bb%86%e8%b8%a9%e5%9d%91%e8%bf%87%e7%a8%8b/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-10
 
-    前言 感觉iot这块最麻烦的还是仿真和动态调试，因为硬件的缺失，固件的执行过程中总是会缺失部分内容，从而使得仿真、调试失败 这段时 ......
-    ### [4.7本周小结](http://ba1100n.tech/after_meal/331/)  
+    前言 感觉iot这块最麻烦的还是仿真和动态调试，因为硬件的缺失，固件的执行过程中总是会缺失部分内容，从而使得仿 […]...
+    ### [4.7本周小结](http://ba1100n.tech/after_meal/4-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-07
 
-    继续刚仿真环境修复。周一周二感觉有点混乱不知道怎么办好，尝试安装qiling框架，结果发现坑是真的多，比如IDA>=7.5的话，必 ......
+    继续刚仿真环境修复。周一周二感觉有点混乱不知道怎么办好，尝试安装qiling框架，结果发现坑是真的多，比如ID […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
