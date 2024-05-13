@@ -75,6 +75,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [5.12本周小结](http://ba1100n.tech/after_meal/5-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-05-12
+
+    学完前置知识，整完那个固件解密以后，对于这方面的知识感觉得到了补充，现在欠缺的，1是漏洞利用，2是fuzz 其 […]...
+    ### [get_started_3dsctf_2016预期解和非预期解](http://ba1100n.tech/binary_security/get_started_3dsctf_2016%e9%a2%84%e6%9c%9f%e8%a7%a3%e5%92%8c%e9%9d%9e%e9%a2%84%e6%9c%9f%e8%a7%a3/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-05-12
+
+    前言 很久没有pwn了，最近复现漏洞发现还是得回看一下，遇到很有意思的一题，这题不是一般的模版题，特别地，这是 […]...
     ### [从bzImage启动镜像到解密固件得到文件系统](http://ba1100n.tech/iot_security/%e4%bb%8ebzimage%e5%90%af%e5%8a%a8%e9%95%9c%e5%83%8f%e5%88%b0%e8%a7%a3%e5%af%86%e5%9b%ba%e4%bb%b6%e5%be%97%e5%88%b0%e6%96%87%e4%bb%b6%e7%b3%bb%e7%bb%9f/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-07
 
@@ -107,14 +115,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-13
 
     这周的前两天做的事情其实主要还是之前那些调试什么的，然后分心去玩好多年没玩的d5人格了，更新的人物好好看，真好 […]...
-    ### [恢复D-Link DIR-605L(FW_113)固件运行环境的详细踩坑过程](http://ba1100n.tech/iot_security/%e6%81%a2%e5%a4%8dd-link-dir-605lfw_113%e5%9b%ba%e4%bb%b6%e8%bf%90%e8%a1%8c%e7%8e%af%e5%a2%83%e7%9a%84%e8%af%a6%e7%bb%86%e8%b8%a9%e5%9d%91%e8%bf%87%e7%a8%8b/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-04-10
-
-    前言 感觉iot这块最麻烦的还是仿真和动态调试，因为硬件的缺失，固件的执行过程中总是会缺失部分内容，从而使得仿 […]...
-    ### [4.7本周小结](http://ba1100n.tech/after_meal/4-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-04-07
-
-    继续刚仿真环境修复。周一周二感觉有点混乱不知道怎么办好，尝试安装qiling框架，结果发现坑是真的多，比如ID […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
