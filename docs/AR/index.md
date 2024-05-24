@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
+
+    蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ......
     ### [5.19本周小结](http://ba1100n.tech/after_meal/5-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-19
 
@@ -123,37 +127,33 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
 
     无法提供摘要。这是一篇受保护的文章。...
-    ### [THM](https://www.su-cvestone.cn/153/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-26
+    ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
-    Snort Challenge - The Basics Task 3:Writing IDS Rules (FTP) 问题：使用 ......
-    ### [231216WargamesMY CTF](https://www.su-cvestone.cn/144/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-19
+    xnuca2020-babyV8...
+    ### [*ctf 2019 oob](https://blog.csdn.net/qq_62172019/article/details/136294799)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-26
 
-    pwn Magic Door 考察点： （1）查看程序保护 开了nx保护，利用shellcode困难，且是amd64 （2）查看程 ......
-    ### [hexo+githubpage搭建并添加博客RSS](https://www.su-cvestone.cn/135/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-17
+    *ctf 2019 oob...
+    ### [HTB pwn Dragon Army](https://blog.csdn.net/qq_62172019/article/details/136264417)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-23
 
-    非原创，由各个博客综合提取，主要为了查找方便，感谢这些bloggers提供的珍贵参考材料 安装必要环境 node 下载对应操作系统 ......
-    ### [wordpress报道篇](https://qsheep24.wordpress.com/2024/01/17/wordpress%e6%8a%a5%e9%81%93%e7%af%87/)  
-    >by [q1@N9](https://qsheep24.wordpress.com), 2024-01-17
+    HTB pwn Dragon Army...
+    ### [HTB pwn Bad grades&Restaurant](https://blog.csdn.net/qq_62172019/article/details/136181222)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-19
 
-    cppu在读本科小白，，hello world以后也会坚持完善个人blog...
-    ### [HTB_machines](https://www.su-cvestone.cn/128/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-15
+    HTB pwn Bad grades&Restaurant...
+    ### [HTB pwn Evil Corp](https://blog.csdn.net/qq_62172019/article/details/136121775)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-15
 
-    PivotAPI “红队笔记”学习记录 机器介绍 Pivotapi is an insane machine that invol ......
-    ### [offsec PG lab](https://www.su-cvestone.cn/125/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-14
+    HTB pwn Evil Corp...
+    ### [HTB gamepwn LightningFast](https://blog.csdn.net/qq_62172019/article/details/136114870)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-14
 
-    简单 PlanetExpress 端口扫描 可知目标web服务用了Pico CMS系统，优先看web服务 暂时没找到可利用点，尝试 ......
-    ### [安全开发实验室](https://www.su-cvestone.cn/88/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-05
+    HTB game LightningFast...
+    ### [HTB gamepwn CubeMadness1&CubeMadness2](https://blog.csdn.net/qq_62172019/article/details/136107916)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
 
-    每天一安全开发，脚本小子远离我~ 本实验室专门分析一些安全工具的代码，知其然知其所以然，持续更新......
-    ### [HTB_ctf](https://www.su-cvestone.cn/76/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-01-01
-
-    Hardware Debugging Interface 考察点 SALEAE Logic分析器的异步串行解码操作 描述 We a ......
+    HTB gamepwn CubeMadness1&CubeMadness2...
 
 </div>
