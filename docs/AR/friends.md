@@ -75,10 +75,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
-    ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
+    ### [浅析SROP:SigReturn Oriented Programming技术](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90sigreturn-oriented-programming/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-05-26
 
-    蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ......
+    简介 SROP(S for Sigreturn)技术在2014年被提出，论文原文在https://www.cs […]...
+    ### [5.26本周小结](http://ba1100n.tech/after_meal/5-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-05-26
+
+    学校事情巨大多，大部分时间用在了某件学校突然要用到的特别重大的事情的信息收集和沟通，这件事情仅仅是开了个头，以 […]...
     ### [5.19本周小结](http://ba1100n.tech/after_meal/5-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-19
 
@@ -111,22 +115,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
 
     其实这周还是挺充实的，上周英语方面有些小任务，完成了以后就开始看了看那些固件加解密的东西，然后发现我的IDA版 […]...
-    ### [浅析linux系统加载：从CPU加电到用户态，讲讲BIOS、UEFI、MBR引导、GRUB引导](http://ba1100n.tech/iot_basic/%e6%b5%85%e6%9e%90linux%e7%b3%bb%e7%bb%9f%e5%8a%a0%e8%bd%bd%ef%bc%9a%e4%bb%8ecpu%e5%8a%a0%e7%94%b5%e5%88%b0%e7%94%a8%e6%88%b7%e6%80%81%ef%bc%8c%e8%ae%b2%e8%ae%b2bios%e3%80%81uefi%e3%80%81mbr%e5%bc%95/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
-
-    前言 由于解密固件方面的逆向需要，所以需要了解linux系统加载机制。花了我好几天来来去去缕清关系和学习，学的 […]...
-    ### [WordPress的Sakurairo主题每当增加新文章就会让整个网站都打不开的解决方案](http://ba1100n.tech/after_meal/sakurairo%e6%a1%86%e6%9e%b6%e6%af%8f%e5%bd%93%e5%a2%9e%e5%8a%a0%e6%96%b0%e6%96%87%e7%ab%a0%e5%b0%b1%e4%bc%9a%e8%ae%a9%e6%95%b4%e4%b8%aa%e7%bd%91%e7%ab%99%e9%83%bd%e6%89%93%e4%b8%8d%e5%bc%80%e7%9a%84/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-04-13
-
-    大半年前有人提过issue可是被作者无视啦，放在这里备用一下，以免有遇到一样问题的人，希望百度等搜索引擎的sp […]...
-    ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
-
-    无法提供摘要。这是一篇受保护的文章。...
-    ### [密码保护：攻防艺术](https://www.su-cvestone.cn/260/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
-
-    无法提供摘要。这是一篇受保护的文章。...
     ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
@@ -155,5 +143,17 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
 
     HTB gamepwn CubeMadness1&CubeMadness2...
+    ### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
+
+    其中rax, qword ptr [rdi + 0xa0] rax会被赋值为wide_data结构体的地址(rdi是我们伪造的io结构体地址)mov    rax, qword ptr [rax + 0xe0] rax被赋值为指向wide_data结构体+0xe0的地址。在_IO_switch_to_wget_mode 函数可以进行一次任意执行。最后可以进入_IO_switch_to_wget_m...
+    ### [l3hctf2024 pwn treasure_hunter](https://blog.csdn.net/qq_62172019/article/details/136064207)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-06
+
+    可以看到上面的大块可以覆盖到0x20小块的数据区,正好这个小块存放着hashmap的pairs指针我们只需要覆盖其低地址并且在可控制的块伪造pairs和修改一些关键字符(dream操作)就可以完成伪造,伪造之后就可以实现将任意的key放在hashmap中从而实现任意读任意写。我刚才提到了" 修改关键字符 ",如上图在hashmap每插入一对pair的时候都会产生一个字符用于标识key,所以我们只需...
+    ### [dicectf2024 pwn](https://blog.csdn.net/qq_62172019/article/details/136030402)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-04
+
+    strtok函数在分割字符串的时候会将delim置为\x00这将导致前面的字符串在分割的时候把后面的堆块size某些字节置为\x00,因此可以利用这个漏洞打off by null。打完off by null向前合并之后就简单了直接控制tache块申请到free_hook直接改写就行。主办方虽然没有给libc但是给了题目所使用的dockerfile。本题使用的是Ubuntu18。查看函数,此处调用了...
 
 </div>
