@@ -83,6 +83,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-26
 
     学校事情巨大多，大部分时间用在了某件学校突然要用到的特别重大的事情的信息收集和沟通，这件事情仅仅是开了个头，以 […]...
+    ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
+
+    蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ......
     ### [5.19本周小结](http://ba1100n.tech/after_meal/5-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-19
 
@@ -115,6 +119,14 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
 
     其实这周还是挺充实的，上周英语方面有些小任务，完成了以后就开始看了看那些固件加解密的东西，然后发现我的IDA版 […]...
+    ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
+
+    无法提供摘要。这是一篇受保护的文章。...
+    ### [密码保护：攻防艺术](https://www.su-cvestone.cn/260/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
+
+    无法提供摘要。这是一篇受保护的文章。...
     ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
@@ -143,17 +155,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
 
     HTB gamepwn CubeMadness1&CubeMadness2...
-    ### [house of cat](https://blog.csdn.net/qq_62172019/article/details/136090514)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-10
-
-    其中rax, qword ptr [rdi + 0xa0] rax会被赋值为wide_data结构体的地址(rdi是我们伪造的io结构体地址)mov    rax, qword ptr [rax + 0xe0] rax被赋值为指向wide_data结构体+0xe0的地址。在_IO_switch_to_wget_mode 函数可以进行一次任意执行。最后可以进入_IO_switch_to_wget_m...
-    ### [l3hctf2024 pwn treasure_hunter](https://blog.csdn.net/qq_62172019/article/details/136064207)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-06
-
-    可以看到上面的大块可以覆盖到0x20小块的数据区,正好这个小块存放着hashmap的pairs指针我们只需要覆盖其低地址并且在可控制的块伪造pairs和修改一些关键字符(dream操作)就可以完成伪造,伪造之后就可以实现将任意的key放在hashmap中从而实现任意读任意写。我刚才提到了" 修改关键字符 ",如上图在hashmap每插入一对pair的时候都会产生一个字符用于标识key,所以我们只需...
-    ### [dicectf2024 pwn](https://blog.csdn.net/qq_62172019/article/details/136030402)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-04
-
-    strtok函数在分割字符串的时候会将delim置为\x00这将导致前面的字符串在分割的时候把后面的堆块size某些字节置为\x00,因此可以利用这个漏洞打off by null。打完off by null向前合并之后就简单了直接控制tache块申请到free_hook直接改写就行。主办方虽然没有给libc但是给了题目所使用的dockerfile。本题使用的是Ubuntu18。查看函数,此处调用了...
 
 </div>
