@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [浅析Zigbee协议与应用安全](http://ba1100n.tech/iot_security/%e6%b5%85%e6%9e%90zigbee%e5%8d%8f%e8%ae%ae%e4%b8%8e%e5%ba%94%e7%94%a8%e5%ae%89%e5%85%a8/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-05-30
+
+    前言 说得非常浅请见谅，因为这个用来讲ppt所以顺便写到云笔记和博客上归档一下，后附一些较为详细的参考资料 一 […]...
     ### [浅析SROP:SigReturn Oriented Programming技术](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90sigreturn-oriented-programming/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-26
 
@@ -115,10 +119,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-04-28
 
     在看完CPU加电直到linux系统初始化完成，第一个main函数被执行的那种过程以后，对bzImage镜像文件 […]...
-    ### [4.21本周小结](http://ba1100n.tech/after_meal/4-21%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-04-21
-
-    其实这周还是挺充实的，上周英语方面有些小任务，完成了以后就开始看了看那些固件加解密的东西，然后发现我的IDA版 […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
