@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [5.31本周小结](http://ba1100n.tech/after_meal/5-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-05-31
+
+    5月也步入尾声了，6月的挑战更加困难 这一周，主要还是ppt和学校的事情让我花了好多时间，但同时自己也忙里偷闲 […]...
     ### [浅析Zigbee协议与应用安全](http://ba1100n.tech/iot_security/%e6%b5%85%e6%9e%90zigbee%e5%8d%8f%e8%ae%ae%e4%b8%8e%e5%ba%94%e7%94%a8%e5%ae%89%e5%85%a8/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-30
 
@@ -115,10 +119,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-05
 
     五一彻底摆烂，没有之前国庆长假那样认真了，放假每天都想出去看看。学习时间基本上研究在跑起来qemu syste […]...
-    ### [4.28本周小结](http://ba1100n.tech/after_meal/4-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-04-28
-
-    在看完CPU加电直到linux系统初始化完成，第一个main函数被执行的那种过程以后，对bzImage镜像文件 […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
