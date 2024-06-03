@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [记一次UART串口调试实战](http://ba1100n.tech/iot_basic/%e8%ae%b0%e4%b8%80%e6%ac%a1uart%e4%b8%b2%e5%8f%a3%e8%b0%83%e8%af%95%e5%ae%9e%e6%88%98/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-02
+
+    前言 面对某固件，虽然没有加密，但binwalk是没有办法正常提取的，然后试了试网上的办法好像不太行，还没细究 […]...
     ### [5.31本周小结](http://ba1100n.tech/after_meal/5-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-31
 
@@ -115,10 +119,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-05
 
     既然五一这周几乎啥都没做成，那就简单聊聊这段时间对人生的新体会吧_(:з」∠)_非常乱，好难组织语言，因为很少 […]...
-    ### [5.5本周小结](http://ba1100n.tech/after_meal/5-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-05
-
-    五一彻底摆烂，没有之前国庆长假那样认真了，放假每天都想出去看看。学习时间基本上研究在跑起来qemu syste […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
