@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [6.10本周小结](http://ba1100n.tech/after_meal/6-10%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-10
+
+    这周对vxworks的固件进行了逆向，可惜并没有找到符号表，也没有可以参照的代码，所以进行了逆向工程，大概逆向 […]...
     ### [记一次UART串口调试实战](http://ba1100n.tech/iot_basic/%e8%ae%b0%e4%b8%80%e6%ac%a1uart%e4%b8%b2%e5%8f%a3%e8%b0%83%e8%af%95%e5%ae%9e%e6%88%98/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-02
 
@@ -115,10 +119,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-07
 
     前言 就是为了学这个事情所以去学习了linux底层机制，包括CPU加电直到第一个main函数的过程 在知晓其机 […]...
-    ### [五一摸鱼特别篇：世界是参差的，对他人评价实际是自我的某种映射](http://ba1100n.tech/after_meal/%e4%ba%94%e4%b8%80%e6%91%b8%e9%b1%bc%e7%89%b9%e5%88%ab%e7%af%87%ef%bc%9a%e4%b8%96%e7%95%8c%e6%98%af%e5%8f%82%e5%b7%ae%e7%9a%84%ef%bc%8c%e5%af%b9%e4%bb%96%e4%ba%ba%e8%af%84%e4%bb%b7%e5%ae%9e%e9%99%85/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-05
-
-    既然五一这周几乎啥都没做成，那就简单聊聊这段时间对人生的新体会吧_(:з」∠)_非常乱，好难组织语言，因为很少 […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
