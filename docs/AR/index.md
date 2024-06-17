@@ -75,6 +75,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [密码保护：打靶随记](https://www.su-cvestone.cn/423/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-06-16
+
+    无法提供摘要。这是一篇受保护的文章。...
+    ### [密码保护：网安学习基础阶段checklists](https://www.su-cvestone.cn/419/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-06-16
+
+    无法提供摘要。这是一篇受保护的文章。...
     ### [6.10本周小结](http://ba1100n.tech/after_meal/6-10%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-10
 
@@ -147,13 +155,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-15
 
     HTB pwn Evil Corp...
-    ### [HTB gamepwn LightningFast](https://blog.csdn.net/qq_62172019/article/details/136114870)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-14
-
-    HTB game LightningFast...
-    ### [HTB gamepwn CubeMadness1&CubeMadness2](https://blog.csdn.net/qq_62172019/article/details/136107916)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-13
-
-    HTB gamepwn CubeMadness1&CubeMadness2...
 
 </div>
