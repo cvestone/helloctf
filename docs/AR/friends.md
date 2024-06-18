@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [6.17本周小结](http://ba1100n.tech/after_meal/6-17%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-17
+
+    这周忙于各种课程结尾的事情（英语课程超多东西要搞要准备）和学校的一些手续，由于学校渗透课程缘故，完整地刷了下p […]...
     ### [密码保护：打靶随记](https://www.su-cvestone.cn/423/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-06-16
 
@@ -123,10 +127,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-12
 
     前言 很久没有pwn了，最近复现漏洞发现还是得回看一下，遇到很有意思的一题，这题不是一般的模版题，特别地，这是 […]...
-    ### [从bzImage启动镜像到解密固件得到文件系统](http://ba1100n.tech/iot_security/%e4%bb%8ebzimage%e5%90%af%e5%8a%a8%e9%95%9c%e5%83%8f%e5%88%b0%e8%a7%a3%e5%af%86%e5%9b%ba%e4%bb%b6%e5%be%97%e5%88%b0%e6%96%87%e4%bb%b6%e7%b3%bb%e7%bb%9f/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-07
-
-    前言 就是为了学这个事情所以去学习了linux底层机制，包括CPU加电直到第一个main函数的过程 在知晓其机 […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
