@@ -75,6 +75,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [记一次失败的VxWorks5.x iot设备漏挖经历](http://ba1100n.tech/after_meal/%e8%ae%b0%e4%b8%80%e6%ac%a1%e5%a4%b1%e8%b4%a5%e7%9a%84vxworks5-x-iot%e8%ae%be%e5%a4%87%e6%bc%8f%e6%8c%96%e7%bb%8f%e5%8e%86/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-20
+
+    前言 家里有两台不用的路由器，型号分别是水星的MW313R和MW325R，曾经只会php之流的web安全、一些 […]...
+    ### [CVE-2019-17621 RCE复现](http://ba1100n.tech/iot_security/cve-2019-17621-rce%e5%a4%8d%e7%8e%b0/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-20
+
+    前言 这个命令注入漏洞跟之前的有点不太一样 简介 CVE-2019-17621 dlink-822/855 命 […]...
     ### [6.17本周小结](http://ba1100n.tech/after_meal/6-17%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-17
 
@@ -119,14 +127,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-19
 
     这周有些任务要完成，而且有些学校那边的手续要做，反正花了挺多时间 还是趁着有空的时候断断续续做了点pwn，这周 […]...
-    ### [5.12本周小结](http://ba1100n.tech/after_meal/5-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-12
-
-    学完前置知识，整完那个固件解密以后，对于这方面的知识感觉得到了补充，现在欠缺的，1是漏洞利用，2是fuzz 其 […]...
-    ### [get_started_3dsctf_2016预期解和非预期解](http://ba1100n.tech/binary_security/get_started_3dsctf_2016%e9%a2%84%e6%9c%9f%e8%a7%a3%e5%92%8c%e9%9d%9e%e9%a2%84%e6%9c%9f%e8%a7%a3/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-12
-
-    前言 很久没有pwn了，最近复现漏洞发现还是得回看一下，遇到很有意思的一题，这题不是一般的模版题，特别地，这是 […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
