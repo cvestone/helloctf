@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [6.24本周小结](http://ba1100n.tech/after_meal/6-24%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-24
+
+    算是把之前四个月的内容做了一个阶段性的完结，虽然结果是失败的，但学到很多东西，从只会x86汇编和逆向、pwn基 […]...
     ### [记一次失败的VxWorks5.x iot设备漏挖经历](http://ba1100n.tech/iot_security/%e8%ae%b0%e4%b8%80%e6%ac%a1%e5%a4%b1%e8%b4%a5%e7%9a%84vxworks5-x-iot%e8%ae%be%e5%a4%87%e6%bc%8f%e6%8c%96%e7%bb%8f%e5%8e%86/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-20
 
@@ -123,10 +127,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
 
     蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ......
-    ### [5.19本周小结](http://ba1100n.tech/after_meal/5-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-19
-
-    这周有些任务要完成，而且有些学校那边的手续要做，反正花了挺多时间 还是趁着有空的时候断断续续做了点pwn，这周 […]...
     ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
