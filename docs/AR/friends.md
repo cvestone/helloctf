@@ -91,10 +91,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-17
 
     这周忙于各种课程结尾的事情（英语课程超多东西要搞要准备）和学校的一些手续，由于学校渗透课程缘故，完整地刷了下p […]...
-    ### [密码保护：打靶随记](https://www.su-cvestone.cn/423/)  
+    ### [实战式打靶随记](https://www.su-cvestone.cn/423/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-06-16
 
-    无法提供摘要。这是一篇受保护的文章。...
+    方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
     ### [密码保护：网安学习基础阶段checklists](https://www.su-cvestone.cn/419/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-06-16
 
