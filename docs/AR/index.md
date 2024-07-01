@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [6.30本周小结](http://ba1100n.tech/after_meal/6-30%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-30
+
+    因为课程需要写一个算法相关的报告，所以本周阅读了AFL、AFL++的源代码和相关paper，并且进行了fuzz […]...
     ### [6.24本周小结](http://ba1100n.tech/after_meal/6-24%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-24
 
@@ -119,10 +123,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-26
 
     简介 SROP(S for Sigreturn)技术在2014年被提出，论文原文在https://www.cs […]...
-    ### [5.26本周小结](http://ba1100n.tech/after_meal/5-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-26
-
-    学校事情巨大多，大部分时间用在了某件学校突然要用到的特别重大的事情的信息收集和沟通，这件事情仅仅是开了个头，以 […]...
     ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
 
