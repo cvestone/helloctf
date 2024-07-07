@@ -78,7 +78,7 @@ hide:
     ### [uiuctf2024 Learning Process Record](https://www.su-cvestone.cn/445/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-04
 
-    web Fare Evasion Description web页面初探 首先我们可以用浏览器插件查看它的cms等信息： 这是用p ......
+    misc Astea(等待学习) Description 所以正如题目描述，这是一道jail类型，我还没有尝试过这种类型，源代码看 ......
     ### [6.30本周小结](http://ba1100n.tech/after_meal/6-30%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-30
 
