@@ -75,6 +75,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [7.7本周小结](http://ba1100n.tech/after_meal/7-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-07
+
+    这周回去帮表妹筛选志愿什么的，我发现，还是有很多人不知道有往年录取分数线表格这种东西可供快速筛选，那两本书信息 […]...
     ### [uiuctf2024 Learning Process Record](https://www.su-cvestone.cn/445/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-04
 
@@ -123,10 +127,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-30
 
     前言 说得非常浅请见谅，因为这个用来讲ppt所以顺便写到云笔记和博客上归档一下，后附一些较为详细的参考资料 一 […]...
-    ### [浅析SROP:SigReturn Oriented Programming技术](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90sigreturn-oriented-programming/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-26
-
-    简介 SROP(S for Sigreturn)技术在2014年被提出，论文原文在https://www.cs […]...
     ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
 
