@@ -68,6 +68,7 @@ hide:
     - [q1@N9｜学习笔记、成长小结and比赛wp](https://qsheep24.wordpress.com)
     - [ba1100n｜ba1100n的学习随笔](http://www.ba1100n.tech)
     - [Lobok｜萝卜的部落格](https://dis4.cn)
+    - [Yukon｜醉后不知天在水，满船清梦压星河](https://yukon.icu)
 
 </div>
 <div class="grid cards" markdown>
@@ -75,10 +76,22 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [fuzzing原理浅析(上)：afl，afl++背后的变异算法](http://ba1100n.tech/binary_security/fuzzing%e5%8e%9f%e7%90%86%e6%b5%85%e6%9e%90%e4%b8%8a%ef%bc%9aafl%ef%bc%8cafl%e8%83%8c%e5%90%8e%e7%9a%84%e5%8f%98%e5%bc%82%e7%ae%97%e6%b3%95/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-08
+
+    前言 对于防御者来说，现有的内存损坏和控制流劫持保护措施提供的保护并不完整。对于软件开发人员来说，手动代码分析 […]...
+    ### [DUCTF2024复现-Sign-in](https://yukon.icu/2024/07/08/signin/)  
+    >by [Yukon](https://yukon.icu), 2024-07-08
+
+    DUCTF2024复现-Sign-inhttps://play.duc.tf/challengesno pie源码（就喜欢这种给源码的比赛）1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697...
     ### [7.7本周小结](http://ba1100n.tech/after_meal/7-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-07
 
     这周回去帮表妹筛选志愿什么的，我发现，还是有很多人不知道有往年录取分数线表格这种东西可供快速筛选，那两本书信息 […]...
+    ### [IO_FILE](https://yukon.icu/2024/07/07/IO_file/)  
+    >by [Yukon](https://yukon.icu), 2024-07-07
+
+    FILE结构IO_FILE 结构外包裹着另一种结构IO_FILE_plus，其中包含了一个重要的指针 vtable 指向了一系列函数指针。在 libc2.23 版本下，32 位的 vtable 偏移为 0x94，64 位偏移为 0xd8，并且，根据程序调用的不同，其所在位置也不同：对于 fopen 的情况下是位于堆内存，对于 stdin\stdout\stderr 是位于 libc.so 中123...
     ### [uiuctf2024 Learning Process Record](https://www.su-cvestone.cn/445/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-04
 
@@ -123,10 +136,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-05-31
 
     5月也步入尾声了，6月的挑战更加困难 这一周，主要还是ppt和学校的事情让我花了好多时间，但同时自己也忙里偷闲 […]...
-    ### [浅析Zigbee协议与应用安全](http://ba1100n.tech/iot_security/%e6%b5%85%e6%9e%90zigbee%e5%8d%8f%e8%ae%ae%e4%b8%8e%e5%ba%94%e7%94%a8%e5%ae%89%e5%85%a8/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-30
-
-    前言 说得非常浅请见谅，因为这个用来讲ppt所以顺便写到云笔记和博客上归档一下，后附一些较为详细的参考资料 一 […]...
     ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
 
@@ -147,13 +156,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-26
 
     *ctf 2019 oob...
-    ### [HTB pwn Dragon Army](https://blog.csdn.net/qq_62172019/article/details/136264417)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-23
-
-    HTB pwn Dragon Army...
-    ### [HTB pwn Bad grades&Restaurant](https://blog.csdn.net/qq_62172019/article/details/136181222)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-19
-
-    HTB pwn Bad grades&Restaurant...
 
 </div>
