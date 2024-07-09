@@ -76,6 +76,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [实战式打靶随记](https://www.su-cvestone.cn/460/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-08
+
+    方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
     ### [fuzzing原理浅析(上)：afl，afl++背后的变异算法](http://ba1100n.tech/binary_security/fuzzing%e5%8e%9f%e7%90%86%e6%b5%85%e6%9e%90%e4%b8%8a%ef%bc%9aafl%ef%bc%8cafl%e8%83%8c%e5%90%8e%e7%9a%84%e5%8f%98%e5%bc%82%e7%ae%97%e6%b3%95/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-08
 
@@ -152,9 +156,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
 
     xnuca2020-babyV8...
-    ### [*ctf 2019 oob](https://blog.csdn.net/qq_62172019/article/details/136294799)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-26
-
-    *ctf 2019 oob...
 
 </div>
