@@ -76,6 +76,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [ctfshow刷题笔记](https://yukon.icu/2024/07/19/snote1/)  
+    >by [Yukon](https://yukon.icu), 2024-07-19
+
+    pwn141-(持续更新中…)pwn141Hint  : Use after free !12345678910111213141516171819202122232425262728293031323334353637383940414243444546unsigned int add_note(){  int v0; // esi  int i; // [esp+Ch] [ebp-1Ch]...
+    ### [buuctf](https://www.su-cvestone.cn/465/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-10
+
+    Web [极客大挑战 2019]PHP 考察点： 先根据页面提示fuzz出网站备份文件www.zip，推测就是网站源码下载下来 注 ......
     ### [实战式打靶随记](https://www.su-cvestone.cn/460/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-08
 
@@ -148,13 +156,5 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
 
     无法提供摘要。这是一篇受保护的文章。...
-    ### [密码保护：攻防艺术](https://www.su-cvestone.cn/260/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-03-08
-
-    无法提供摘要。这是一篇受保护的文章。...
-    ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
-
-    xnuca2020-babyV8...
 
 </div>
