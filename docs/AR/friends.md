@@ -80,10 +80,14 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-07-19
 
     pwn141-(持续更新中…)pwn141Hint  : Use after free !12345678910111213141516171819202122232425262728293031323334353637383940414243444546unsigned int add_note(){  int v0; // esi  int i; // [esp+Ch] [ebp-1Ch]...
+    ### [fuzzing原理探究(下)：boofuzz背后的生成算法](http://ba1100n.tech/binary_security/fuzzing%e5%8e%9f%e7%90%86%e6%8e%a2%e7%a9%b6%e4%b8%8b%ef%bc%9aboofuzz%e8%83%8c%e5%90%8e%e7%9a%84%e7%94%9f%e6%88%90%e7%ae%97%e6%b3%95/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-11
+
+    那么，就来看看基于生成的boofuzz吧，虽然后面实现了持续生成的方案，但没有任何反馈调整变异机制，所以其实还 […]...
     ### [buuctf](https://www.su-cvestone.cn/465/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-10
 
-    Web [极客大挑战 2019]PHP 考察点： 先根据页面提示fuzz出网站备份文件www.zip，推测就是网站源码下载下来 注 ......
+    Web [极客大挑战 2019]PHP 考察点：php原生反序列化bypass __wakeup() 先根据页面提示fuzz出网站 ......
     ### [实战式打靶随记](https://www.su-cvestone.cn/460/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-08
 
@@ -144,10 +148,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-02
 
     前言 面对某固件，虽然没有加密，但binwalk是没有办法正常提取的，然后试了试网上的办法好像不太行，还没细究 […]...
-    ### [5.31本周小结](http://ba1100n.tech/after_meal/5-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-05-31
-
-    5月也步入尾声了，6月的挑战更加困难 这一周，主要还是ppt和学校的事情让我花了好多时间，但同时自己也忙里偷闲 […]...
     ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
 
