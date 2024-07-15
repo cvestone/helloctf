@@ -69,6 +69,7 @@ hide:
     - [ba1100n｜ba1100n的学习随笔](http://www.ba1100n.tech)
     - [Lobok｜萝卜的部落格](https://dis4.cn)
     - [Yukon｜醉后不知天在水，满船清梦压星河](https://yukon.icu)
+    - [virus｜](https://megachar0x01.github.io)
 
 </div>
 <div class="grid cards" markdown>
@@ -76,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [每周目标](https://www.su-cvestone.cn/482/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-15
+
+    20240715 [ ] php原生与框架的安全开发demo写完 [ ] 写一篇"vscode+wordpress一键上传博客+o ......
     ### [7.14本周小结](http://ba1100n.tech/after_meal/7-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-14
 
@@ -152,9 +157,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-10
 
     这周对vxworks的固件进行了逆向，可惜并没有找到符号表，也没有可以参照的代码，所以进行了逆向工程，大概逆向 […]...
-    ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
-
-    蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ......
 
 </div>
