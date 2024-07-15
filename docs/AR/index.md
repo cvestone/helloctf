@@ -76,6 +76,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [7.14本周小结](http://ba1100n.tech/after_meal/7-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-14
+
+    学完boofuzz，这一基于生成算法的fuzzing 而紧接着又要开始对pwn下一阶段的学习了，本周重新开始了 […]...
+    ### [ctfshow刷题笔记](https://yukon.icu/2024/07/15/snote2/)  
+    >by [Yukon](https://yukon.icu), 2024-07-14
+
+    堆利用pwn160-（持续更新中）pwn160Hint  : Heap_Overflow ~2.23的堆123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051void __cdecl __noreturn main(int a1){  int v1; // [esp+...
     ### [fuzzing原理探究(下)：boofuzz背后的生成算法](http://ba1100n.tech/binary_security/fuzzing%e5%8e%9f%e7%90%86%e6%8e%a2%e7%a9%b6%e4%b8%8b%ef%bc%9aboofuzz%e8%83%8c%e5%90%8e%e7%9a%84%e7%94%9f%e6%88%90%e7%ae%97%e6%b3%95/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-11
 
@@ -144,17 +152,9 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-10
 
     这周对vxworks的固件进行了逆向，可惜并没有找到符号表，也没有可以参照的代码，所以进行了逆向工程，大概逆向 […]...
-    ### [记一次UART串口调试实战](http://ba1100n.tech/iot_basic/%e8%ae%b0%e4%b8%80%e6%ac%a1uart%e4%b8%b2%e5%8f%a3%e8%b0%83%e8%af%95%e5%ae%9e%e6%88%98/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-06-02
-
-    前言 面对某固件，虽然没有加密，但binwalk是没有办法正常提取的，然后试了试网上的办法好像不太行，还没细究 […]...
     ### [hvv面试题总结归纳](https://www.su-cvestone.cn/412/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-05-23
 
     蓝队 Top10漏洞篇 owasp top10(最新2021版)有哪些？ 官方报告 Broken Access Control 破 ......
-    ### [密码保护：混音课程笔记](https://www.su-cvestone.cn/308/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-03-12
-
-    无法提供摘要。这是一篇受保护的文章。...
 
 </div>
