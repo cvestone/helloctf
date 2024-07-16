@@ -77,10 +77,22 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [vscode+wordpress+oss一键上传文章方案](https://www.su-cvestone.cn/487/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-15
+
+    刚开始配置虽然会有点小麻烦，但只要根据本文第一次配置完，后续就一劳永逸了 wordpress的配置 首先本方案的核心就是利用wor ......
     ### [每周目标](https://www.su-cvestone.cn/482/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-15
 
-    20240715 [ ] php原生与框架的安全开发demo写完 [ ] 写一篇"vscode+wordpress一键上传博客+o ......
+    20240715 [ ] php原生与框架的安全开发demo写完（紧急） [x] 写一篇"vscode+wordpress一键上传 ......
+    ### [“web3-url-colearing-day1”](https://antigone4224.github.io/web3-url-colearing-day1)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-15
+
+    预习了一下第一次的 slides,简单的介绍了一下web3://协议ERC-4804提出了使用RFC 2396 URI来表示一个以太坊消息调用，给予了我们一种直接访问以太坊区块链的方式，也就是web3 url，从此不再需要经过http://或者ipfs的代理。可以参考下面这张图（直接从slides里扒的链接，可能会没法加载= =）下面的标识是对应URI的RFC标准，上面的标识是对应了对...
+    ### [test2](http://ba1100n.tech/test/1/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-15
+
+    hi hei hahaha sfsfsdf [x] 已完成 fsfsf 就这个biu ber 爽...
     ### [7.14本周小结](http://ba1100n.tech/after_meal/7-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-14
 
@@ -145,17 +157,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-17
 
     这周忙于各种课程结尾的事情（英语课程超多东西要搞要准备）和学校的一些手续，由于学校渗透课程缘故，完整地刷了下p […]...
-    ### [实战式打靶随记](https://www.su-cvestone.cn/423/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-06-16
-
-    方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
-    ### [密码保护：网安学习基础阶段checklists](https://www.su-cvestone.cn/419/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-06-16
-
-    无法提供摘要。这是一篇受保护的文章。...
-    ### [6.10本周小结](http://ba1100n.tech/after_meal/6-10%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-06-10
-
-    这周对vxworks的固件进行了逆向，可惜并没有找到符号表，也没有可以参照的代码，所以进行了逆向工程，大概逆向 […]...
 
 </div>
