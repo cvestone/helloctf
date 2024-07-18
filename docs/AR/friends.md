@@ -77,6 +77,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [240705downunderctf Learning Process Record](https://www.su-cvestone.cn/492/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-17
+
+    web co2 考察知识点 Descriptions 比赛时的临时笔记 识别出是个flask框架，审计到app/routes.py ......
+    ### [web3-url-colearning-day3](https://antigone4224.github.io/web3-url-colearning-day3)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-17
+
+    今天稍微有点事情，可能就没法接着把hw做完了，打算完善一下对于resolve mod的理解,阅读ERC 6860文档，对比Auto Mod 和manual  Mod的区别：the protocol will call the address with “Calldata” = keccak("resolveMode()")[0:4] = “0xDD473FAE”在第一访问的开始，会尝试调...
     ### [web3-url-colearning-day2](https://antigone4224.github.io/web3-url-colearning-day2)  
     >by [antigone](https://antigone4224.github.io/), 2024-07-16
 
@@ -149,13 +157,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-20
 
     前言 家里有两台不用的路由器，型号分别是水星的MW313R和MW325R，曾经只会php之流的web安全、一些 […]...
-    ### [CVE-2019-17621 RCE复现](http://ba1100n.tech/iot_security/cve-2019-17621-rce%e5%a4%8d%e7%8e%b0/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-06-20
-
-    前言 这个命令注入漏洞跟之前的有点不太一样 简介 CVE-2019-17621 dlink-822/855 命 […]...
-    ### [6.17本周小结](http://ba1100n.tech/after_meal/6-17%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-06-17
-
-    这周忙于各种课程结尾的事情（英语课程超多东西要搞要准备）和学校的一些手续，由于学校渗透课程缘故，完整地刷了下p […]...
 
 </div>
