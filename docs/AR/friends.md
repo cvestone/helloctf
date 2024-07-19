@@ -77,6 +77,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [vulnhub_machines](https://www.su-cvestone.cn/497/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-18
+
+    方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
+    ### [web3-url-colearning-day4](https://antigone4224.github.io/web3-url-colearning-day4)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-18
+
+    今天学习一下ethstorage。EthStorage 是一个模块化和去中心化的存储 Layer 2，提供由数据可用性（DA）驱动的可编程键值存储。它为 Rollups 提供了长期的数据可用性解决方案，并为完全链上应用程序（如游戏、社交网络、人工智能等）开辟了新的可能性。动机EthStorage 背后的主要动机是提供基于以太坊的长期数据可用性。EIP-4844 引入了数据斑块（dat...
     ### [240705downunderctf Learning Process Record](https://www.su-cvestone.cn/492/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-17
 
@@ -93,10 +101,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-15
 
     刚开始配置虽然会有点小麻烦，但只要根据本文第一次配置完，后续就一劳永逸了 wordpress的配置 首先本方案的核心就是利用wor ......
-    ### [每周目标](https://www.su-cvestone.cn/482/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-15
-
-    20240715 [ ] php原生与框架的安全开发demo写完（紧急） [x] 写一篇"vscode+wordpress一键上传 ......
     ### [“web3-url-colearing-day1”](https://antigone4224.github.io/web3-url-colearing-day1)  
     >by [antigone](https://antigone4224.github.io/), 2024-07-15
 
@@ -153,9 +157,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-06-24
 
     算是把之前四个月的内容做了一个阶段性的完结，虽然结果是失败的，但学到很多东西，从只会x86汇编和逆向、pwn基 […]...
-    ### [记一次失败的VxWorks5.x iot设备漏挖经历](http://ba1100n.tech/iot_security/%e8%ae%b0%e4%b8%80%e6%ac%a1%e5%a4%b1%e8%b4%a5%e7%9a%84vxworks5-x-iot%e8%ae%be%e5%a4%87%e6%bc%8f%e6%8c%96%e7%bb%8f%e5%8e%86/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-06-20
-
-    前言 家里有两台不用的路由器，型号分别是水星的MW313R和MW325R，曾经只会php之流的web安全、一些 […]...
 
 </div>
