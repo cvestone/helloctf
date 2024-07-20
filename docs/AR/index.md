@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [web3-url-colearning-day5](https://antigone4224.github.io/web3-url-colearning-day5)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-19
+
+    在群组中发送地址，得到了1000测试ETH可以拿来在ETH Storage上传文件https://galileo.web3q.io/file.w3q/0x81fb5c383f192f7fa1f0788e1a06aed26ffac469/b_d42a32a060f284d3ffe3b4cf8cc08501.jpg上传了我的qq头像（成功的存在了galileo测试网上（...
     ### [vulnhub_machines](https://www.su-cvestone.cn/497/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-18
 
@@ -85,10 +89,14 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-18
 
     今天学习一下ethstorage。EthStorage 是一个模块化和去中心化的存储 Layer 2，提供由数据可用性（DA）驱动的可编程键值存储。它为 Rollups 提供了长期的数据可用性解决方案，并为完全链上应用程序（如游戏、社交网络、人工智能等）开辟了新的可能性。动机EthStorage 背后的主要动机是提供基于以太坊的长期数据可用性。EIP-4844 引入了数据斑块（dat...
+    ### [wkctf2024复现](https://yukon.icu/2024/07/18/wkctf/)  
+    >by [Yukon](https://yukon.icu), 2024-07-18
+
+    easy_heaphouse of orangeida123456789101112131415161718192021222324252627unsigned __int64 add(){  unsigned int v0; // ebx  _DWORD size[7]; // [rsp+4h] [rbp-1Ch] BYREF  *&size[1] = __readfsqword(0x28u);...
     ### [240705downunderctf Learning Process Record](https://www.su-cvestone.cn/492/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-17
 
-    web co2 考察知识点 Descriptions 比赛时的临时笔记 识别出是个flask框架，审计到app/routes.py ......
+    web co2 【Description】 考察知识点 Descriptions 比赛时的临时笔记 识别出是个flask框架，审计 ......
     ### [web3-url-colearning-day3](https://antigone4224.github.io/web3-url-colearning-day3)  
     >by [antigone](https://antigone4224.github.io/), 2024-07-17
 
@@ -141,7 +149,7 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-07
 
     这周回去帮表妹筛选志愿什么的，我发现，还是有很多人不知道有往年录取分数线表格这种东西可供快速筛选，那两本书信息 […]...
-    ### [IO_FILE](https://yukon.icu/2024/07/07/IO_file/)  
+    ### [IO_file](https://yukon.icu/2024/07/07/IO_file/)  
     >by [Yukon](https://yukon.icu), 2024-07-07
 
     FILE结构IO_FILE 结构外包裹着另一种结构IO_FILE_plus，其中包含了一个重要的指针 vtable 指向了一系列函数指针。在 libc2.23 版本下，32 位的 vtable 偏移为 0x94，64 位偏移为 0xd8，并且，根据程序调用的不同，其所在位置也不同：对于 fopen 的情况下是位于堆内存，对于 stdin\stdout\stderr 是位于 libc.so 中123...
@@ -149,13 +157,5 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-04
 
     misc Astea(等待学习) Description 所以正如题目描述，这是一道jail类型，我还没有尝试过这种类型，源代码看 ......
-    ### [6.30本周小结](http://ba1100n.tech/after_meal/6-30%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-06-30
-
-    因为课程需要写一个算法相关的报告，所以本周阅读了AFL、AFL++的源代码和相关paper，并且进行了fuzz […]...
-    ### [6.24本周小结](http://ba1100n.tech/after_meal/6-24%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-06-24
-
-    算是把之前四个月的内容做了一个阶段性的完结，虽然结果是失败的，但学到很多东西，从只会x86汇编和逆向、pwn基 […]...
 
 </div>
