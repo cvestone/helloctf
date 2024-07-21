@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [web3-url-colearning-day6](https://antigone4224.github.io/web3-url-colearning-day6)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-20
+
+    今天学习一下Ethfs安装Ethfs-clinpm install -g ethfs-cliethfs-cli upload -f <directory|file> -a <address> -p <private-key> -r [rpc] -t [upload-type]创建Flat Directory 合约ethfs-cli create -p privkeychai...
     ### [web3-url-colearning-day5](https://antigone4224.github.io/web3-url-colearning-day5)  
     >by [antigone](https://antigone4224.github.io/), 2024-07-19
 
@@ -89,10 +93,6 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-18
 
     今天学习一下ethstorage。EthStorage 是一个模块化和去中心化的存储 Layer 2，提供由数据可用性（DA）驱动的可编程键值存储。它为 Rollups 提供了长期的数据可用性解决方案，并为完全链上应用程序（如游戏、社交网络、人工智能等）开辟了新的可能性。动机EthStorage 背后的主要动机是提供基于以太坊的长期数据可用性。EIP-4844 引入了数据斑块（dat...
-    ### [wkctf2024复现](https://yukon.icu/2024/07/18/wkctf/)  
-    >by [Yukon](https://yukon.icu), 2024-07-18
-
-    easy_heaphouse of orangeida123456789101112131415161718192021222324252627unsigned __int64 add(){  unsigned int v0; // ebx  _DWORD size[7]; // [rsp+4h] [rbp-1Ch] BYREF  *&size[1] = __readfsqword(0x28u);...
     ### [240705downunderctf Learning Process Record](https://www.su-cvestone.cn/492/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-17
 
@@ -117,10 +117,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-14
 
     学完boofuzz，这一基于生成算法的fuzzing 而紧接着又要开始对pwn下一阶段的学习了，本周重新开始了 […]...
-    ### [ctfshow刷题笔记](https://yukon.icu/2024/07/15/snote2/)  
-    >by [Yukon](https://yukon.icu), 2024-07-14
-
-    堆利用pwn160-（持续更新中）pwn160Hint  : Heap_Overflow ~2.23的堆123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051void __cdecl __noreturn main(int a1){  int v1; // [esp+...
     ### [fuzzing原理探究(下)：boofuzz背后的生成算法](http://ba1100n.tech/binary_security/fuzzing%e5%8e%9f%e7%90%86%e6%8e%a2%e7%a9%b6%e4%b8%8b%ef%bc%9aboofuzz%e8%83%8c%e5%90%8e%e7%9a%84%e7%94%9f%e6%88%90%e7%ae%97%e6%b3%95/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-11
 
@@ -129,10 +125,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-10
 
     Web [极客大挑战 2019]PHP 考察点：php原生反序列化bypass __wakeup() 先根据页面提示fuzz出网站 ......
-    ### [ctfshow刷题笔记](https://yukon.icu/2024/07/09/snote1/)  
-    >by [Yukon](https://yukon.icu), 2024-07-09
-
-    堆利用-前置基础pwn141-159基础不牢，地动山摇，遂来补天😭pwn141Hint  : Use after free !12345678910111213141516171819202122232425262728293031323334353637383940414243444546unsigned int add_note(){  int v0; // esi  int i; // [e...
     ### [实战式打靶随记](https://www.su-cvestone.cn/460/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-08
 
@@ -141,21 +133,29 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-08
 
     前言 对于防御者来说，现有的内存损坏和控制流劫持保护措施提供的保护并不完整。对于软件开发人员来说，手动代码分析 […]...
-    ### [DUCTF2024复现-Sign-in](https://yukon.icu/2024/07/08/signin/)  
-    >by [Yukon](https://yukon.icu), 2024-07-08
-
-    DUCTF2024复现-Sign-inhttps://play.duc.tf/challengesno pie源码（就喜欢这种给源码的比赛）1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697...
     ### [7.7本周小结](http://ba1100n.tech/after_meal/7-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-07
 
     这周回去帮表妹筛选志愿什么的，我发现，还是有很多人不知道有往年录取分数线表格这种东西可供快速筛选，那两本书信息 […]...
-    ### [IO_file](https://yukon.icu/2024/07/07/IO_file/)  
-    >by [Yukon](https://yukon.icu), 2024-07-07
-
-    FILE结构IO_FILE 结构外包裹着另一种结构IO_FILE_plus，其中包含了一个重要的指针 vtable 指向了一系列函数指针。在 libc2.23 版本下，32 位的 vtable 偏移为 0x94，64 位偏移为 0xd8，并且，根据程序调用的不同，其所在位置也不同：对于 fopen 的情况下是位于堆内存，对于 stdin\stdout\stderr 是位于 libc.so 中123...
     ### [uiuctf2024 Learning Process Record](https://www.su-cvestone.cn/445/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-04
 
     misc Astea(等待学习) Description 所以正如题目描述，这是一道jail类型，我还没有尝试过这种类型，源代码看 ......
+    ### [6.30本周小结](http://ba1100n.tech/after_meal/6-30%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-30
+
+    因为课程需要写一个算法相关的报告，所以本周阅读了AFL、AFL++的源代码和相关paper，并且进行了fuzz […]...
+    ### [6.24本周小结](http://ba1100n.tech/after_meal/6-24%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-24
+
+    算是把之前四个月的内容做了一个阶段性的完结，虽然结果是失败的，但学到很多东西，从只会x86汇编和逆向、pwn基 […]...
+    ### [记一次失败的VxWorks5.x iot设备漏挖经历](http://ba1100n.tech/iot_security/%e8%ae%b0%e4%b8%80%e6%ac%a1%e5%a4%b1%e8%b4%a5%e7%9a%84vxworks5-x-iot%e8%ae%be%e5%a4%87%e6%bc%8f%e6%8c%96%e7%bb%8f%e5%8e%86/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-20
+
+    前言 家里有两台不用的路由器，型号分别是水星的MW313R和MW325R，曾经只会php之流的web安全、一些 […]...
+    ### [CVE-2019-17621 RCE复现](http://ba1100n.tech/iot_security/cve-2019-17621-rce%e5%a4%8d%e7%8e%b0/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-06-20
+
+    前言 这个命令注入漏洞跟之前的有点不太一样 简介 CVE-2019-17621 dlink-822/855 命 […]...
 
 </div>
