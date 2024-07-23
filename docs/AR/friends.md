@@ -77,6 +77,18 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [web3-url-colearning-day8](https://antigone4224.github.io/web3-url-colearning-day8)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-22
+
+    今天就是听课，解答了我之前的一些疑问。。1.manual mod的路由实现问题，老师给了个示范项目// SPDX-License-Identifier: MITpragma solidity ^0.8.0;import "../W3RC3.sol";contract FlatDirectory is W3RC3 {    bytes public defaultFile =...
+    ### [web3-url-colearning-day7](https://antigone4224.github.io/web3-url-colearning-day7)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-22
+
+    Use eth-blob-uploader to upload files via blobsUse eth-blob-uploader to upload files via blobs测试一下blob上传的命令行工具（npm i -g eth-blob-uploader​```eth-blob-uploader -r <rpc> -p <private-key> -f...
+    ### [7.22本周小结](http://ba1100n.tech/after_meal/7-22%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-22
+
+    这周主要是pwn堆调试方面的学习，时隔很久很久重新开始学习堆利用了，这次因为有基础的存在确实学的比较系统，很久 […]...
     ### [web3-url-colearning-day6](https://antigone4224.github.io/web3-url-colearning-day6)  
     >by [antigone](https://antigone4224.github.io/), 2024-07-20
 
@@ -145,17 +157,5 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-08
 
     方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
-    ### [fuzzing原理浅析(上)：afl，afl++背后的变异算法](http://ba1100n.tech/binary_security/fuzzing%e5%8e%9f%e7%90%86%e6%b5%85%e6%9e%90%e4%b8%8a%ef%bc%9aafl%ef%bc%8cafl%e8%83%8c%e5%90%8e%e7%9a%84%e5%8f%98%e5%bc%82%e7%ae%97%e6%b3%95/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-08
-
-    前言 对于防御者来说，现有的内存损坏和控制流劫持保护措施提供的保护并不完整。对于软件开发人员来说，手动代码分析 […]...
-    ### [DUCTF2024复现-Sign-in](https://yukon.icu/2024/07/08/signin/)  
-    >by [Yukon](https://yukon.icu), 2024-07-08
-
-    DUCTF2024复现-Sign-inhttps://play.duc.tf/challengesno pie源码（就喜欢这种给源码的比赛）1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697...
-    ### [7.7本周小结](http://ba1100n.tech/after_meal/7-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-07
-
-    这周回去帮表妹筛选志愿什么的，我发现，还是有很多人不知道有往年录取分数线表格这种东西可供快速筛选，那两本书信息 […]...
 
 </div>
