@@ -77,6 +77,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [DASCTF2024复现](https://yukon.icu/2024/07/24/dasctf2024/)  
+    >by [Yukon](https://yukon.icu), 2024-07-24
+
+    springboard分析123456789101112131415161718192021222324int __cdecl main(int argc, const char **argv, const char **envp){  int i; // [rsp+Ch] [rbp-4h]  myinit(argc, argv, envp);  puts("Life is not boring,...
+    ### [浅析_IO_FILE相关利用、FSOP与House_of_Orange技术](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90_io_file%e7%9b%b8%e5%85%b3%e5%88%a9%e7%94%a8%e3%80%81fsop%e4%b8%8ehouse_of_orange%e6%8a%80%e6%9c%af/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-23
+
+    前言 曾经的学习止步于此，现在，在高版本堆的背景下，仍然值得一学 为什么要学习_IO_FILE？ _IO_FI […]...
     ### [web3-url-colearning-day8](https://antigone4224.github.io/web3-url-colearning-day8)  
     >by [antigone](https://antigone4224.github.io/), 2024-07-22
 
@@ -149,13 +157,5 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-10
 
     Web [极客大挑战 2019]PHP 考察点：php原生反序列化bypass __wakeup() 先根据页面提示fuzz出网站 ......
-    ### [ctfshow刷题笔记](https://yukon.icu/2024/07/09/snote1/)  
-    >by [Yukon](https://yukon.icu), 2024-07-09
-
-    堆利用-前置基础pwn141-159基础不牢，地动山摇，遂来补天😭pwn141Hint  : Use after free !12345678910111213141516171819202122232425262728293031323334353637383940414243444546unsigned int add_note(){  int v0; // esi  int i; // [e...
-    ### [实战式打靶随记](https://www.su-cvestone.cn/460/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-08
-
-    方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
 
 </div>
