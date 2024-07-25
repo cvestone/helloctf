@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [House_of_orange](https://yukon.icu/2024/07/25/house_of_orange/)  
+    >by [Yukon](https://yukon.icu), 2024-07-24
+
+    House Of  Orange2.23见wkctf复现一文：https://yukon.icu/2024/07/18/wkctf/2.24新增检测以及绕过思路与2.23不同的点在于，2.24对于vtable的位置进行了约束，增加了一个检测函数：IO_validate_vtable123456789101112static inline const struct _IO_jump_t *IO_va...
     ### [DASCTF2024复现](https://yukon.icu/2024/07/24/dasctf2024/)  
     >by [Yukon](https://yukon.icu), 2024-07-24
 
@@ -153,9 +157,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-11
 
     那么，就来看看基于生成的boofuzz吧，虽然后面实现了持续生成的方案，但没有任何反馈调整变异机制，所以其实还 […]...
-    ### [buuctf](https://www.su-cvestone.cn/465/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-10
-
-    Web [极客大挑战 2019]PHP 考察点：php原生反序列化bypass __wakeup() 先根据页面提示fuzz出网站 ......
 
 </div>
