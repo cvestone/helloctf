@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [bugku_awd_pwn](https://yukon.icu/2024/07/26/awd_bugku1/)  
+    >by [Yukon](https://yukon.icu), 2024-07-25
+
+    Bugku_AWD_PWNbugku的 “当前可公开信息”：bugku的awd会给我们一个ip，例如本次比赛我们队的ip是192-168-1-21.pvp4772.bugku.cn，其他人的ip是192-168-1-X.pvp4772.bugku.cn，需要我们自己写脚本发现账号密码：team1:206a75a313e0cded3610aa5e4exxxxxxtoken（用来使用api提交flag...
     ### [House_of_orange](https://yukon.icu/2024/07/25/house_of_orange/)  
     >by [Yukon](https://yukon.icu), 2024-07-24
 
@@ -153,9 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-07-14
 
     堆利用pwn160-（持续更新中）pwn160Hint  : Heap_Overflow ~2.23的堆123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051void __cdecl __noreturn main(int a1){  int v1; // [esp+...
-    ### [fuzzing原理探究(下)：boofuzz背后的生成算法](http://ba1100n.tech/binary_security/fuzzing%e5%8e%9f%e7%90%86%e6%8e%a2%e7%a9%b6%e4%b8%8b%ef%bc%9aboofuzz%e8%83%8c%e5%90%8e%e7%9a%84%e7%94%9f%e6%88%90%e7%ae%97%e6%b3%95/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-11
-
-    那么，就来看看基于生成的boofuzz吧，虽然后面实现了持续生成的方案，但没有任何反馈调整变异机制，所以其实还 […]...
 
 </div>
