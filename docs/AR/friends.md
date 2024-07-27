@@ -77,6 +77,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [7.26本周小结](http://ba1100n.tech/after_meal/7-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-26
+
+    这周的周一到周三主要是跟着Nop师傅去分析了几个固件，然后发现很多时候之所以我到今天都还没有cve编号，其实是 […]...
+    ### [浅析tcache安全机制演进过程与绕过手法](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90tcache%e5%ae%89%e5%85%a8%e6%9c%ba%e5%88%b6%e6%bc%94%e8%bf%9b%e8%bf%87%e7%a8%8b%e4%b8%8e%e7%bb%95%e8%bf%87%e6%89%8b%e6%b3%95/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-26
+
+    前言 本文重点关注tcache本身的结构、取用放入的原子操作，以及其free安全机制的演变过程， 大概分水岭在 […]...
     ### [bugku_awd_pwn](https://yukon.icu/2024/07/26/awd_bugku1/)  
     >by [Yukon](https://yukon.icu), 2024-07-25
 
@@ -149,13 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-15
 
     预习了一下第一次的 slides,简单的介绍了一下web3://协议ERC-4804提出了使用RFC 2396 URI来表示一个以太坊消息调用，给予了我们一种直接访问以太坊区块链的方式，也就是web3 url，从此不再需要经过http://或者ipfs的代理。可以参考下面这张图（直接从slides里扒的链接，可能会没法加载= =）下面的标识是对应URI的RFC标准，上面的标识是对应了对...
-    ### [7.14本周小结](http://ba1100n.tech/after_meal/7-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-14
-
-    学完boofuzz，这一基于生成算法的fuzzing 而紧接着又要开始对pwn下一阶段的学习了，本周重新开始了 […]...
-    ### [ctfshow刷题笔记](https://yukon.icu/2024/07/15/snote2/)  
-    >by [Yukon](https://yukon.icu), 2024-07-14
-
-    堆利用pwn160-（持续更新中）pwn160Hint  : Heap_Overflow ~2.23的堆123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051void __cdecl __noreturn main(int a1){  int v1; // [esp+...
 
 </div>
