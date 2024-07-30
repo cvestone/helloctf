@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [阅读HITCON2024-setjmp题解笔记](http://ba1100n.tech/binary_security/%e9%98%85%e8%af%bbhitcon2024-setjmp%e9%a2%98%e8%a7%a3%e7%ac%94%e8%ae%b0/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-29
+
+    前言 做这道题的时候当时刚刚重新学堆，其实确实观察到uaf的点，以及想到剩下root本身就可以double f […]...
     ### [7.26本周小结](http://ba1100n.tech/after_meal/7-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-26
 
@@ -85,6 +89,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-26
 
     前言 本文重点关注tcache本身的结构、取用放入的原子操作，以及其free安全机制的演变过程， 大概分水岭在 […]...
+    ### [House Of Roman](https://yukon.icu/2024/07/26/io_stdout_libc/)  
+    >by [Yukon](https://yukon.icu), 2024-07-26
+
+    De1CTF weapon1234567891011unsigned __int64 menu(){  unsigned __int64 v1; // [rsp+8h] [rbp-8h]  v1 = __readfsqword(0x28u);  puts("1. create you weapon");  puts("2. delete you weapon");  puts("3. rename...
     ### [bugku_awd_pwn](https://yukon.icu/2024/07/26/awd_bugku1/)  
     >by [Yukon](https://yukon.icu), 2024-07-25
 
@@ -149,13 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-16
 
     hw1:Find the ownership of an your favor NFT查询一下slides里展示的cyberbrokers吧ERC721有ownerOf方法可以通过tokenid查询owner的地址在etherscan上查询的合约地址可以调用ownerOf方法，然而cyberbrokers-meta这个地址却不能再尝试了一下发现那个0x89的合约地址同样...
-    ### [vscode+wordpress+oss一键上传文章方案](https://www.su-cvestone.cn/487/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-15
-
-    刚开始配置虽然会有点小麻烦，但只要根据本文第一次配置完，后续就一劳永逸了 wordpress的配置 首先本方案的核心就是利用wor ......
-    ### [“web3-url-colearing-day1”](https://antigone4224.github.io/web3-url-colearing-day1)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-15
-
-    预习了一下第一次的 slides,简单的介绍了一下web3://协议ERC-4804提出了使用RFC 2396 URI来表示一个以太坊消息调用，给予了我们一种直接访问以太坊区块链的方式，也就是web3 url，从此不再需要经过http://或者ipfs的代理。可以参考下面这张图（直接从slides里扒的链接，可能会没法加载= =）下面的标识是对应URI的RFC标准，上面的标识是对应了对...
 
 </div>
