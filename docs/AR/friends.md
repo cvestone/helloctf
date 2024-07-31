@@ -77,6 +77,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [密码保护：PTGA ctf-web培训xxe讲解](https://www.su-cvestone.cn/510/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-30
+
+    无法提供摘要。这是一篇受保护的文章。...
+    ### [密码保护：PTGA ctf-web培训sql注入讲解](https://www.su-cvestone.cn/504/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-30
+
+    无法提供摘要。这是一篇受保护的文章。...
     ### [阅读HITCON2024-setjmp题解笔记](http://ba1100n.tech/binary_security/%e9%98%85%e8%af%bbhitcon2024-setjmp%e9%a2%98%e8%a7%a3%e7%ac%94%e8%ae%b0/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-29
 
@@ -149,13 +157,5 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-17
 
     web co2 【Description】 考察知识点 Descriptions 比赛时的临时笔记 识别出是个flask框架，审计 ......
-    ### [web3-url-colearning-day3](https://antigone4224.github.io/web3-url-colearning-day3)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-17
-
-    今天稍微有点事情，可能就没法接着把hw做完了，打算完善一下对于resolve mod的理解,阅读ERC 6860文档，对比Auto Mod 和manual  Mod的区别：the protocol will call the address with “Calldata” = keccak("resolveMode()")[0:4] = “0xDD473FAE”在第一访问的开始，会尝试调...
-    ### [web3-url-colearning-day2](https://antigone4224.github.io/web3-url-colearning-day2)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-16
-
-    hw1:Find the ownership of an your favor NFT查询一下slides里展示的cyberbrokers吧ERC721有ownerOf方法可以通过tokenid查询owner的地址在etherscan上查询的合约地址可以调用ownerOf方法，然而cyberbrokers-meta这个地址却不能再尝试了一下发现那个0x89的合约地址同样...
 
 </div>
