@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [8.5本周小结](http://ba1100n.tech/after_meal/8-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-08-05
+
+    这周其实效率很低，周一到周四上午的学习主要是arm pwn、mips pwn以及qiling fuzz，但比较 […]...
     ### [密码保护：PTGA ctf-web培训xxe讲解](https://www.su-cvestone.cn/510/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-07-30
 
@@ -153,9 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-07-18
 
     easy_heaphouse of orangeida123456789101112131415161718192021222324252627unsigned __int64 add(){  unsigned int v0; // ebx  _DWORD size[7]; // [rsp+4h] [rbp-1Ch] BYREF  *&size[1] = __readfsqword(0x28u);...
-    ### [240705downunderctf Learning Process Record](https://www.su-cvestone.cn/492/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-17
-
-    web co2 【Description】 考察知识点 Descriptions 比赛时的临时笔记 识别出是个flask框架，审计 ......
 
 </div>
