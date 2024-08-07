@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [TFCctf2024](https://yukon.icu/2024/08/07/TFCctf2024/)  
+    >by [Yukon](https://yukon.icu), 2024-08-06
+
+    GUARD-THE-BYPASSGuard this cookie.Note: If you successfully create a working exploit in the provided Docker, ensure you try the exploit multiple times on the remote system if any issues arise.多线程canar...
     ### [8.5本周小结](http://ba1100n.tech/after_meal/8-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-05
 
@@ -153,9 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-18
 
     今天学习一下ethstorage。EthStorage 是一个模块化和去中心化的存储 Layer 2，提供由数据可用性（DA）驱动的可编程键值存储。它为 Rollups 提供了长期的数据可用性解决方案，并为完全链上应用程序（如游戏、社交网络、人工智能等）开辟了新的可能性。动机EthStorage 背后的主要动机是提供基于以太坊的长期数据可用性。EIP-4844 引入了数据斑块（dat...
-    ### [wkctf2024复现](https://yukon.icu/2024/07/18/wkctf/)  
-    >by [Yukon](https://yukon.icu), 2024-07-18
-
-    easy_heaphouse of orangeida123456789101112131415161718192021222324252627unsigned __int64 add(){  unsigned int v0; // ebx  _DWORD size[7]; // [rsp+4h] [rbp-1Ch] BYREF  *&size[1] = __readfsqword(0x28u);...
 
 </div>
