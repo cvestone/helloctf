@@ -80,7 +80,7 @@ hide:
     ### [TFCctf2024](https://yukon.icu/2024/08/07/TFCctf2024/)  
     >by [Yukon](https://yukon.icu), 2024-08-06
 
-    GUARD-THE-BYPASSGuard this cookie.Note: If you successfully create a working exploit in the provided Docker, ensure you try the exploit multiple times on the remote system if any issues arise.多线程canar...
+    可惜来的有点晚了，比赛已经结束了GUARD-THE-BYPASSGuard this cookie.Note: If you successfully create a working exploit in the provided Docker, ensure you try the exploit multiple times on the remote system if any issue...
     ### [8.5本周小结](http://ba1100n.tech/after_meal/8-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-05
 
