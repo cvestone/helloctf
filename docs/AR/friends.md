@@ -77,6 +77,22 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [8.12本周小结](http://ba1100n.tech/after_meal/8-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-08-11
+
+    这周还在家里，在市里图书馆学习，幸好现在图书馆允许用之前老早就安装好的桌子下的电源了·，感谢，但是能不能把狐臭 […]...
+    ### [House_of_apple1](https://yukon.icu/2024/08/10/house_of_apple1/)  
+    >by [Yukon](https://yukon.icu), 2024-08-10
+
+    House_of_apple1简述利用_IO_wstrn_overflow这个函数，通过伪造file的结构，这个函数可以覆盖传入fp->_wide_data上的地址覆盖为可以知道的堆地址，攻击效果和进行一次largebin attack一样，实现任意地址写已知地址。利用条件使用house of apple的条件为：1、程序从main函数返回或能调用exit函数2、能泄露出heap地址和libc地址...
+    ### [House of kiwi & emma](https://yukon.icu/2024/08/09/house_of_kiwi/)  
+    >by [Yukon](https://yukon.icu), 2024-08-09
+
+    本文是为了学习apple做的铺垫，两种利用手法的利用原理是基于ctfshow的pwn213和pwn214动调和一些师傅的博客总结得出，如有侵权联系删除House of kiwi利用条件能够触发__malloc_assert能够申请到_IO_file_sync 和 _IO_helper_jumps这两个位置并且修改。利用原理在函数sysmalloc中，有一个检查top chunk是否对其的代码片段：...
+    ### [堆-杂](https://yukon.icu/2024/08/09/%E5%A0%86-%E6%9D%82/)  
+    >by [Yukon](https://yukon.icu), 2024-08-09
+
+    bb2cd3915cb2779a5ff0f382ab08328858af39cfc75d69237ee2c5d43e061a3defb123903f0149e58a007374380ce1c57ffec623b675ac6f50d051c05d1daad2ddec5493a80375aa2cdd5523d19f500df7bfdecd5af5292e435a80e8dcc97269ca0530...
     ### [TFCctf2024](https://yukon.icu/2024/08/07/TFCctf2024/)  
     >by [Yukon](https://yukon.icu), 2024-08-06
 
@@ -141,21 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-20
 
     今天学习一下Ethfs安装Ethfs-clinpm install -g ethfs-cliethfs-cli upload -f <directory|file> -a <address> -p <private-key> -r [rpc] -t [upload-type]创建Flat Directory 合约ethfs-cli create -p privkeychai...
-    ### [DNS缓存污染实验](https://yukon.icu/2024/07/20/dns_attack/)  
-    >by [Yukon](https://yukon.icu), 2024-07-20
-
-    实验1：DNS缓存污染攻击【实验目的】了解并实践DNS缓存污染攻击：通过实验，深入理解DNS缓存污染攻击的原理和实现方法，包括如何利用DNS事务ID（TXID）猜测与碰撞来实现攻击；学习使用Scapy构造和发送伪造的DNS响应包，掌握使用Scapy工具监听网络流量、构造DNS数据包以及发送伪造响应包的技能；掌握BIND9 DNS服务器的配置方法：通过修改BIND9配置文件，将其查询端口固定化，以便...
-    ### [web3-url-colearning-day5](https://antigone4224.github.io/web3-url-colearning-day5)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-19
-
-    在群组中发送地址，得到了1000测试ETH可以拿来在ETH Storage上传文件https://galileo.web3q.io/file.w3q/0x81fb5c383f192f7fa1f0788e1a06aed26ffac469/b_d42a32a060f284d3ffe3b4cf8cc08501.jpg上传了我的qq头像（成功的存在了galileo测试网上（...
-    ### [vulnhub_machines](https://www.su-cvestone.cn/497/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-18
-
-    方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
-    ### [web3-url-colearning-day4](https://antigone4224.github.io/web3-url-colearning-day4)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-18
-
-    今天学习一下ethstorage。EthStorage 是一个模块化和去中心化的存储 Layer 2，提供由数据可用性（DA）驱动的可编程键值存储。它为 Rollups 提供了长期的数据可用性解决方案，并为完全链上应用程序（如游戏、社交网络、人工智能等）开辟了新的可能性。动机EthStorage 背后的主要动机是提供基于以太坊的长期数据可用性。EIP-4844 引入了数据斑块（dat...
 
 </div>
