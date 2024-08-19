@@ -77,6 +77,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [PwnCollege](https://www.su-cvestone.cn/521/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-08-18
+
+    Optional Refreshers Program Misuse （本系列用的都是同一个程序babysuid） level 1 ......
+    ### [ubuntu libc库大全](https://yukon.icu/2024/08/18/glibc_all_in_one/)  
+    >by [Yukon](https://yukon.icu), 2024-08-18
+
+    3a153b657c1b4a50d0b4b41bc23a9dbbce832fab3f7c9a678438c884837c1d101ac27840183beb9e450aee75d20075b3ad40510f9ea4d1207750ab9db735bd66775cdcdb07489a5c053c152b90c1f7b2a6c8ab92bc5516426c4120431bb11f5171dba6...
     ### [8.12本周小结](http://ba1100n.tech/after_meal/8-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-11
 
@@ -149,13 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-22
 
     Use eth-blob-uploader to upload files via blobsUse eth-blob-uploader to upload files via blobs测试一下blob上传的命令行工具（npm i -g eth-blob-uploader​```eth-blob-uploader -r <rpc> -p <private-key> -f...
-    ### [7.22本周小结](http://ba1100n.tech/after_meal/7-22%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-22
-
-    这周主要是pwn堆调试方面的学习，时隔很久很久重新开始学习堆利用了，这次因为有基础的存在确实学的比较系统，很久 […]...
-    ### [web3-url-colearning-day6](https://antigone4224.github.io/web3-url-colearning-day6)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-20
-
-    今天学习一下Ethfs安装Ethfs-clinpm install -g ethfs-cliethfs-cli upload -f <directory|file> -a <address> -p <private-key> -r [rpc] -t [upload-type]创建Flat Directory 合约ethfs-cli create -p privkeychai...
 
 </div>
