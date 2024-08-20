@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [8.19本周小结](http://ba1100n.tech/after_meal/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-08-19
+
+    周二回到学校了，静下心来看了几天那个栈溢出复现，用户态仿真因为是qemu-user带起来的，有很多特性不一样， […]...
     ### [PwnCollege](https://www.su-cvestone.cn/521/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-18
 
@@ -153,9 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-22
 
     今天就是听课，解答了我之前的一些疑问。。1.manual mod的路由实现问题，老师给了个示范项目// SPDX-License-Identifier: MITpragma solidity ^0.8.0;import "../W3RC3.sol";contract FlatDirectory is W3RC3 {    bytes public defaultFile =...
-    ### [web3-url-colearning-day7](https://antigone4224.github.io/web3-url-colearning-day7)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-22
-
-    Use eth-blob-uploader to upload files via blobsUse eth-blob-uploader to upload files via blobs测试一下blob上传的命令行工具（npm i -g eth-blob-uploader​```eth-blob-uploader -r <rpc> -p <private-key> -f...
 
 </div>
