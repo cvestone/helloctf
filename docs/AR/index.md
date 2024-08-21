@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
+
+    最好用jdk1.8来搭建该靶场，先在源码中的src/main/resources/db.sql找到数据库文件，然后在navicat ......
     ### [8.19本周小结](http://ba1100n.tech/after_meal/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-19
 
@@ -93,6 +97,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-11
 
     这周还在家里，在市里图书馆学习，幸好现在图书馆允许用之前老早就安装好的桌子下的电源了·，感谢，但是能不能把狐臭 […]...
+    ### [House_of_apple2](https://yukon.icu/2024/08/10/hoa2/)  
+    >by [Yukon](https://yukon.icu), 2024-08-10
+
+    House of apple2上一篇博客中我们使用的house of apple1，需要和house of emma一起使用从而控制程序流，这一篇我们利用几条新的IO利用链，只通过劫持_wide_data来控制程序的执行流利用条件已知heap地址和glibc地址能控制程序执行IO操作，包括但不限于：从main函数返回、调用exit函数、通过__malloc_assert触发能控制_IO_FILE的...
     ### [House_of_apple1](https://yukon.icu/2024/08/10/house_of_apple1/)  
     >by [Yukon](https://yukon.icu), 2024-08-10
 
@@ -149,13 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-07-24
 
     springboard分析123456789101112131415161718192021222324int __cdecl main(int argc, const char **argv, const char **envp){  int i; // [rsp+Ch] [rbp-4h]  myinit(argc, argv, envp);  puts("Life is not boring,...
-    ### [浅析_IO_FILE相关利用、FSOP与House_of_Orange技术](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90_io_file%e7%9b%b8%e5%85%b3%e5%88%a9%e7%94%a8%e3%80%81fsop%e4%b8%8ehouse_of_orange%e6%8a%80%e6%9c%af/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-23
-
-    前言 曾经的学习止步于此，现在，在高版本堆的背景下，仍然值得一学 为什么要学习_IO_FILE？ _IO_FI […]...
-    ### [web3-url-colearning-day8](https://antigone4224.github.io/web3-url-colearning-day8)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-22
-
-    今天就是听课，解答了我之前的一些疑问。。1.manual mod的路由实现问题，老师给了个示范项目// SPDX-License-Identifier: MITpragma solidity ^0.8.0;import "../W3RC3.sol";contract FlatDirectory is W3RC3 {    bytes public defaultFile =...
 
 </div>
