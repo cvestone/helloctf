@@ -77,18 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
-    ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
-
-    最好用jdk1.8来搭建该靶场，先在源码中的src/main/resources/db.sql找到数据库文件，然后在navicat ......
     ### [8.19本周小结](http://ba1100n.tech/after_meal/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-19
 
     周二回到学校了，静下心来看了几天那个栈溢出复现，用户态仿真因为是qemu-user带起来的，有很多特性不一样， […]...
-    ### [PwnCollege](https://www.su-cvestone.cn/521/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-08-18
-
-    Optional Refreshers Program Misuse （本系列用的都是同一个程序babysuid） level 1 ......
     ### [ubuntu libc库大全](https://yukon.icu/2024/08/18/glibc_all_in_one/)  
     >by [Yukon](https://yukon.icu), 2024-08-18
 
@@ -121,14 +113,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-05
 
     这周其实效率很低，周一到周四上午的学习主要是arm pwn、mips pwn以及qiling fuzz，但比较 […]...
-    ### [密码保护：PTGA ctf-web培训xxe讲解](https://www.su-cvestone.cn/510/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-30
-
-    无法提供摘要。这是一篇受保护的文章。...
-    ### [密码保护：PTGA ctf-web培训sql注入讲解](https://www.su-cvestone.cn/504/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-30
-
-    无法提供摘要。这是一篇受保护的文章。...
     ### [阅读HITCON2024-setjmp题解笔记](http://ba1100n.tech/binary_security/%e9%98%85%e8%af%bbhitcon2024-setjmp%e9%a2%98%e8%a7%a3%e7%ac%94%e8%ae%b0/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-29
 
@@ -157,5 +141,21 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-07-24
 
     springboard分析123456789101112131415161718192021222324int __cdecl main(int argc, const char **argv, const char **envp){  int i; // [rsp+Ch] [rbp-4h]  myinit(argc, argv, envp);  puts("Life is not boring,...
+    ### [浅析_IO_FILE相关利用、FSOP与House_of_Orange技术](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90_io_file%e7%9b%b8%e5%85%b3%e5%88%a9%e7%94%a8%e3%80%81fsop%e4%b8%8ehouse_of_orange%e6%8a%80%e6%9c%af/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-23
+
+    前言 曾经的学习止步于此，现在，在高版本堆的背景下，仍然值得一学 为什么要学习_IO_FILE？ _IO_FI […]...
+    ### [web3-url-colearning-day8](https://antigone4224.github.io/web3-url-colearning-day8)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-22
+
+    今天就是听课，解答了我之前的一些疑问。。1.manual mod的路由实现问题，老师给了个示范项目// SPDX-License-Identifier: MITpragma solidity ^0.8.0;import "../W3RC3.sol";contract FlatDirectory is W3RC3 {    bytes public defaultFile =...
+    ### [web3-url-colearning-day7](https://antigone4224.github.io/web3-url-colearning-day7)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-22
+
+    Use eth-blob-uploader to upload files via blobsUse eth-blob-uploader to upload files via blobs测试一下blob上传的命令行工具（npm i -g eth-blob-uploader​```eth-blob-uploader -r <rpc> -p <private-key> -f...
+    ### [7.22本周小结](http://ba1100n.tech/after_meal/7-22%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-07-22
+
+    这周主要是pwn堆调试方面的学习，时隔很久很久重新开始学习堆利用了，这次因为有基础的存在确实学的比较系统，很久 […]...
 
 </div>
