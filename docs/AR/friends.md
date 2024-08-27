@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [8.26本周小结](http://ba1100n.tech/after_meal/8-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-08-26
+
+    这周机器到货了以后，连上uart串口，发现机器的各个地址确实是写死的！！甚至是栈地址，居然都是固定的，ret2 […]...
     ### [8.19本周小结](http://ba1100n.tech/after_meal/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-19
 
@@ -153,9 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-22
 
     Use eth-blob-uploader to upload files via blobsUse eth-blob-uploader to upload files via blobs测试一下blob上传的命令行工具（npm i -g eth-blob-uploader​```eth-blob-uploader -r <rpc> -p <private-key> -f...
-    ### [7.22本周小结](http://ba1100n.tech/after_meal/7-22%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-22
-
-    这周主要是pwn堆调试方面的学习，时隔很久很久重新开始学习堆利用了，这次因为有基础的存在确实学的比较系统，很久 […]...
 
 </div>
