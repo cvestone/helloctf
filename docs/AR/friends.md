@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [羊城杯2024](https://yukon.icu/2024/08/28/ycb2024/)  
+    >by [Yukon](https://yukon.icu), 2024-08-28
+
+    羊城杯20241.pstack看汇编能发现控制rbp就能控制buf，溢出只有0x10字节，打栈迁移1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980...
     ### [浅析Vxworks符号表恢复以及vxhunter改进点](http://ba1100n.tech/after_meal/%e6%b5%85%e6%9e%90vxworks%e7%ac%a6%e5%8f%b7%e8%a1%a8%e6%81%a2%e5%a4%8d%e4%bb%a5%e5%8f%8avxhunter%e6%94%b9%e8%bf%9b%e7%82%b9/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-27
 
@@ -153,9 +157,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-23
 
     前言 曾经的学习止步于此，现在，在高版本堆的背景下，仍然值得一学 为什么要学习_IO_FILE？ _IO_FI […]...
-    ### [web3-url-colearning-day8](https://antigone4224.github.io/web3-url-colearning-day8)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-22
-
-    今天就是听课，解答了我之前的一些疑问。。1.manual mod的路由实现问题，老师给了个示范项目// SPDX-License-Identifier: MITpragma solidity ^0.8.0;import "../W3RC3.sol";contract FlatDirectory is W3RC3 {    bytes public defaultFile =...
 
 </div>
