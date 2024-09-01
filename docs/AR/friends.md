@@ -77,11 +77,19 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [8.31本周小结](http://ba1100n.tech/after_meal/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
+
+    本周总结了一下上周的nepctf，学习到了一些之前没有机会了解的东西，比如ptrace，vxworks恢复，但 […]...
+    ### [从NepBox一题看ptrace相关机制](http://ba1100n.tech/binary_security/%e4%bb%8enepbox%e4%b8%80%e9%a2%98%e7%9c%8bptrace%e7%9b%b8%e5%85%b3%e6%9c%ba%e5%88%b6/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
+
+    前言 被ptrace吓住了，看不明白，前几天仔细看了一下，了解了一下父子进程相关机制 赛题 https://n […]...
     ### [羊城杯2024](https://yukon.icu/2024/08/28/ycb2024/)  
     >by [Yukon](https://yukon.icu), 2024-08-28
 
     羊城杯20241.pstack看汇编能发现控制rbp就能控制buf，溢出只有0x10字节，打栈迁移1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980...
-    ### [浅析Vxworks符号表恢复以及vxhunter改进点](http://ba1100n.tech/after_meal/%e6%b5%85%e6%9e%90vxworks%e7%ac%a6%e5%8f%b7%e8%a1%a8%e6%81%a2%e5%a4%8d%e4%bb%a5%e5%8f%8avxhunter%e6%94%b9%e8%bf%9b%e7%82%b9/)  
+    ### [浅析Vxworks符号表恢复以及vxhunter改进点](http://ba1100n.tech/iot_security/%e6%b5%85%e6%9e%90vxworks%e7%ac%a6%e5%8f%b7%e8%a1%a8%e6%81%a2%e5%a4%8d%e4%bb%a5%e5%8f%8avxhunter%e6%94%b9%e8%bf%9b%e7%82%b9/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-27
 
     前言 上次挖水星路由器，没有机会恢复Vxworks符号表，因为固件内部已经抹除了符号表了(其实没有完全抹掉，下 […]...
@@ -149,13 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-07-24
 
     House Of  Orange2.23见wkctf复现一文：https://yukon.icu/2024/07/18/wkctf/2.24新增检测以及绕过思路与2.23不同的点在于，2.24对于vtable的位置进行了约束，增加了一个检测函数：IO_validate_vtable123456789101112static inline const struct _IO_jump_t *IO_va...
-    ### [DASCTF2024复现](https://yukon.icu/2024/07/24/dasctf2024/)  
-    >by [Yukon](https://yukon.icu), 2024-07-24
-
-    springboard分析123456789101112131415161718192021222324int __cdecl main(int argc, const char **argv, const char **envp){  int i; // [rsp+Ch] [rbp-4h]  myinit(argc, argv, envp);  puts("Life is not boring,...
-    ### [浅析_IO_FILE相关利用、FSOP与House_of_Orange技术](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90_io_file%e7%9b%b8%e5%85%b3%e5%88%a9%e7%94%a8%e3%80%81fsop%e4%b8%8ehouse_of_orange%e6%8a%80%e6%9c%af/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-23
-
-    前言 曾经的学习止步于此，现在，在高版本堆的背景下，仍然值得一学 为什么要学习_IO_FILE？ _IO_FI […]...
 
 </div>
