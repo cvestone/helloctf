@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [pwn出题](https://yukon.icu/2024/09/01/pwn%E5%87%BA%E9%A2%98/)  
+    >by [Yukon](https://yukon.icu), 2024-09-01
+
+    生成题目附件编写放一个ret2libc的模板在这里，注意尽量将主要逻辑放在单独的函数中，并且在进入这个函数之前要设置流，否则docker中需要换行才能有输出123456789101112131415161718192021#include <stdio.h>#include <stdlib.h>#include <string.h>void init() {    setvbuf(stdout,...
     ### [8.31本周小结](http://ba1100n.tech/after_meal/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
 
@@ -153,9 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-07-25
 
     Bugku_AWD_PWNbugku的 “当前可公开信息”：bugku的awd会给我们一个ip，例如本次比赛我们队的ip是192-168-1-21.pvp4772.bugku.cn，其他人的ip是192-168-1-X.pvp4772.bugku.cn，需要我们自己写脚本发现账号密码：team1:206a75a313e0cded3610aa5e4exxxxxxtoken（用来使用api提交flag...
-    ### [House_of_orange](https://yukon.icu/2024/07/25/house_of_orange/)  
-    >by [Yukon](https://yukon.icu), 2024-07-24
-
-    House Of  Orange2.23见wkctf复现一文：https://yukon.icu/2024/07/18/wkctf/2.24新增检测以及绕过思路与2.23不同的点在于，2.24对于vtable的位置进行了约束，增加了一个检测函数：IO_validate_vtable123456789101112static inline const struct _IO_jump_t *IO_va...
 
 </div>
