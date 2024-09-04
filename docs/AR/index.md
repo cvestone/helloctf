@@ -81,7 +81,7 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-09-01
 
     生成题目附件编写放一个ret2libc的模板在这里，注意尽量将主要逻辑放在单独的函数中，并且在进入这个函数之前要设置流，否则docker中需要换行才能有输出123456789101112131415161718192021#include <stdio.h>#include <stdlib.h>#include <string.h>void init() {    setvbuf(stdout,...
-    ### [8.31本周小结](http://ba1100n.tech/after_meal/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    ### [8.31本周小结](http://ba1100n.tech/weekly_diary/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
 
     本周总结了一下上周的nepctf，学习到了一些之前没有机会了解的东西，比如ptrace，vxworks恢复，但 […]...
@@ -97,11 +97,11 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-27
 
     前言 上次挖水星路由器，没有机会恢复Vxworks符号表，因为固件内部已经抹除了符号表了(其实没有完全抹掉，下 […]...
-    ### [8.26本周小结](http://ba1100n.tech/after_meal/8-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    ### [8.26本周小结](http://ba1100n.tech/weekly_diary/8-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-26
 
     这周机器到货了以后，连上uart串口，发现机器的各个地址确实是写死的！！甚至是栈地址，居然都是固定的，ret2 […]...
-    ### [8.19本周小结](http://ba1100n.tech/after_meal/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    ### [8.19本周小结](http://ba1100n.tech/weekly_diary/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-19
 
     周二回到学校了，静下心来看了几天那个栈溢出复现，用户态仿真因为是qemu-user带起来的，有很多特性不一样， […]...
@@ -109,7 +109,7 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-08-18
 
     3a153b657c1b4a50d0b4b41bc23a9dbbce832fab3f7c9a678438c884837c1d101ac27840183beb9e450aee75d20075b3ad40510f9ea4d1207750ab9db735bd66775cdcdb07489a5c053c152b90c1f7b2a6c8ab92bc5516426c4120431bb11f5171dba6...
-    ### [8.12本周小结](http://ba1100n.tech/after_meal/8-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    ### [8.12本周小结](http://ba1100n.tech/weekly_diary/8-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-11
 
     这周还在家里，在市里图书馆学习，幸好现在图书馆允许用之前老早就安装好的桌子下的电源了·，感谢，但是能不能把狐臭 […]...
@@ -133,7 +133,7 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-08-06
 
     可惜来的有点晚了，比赛已经结束了GUARD-THE-BYPASSGuard this cookie.Note: If you successfully create a working exploit in the provided Docker, ensure you try the exploit multiple times on the remote system if any issue...
-    ### [8.5本周小结](http://ba1100n.tech/after_meal/8-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    ### [8.5本周小结](http://ba1100n.tech/weekly_diary/8-5%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-05
 
     这周其实效率很低，周一到周四上午的学习主要是arm pwn、mips pwn以及qiling fuzz，但比较 […]...
@@ -141,7 +141,7 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-29
 
     前言 做这道题的时候当时刚刚重新学堆，其实确实观察到uaf的点，以及想到剩下root本身就可以double f […]...
-    ### [7.26本周小结](http://ba1100n.tech/after_meal/7-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    ### [7.26本周小结](http://ba1100n.tech/weekly_diary/7-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-26
 
     这周的周一到周三主要是跟着Nop师傅去分析了几个固件，然后发现很多时候之所以我到今天都还没有cve编号，其实是 […]...
