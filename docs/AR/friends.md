@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [9.9本周小结](http://ba1100n.tech/weekly_diary/9-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-09-09
+
+    开学以后，很多事情突然开始来了，这周刚开始主要是完成了一些之前没搞好的手续，其实还是导致有点精神紧张了，甚至头 […]...
     ### [pwn出题](https://yukon.icu/2024/09/01/pwn%E5%87%BA%E9%A2%98/)  
     >by [Yukon](https://yukon.icu), 2024-09-01
 
@@ -145,10 +149,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-26
 
     这周的周一到周三主要是跟着Nop师傅去分析了几个固件，然后发现很多时候之所以我到今天都还没有cve编号，其实是 […]...
-    ### [浅析tcache安全机制演进过程与绕过手法](http://ba1100n.tech/binary_security/%e6%b5%85%e6%9e%90tcache%e5%ae%89%e5%85%a8%e6%9c%ba%e5%88%b6%e6%bc%94%e8%bf%9b%e8%bf%87%e7%a8%8b%e4%b8%8e%e7%bb%95%e8%bf%87%e6%89%8b%e6%b3%95/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-26
-
-    前言 本文重点关注tcache本身的结构、取用放入的原子操作，以及其free安全机制的演变过程， 大概分水岭在 […]...
     ### [House Of Roman](https://yukon.icu/2024/07/26/io_stdout_libc/)  
     >by [Yukon](https://yukon.icu), 2024-07-26
 
