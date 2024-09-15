@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [9.14本周小结](http://ba1100n.tech/weekly_diary/9-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-09-14
+
+    这周开头的时候其实还是看paper看得很认真很认真的，而且当晚也能通过疯狂看iot的东西平衡一下，大概两者时间 […]...
     ### [9.9本周小结](http://ba1100n.tech/weekly_diary/9-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-09
 
@@ -145,10 +149,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-07-29
 
     前言 做这道题的时候当时刚刚重新学堆，其实确实观察到uaf的点，以及想到剩下root本身就可以double f […]...
-    ### [7.26本周小结](http://ba1100n.tech/weekly_diary/7-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-26
-
-    这周的周一到周三主要是跟着Nop师傅去分析了几个固件，然后发现很多时候之所以我到今天都还没有cve编号，其实是 […]...
     ### [House Of Roman](https://yukon.icu/2024/07/26/io_stdout_libc/)  
     >by [Yukon](https://yukon.icu), 2024-07-26
 
