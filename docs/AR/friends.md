@@ -81,6 +81,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-14
 
     这周开头的时候其实还是看paper看得很认真很认真的，而且当晚也能通过疯狂看iot的东西平衡一下，大概两者时间 […]...
+    ### [cve-2023-27021](https://yukon.icu/2024/09/15/cve-2023-27021/)  
+    >by [Yukon](https://yukon.icu), 2024-09-14
+
+    cve-2023-27021搭建qemu环境https://blog.csdn.net/weixin_44458100/article/details/136042605网上找了好几篇，最终参考了这篇博客AARCH64的工具链安装准备：1sudo apt-get install gcc-aarch64-linux-gnu -y下载编译安装QEMU12wget https://download.qe...
     ### [9.9本周小结](http://ba1100n.tech/weekly_diary/9-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-09
 
@@ -153,9 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-07-26
 
     De1CTF weapon1234567891011unsigned __int64 menu(){  unsigned __int64 v1; // [rsp+8h] [rbp-8h]  v1 = __readfsqword(0x28u);  puts("1. create you weapon");  puts("2. delete you weapon");  puts("3. rename...
-    ### [bugku_awd_pwn](https://yukon.icu/2024/07/26/awd_bugku1/)  
-    >by [Yukon](https://yukon.icu), 2024-07-25
-
-    Bugku_AWD_PWNbugku的 “当前可公开信息”：bugku的awd会给我们一个ip，例如本次比赛我们队的ip是192-168-1-21.pvp4772.bugku.cn，其他人的ip是192-168-1-X.pvp4772.bugku.cn，需要我们自己写脚本发现账号密码：team1:206a75a313e0cded3610aa5e4exxxxxxtoken（用来使用api提交flag...
 
 </div>
