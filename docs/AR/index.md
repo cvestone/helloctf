@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [9.23本周小结](http://ba1100n.tech/weekly_diary/9-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-09-23
+
+    这周主要就是赶紧看老师安排的论文，然后我发现如果真的想要学深度学习，以前看公式推导什么的去理解，现在发现理解底 […]...
     ### [9.14本周小结](http://ba1100n.tech/weekly_diary/9-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-14
 
@@ -149,10 +153,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-05
 
     这周其实效率很低，周一到周四上午的学习主要是arm pwn、mips pwn以及qiling fuzz，但比较 […]...
-    ### [阅读HITCON2024-setjmp题解笔记](http://ba1100n.tech/binary_security/%e9%98%85%e8%af%bbhitcon2024-setjmp%e9%a2%98%e8%a7%a3%e7%ac%94%e8%ae%b0/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-07-29
-
-    前言 做这道题的时候当时刚刚重新学堆，其实确实观察到uaf的点，以及想到剩下root本身就可以double f […]...
     ### [House Of Roman](https://yukon.icu/2024/07/26/io_stdout_libc/)  
     >by [Yukon](https://yukon.icu), 2024-07-26
 
