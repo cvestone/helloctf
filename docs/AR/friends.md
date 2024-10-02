@@ -89,18 +89,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-14
 
     这周开头的时候其实还是看paper看得很认真很认真的，而且当晚也能通过疯狂看iot的东西平衡一下，大概两者时间 […]...
-    ### [cve-2023-27021](https://yukon.icu/2024/09/15/cve-2023-27021/)  
-    >by [Yukon](https://yukon.icu), 2024-09-14
-
-    cve-2023-27021搭建qemu环境https://blog.csdn.net/weixin_44458100/article/details/136042605网上找了好几篇，最终参考了这篇博客AARCH64的工具链安装准备：1sudo apt-get install gcc-aarch64-linux-gnu -y下载编译安装QEMU12wget https://download.qe...
     ### [9.9本周小结](http://ba1100n.tech/weekly_diary/9-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-09
 
     开学以后，很多事情突然开始来了，这周刚开始主要是完成了一些之前没搞好的手续，其实还是导致有点精神紧张了，甚至头 […]...
-    ### [pwn出题](https://yukon.icu/2024/09/01/pwn%E5%87%BA%E9%A2%98/)  
-    >by [Yukon](https://yukon.icu), 2024-09-01
-
-    生成题目附件编写放一个ret2libc的模板在这里，注意尽量将主要逻辑放在单独的函数中，并且在进入这个函数之前要设置流，否则docker中需要换行才能有输出123456789101112131415161718192021#include <stdio.h>#include <stdlib.h>#include <string.h>void init() {    setvbuf(stdout,...
     ### [8.31本周小结](http://ba1100n.tech/weekly_diary/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
 
@@ -109,10 +101,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
 
     前言 被ptrace吓住了，看不明白，前几天仔细看了一下，了解了一下父子进程相关机制 赛题 https://n […]...
-    ### [羊城杯2024](https://yukon.icu/2024/08/28/ycb2024/)  
-    >by [Yukon](https://yukon.icu), 2024-08-28
-
-    羊城杯20241.pstack看汇编能发现控制rbp就能控制buf，溢出只有0x10字节，打栈迁移1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980...
     ### [浅析Vxworks符号表恢复以及vxhunter改进点](http://ba1100n.tech/iot_security/%e6%b5%85%e6%9e%90vxworks%e7%ac%a6%e5%8f%b7%e8%a1%a8%e6%81%a2%e5%a4%8d%e4%bb%a5%e5%8f%8avxhunter%e6%94%b9%e8%bf%9b%e7%82%b9/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-27
 
@@ -125,37 +113,49 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-19
 
     周二回到学校了，静下心来看了几天那个栈溢出复现，用户态仿真因为是qemu-user带起来的，有很多特性不一样， […]...
-    ### [ubuntu libc库大全](https://yukon.icu/2024/08/18/glibc_all_in_one/)  
-    >by [Yukon](https://yukon.icu), 2024-08-18
-
-    3a153b657c1b4a50d0b4b41bc23a9dbbce832fab3f7c9a678438c884837c1d101ac27840183beb9e450aee75d20075b3ad40510f9ea4d1207750ab9db735bd66775cdcdb07489a5c053c152b90c1f7b2a6c8ab92bc5516426c4120431bb11f5171dba6...
     ### [8.12本周小结](http://ba1100n.tech/weekly_diary/8-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-11
 
     这周还在家里，在市里图书馆学习，幸好现在图书馆允许用之前老早就安装好的桌子下的电源了·，感谢，但是能不能把狐臭 […]...
-    ### [House_of_apple2](https://yukon.icu/2024/08/10/hoa2/)  
-    >by [Yukon](https://yukon.icu), 2024-08-10
+    ### [web3-url-colearning-day8](https://antigone4224.github.io/web3-url-colearning-day8)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-22
 
-    House of apple2上一篇博客中我们使用的house of apple1，需要和house of emma一起使用从而控制程序流，这一篇我们利用几条新的IO利用链，只通过劫持_wide_data来控制程序的执行流利用条件已知heap地址和glibc地址能控制程序执行IO操作，包括但不限于：从main函数返回、调用exit函数、通过__malloc_assert触发能控制_IO_FILE的...
-    ### [House_of_apple1](https://yukon.icu/2024/08/10/house_of_apple1/)  
-    >by [Yukon](https://yukon.icu), 2024-08-10
+    今天就是听课，解答了我之前的一些疑问。。1.manual mod的路由实现问题，老师给了个示范项目// SPDX-License-Identifier: MITpragma solidity ^0.8.0;import "../W3RC3.sol";contract FlatDirectory is W3RC3 {    bytes public defaultFile =...
+    ### [web3-url-colearning-day7](https://antigone4224.github.io/web3-url-colearning-day7)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-22
 
-    House_of_apple1简述利用_IO_wstrn_overflow这个函数，通过伪造file的结构，这个函数可以覆盖传入fp->_wide_data上的地址覆盖为可以知道的堆地址，攻击效果和进行一次largebin attack一样，实现任意地址写已知地址。利用条件使用house of apple的条件为：1、程序从main函数返回或能调用exit函数2、能泄露出heap地址和libc地址...
-    ### [House of kiwi & emma](https://yukon.icu/2024/08/09/house_of_kiwi/)  
-    >by [Yukon](https://yukon.icu), 2024-08-09
+    Use eth-blob-uploader to upload files via blobsUse eth-blob-uploader to upload files via blobs测试一下blob上传的命令行工具（npm i -g eth-blob-uploader​```eth-blob-uploader -r <rpc> -p <private-key> -f...
+    ### [web3-url-colearning-day6](https://antigone4224.github.io/web3-url-colearning-day6)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-20
 
-    本文是为了学习apple做的铺垫，两种利用手法的利用原理是基于ctfshow的pwn213和pwn214动调和一些师傅的博客总结得出，如有侵权联系删除House of kiwi利用条件能够触发__malloc_assert能够申请到_IO_file_sync 和 _IO_helper_jumps这两个位置并且修改。利用原理在函数sysmalloc中，有一个检查top chunk是否对其的代码片段：...
-    ### [堆-杂](https://yukon.icu/2024/08/09/%E5%A0%86-%E6%9D%82/)  
-    >by [Yukon](https://yukon.icu), 2024-08-09
+    今天学习一下Ethfs安装Ethfs-clinpm install -g ethfs-cliethfs-cli upload -f <directory|file> -a <address> -p <private-key> -r [rpc] -t [upload-type]创建Flat Directory 合约ethfs-cli create -p privkeychai...
+    ### [web3-url-colearning-day5](https://antigone4224.github.io/web3-url-colearning-day5)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-19
 
-    bb2cd3915cb2779a5ff0f382ab08328858af39cfc75d69237ee2c5d43e061a3defb123903f0149e58a007374380ce1c57ffec623b675ac6f50d051c05d1daad2ddec5493a80375aa2cdd5523d19f500df7bfdecd5af5292e435a80e8dcc97269ca0530...
-    ### [TFCctf2024](https://yukon.icu/2024/08/07/TFCctf2024/)  
-    >by [Yukon](https://yukon.icu), 2024-08-06
+    在群组中发送地址，得到了1000测试ETH可以拿来在ETH Storage上传文件https://galileo.web3q.io/file.w3q/0x81fb5c383f192f7fa1f0788e1a06aed26ffac469/b_d42a32a060f284d3ffe3b4cf8cc08501.jpg上传了我的qq头像（成功的存在了galileo测试网上（...
+    ### [web3-url-colearning-day4](https://antigone4224.github.io/web3-url-colearning-day4)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-18
 
-    可惜来的有点晚了，比赛已经结束了GUARD-THE-BYPASSGuard this cookie.Note: If you successfully create a working exploit in the provided Docker, ensure you try the exploit multiple times on the remote system if any issue...
-    ### [House Of Roman](https://yukon.icu/2024/07/26/io_stdout_libc/)  
-    >by [Yukon](https://yukon.icu), 2024-07-26
+    今天学习一下ethstorage。EthStorage 是一个模块化和去中心化的存储 Layer 2，提供由数据可用性（DA）驱动的可编程键值存储。它为 Rollups 提供了长期的数据可用性解决方案，并为完全链上应用程序（如游戏、社交网络、人工智能等）开辟了新的可能性。动机EthStorage 背后的主要动机是提供基于以太坊的长期数据可用性。EIP-4844 引入了数据斑块（dat...
+    ### [web3-url-colearning-day3](https://antigone4224.github.io/web3-url-colearning-day3)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-17
 
-    De1CTF weapon1234567891011unsigned __int64 menu(){  unsigned __int64 v1; // [rsp+8h] [rbp-8h]  v1 = __readfsqword(0x28u);  puts("1. create you weapon");  puts("2. delete you weapon");  puts("3. rename...
+    今天稍微有点事情，可能就没法接着把hw做完了，打算完善一下对于resolve mod的理解,阅读ERC 6860文档，对比Auto Mod 和manual  Mod的区别：the protocol will call the address with “Calldata” = keccak("resolveMode()")[0:4] = “0xDD473FAE”在第一访问的开始，会尝试调...
+    ### [web3-url-colearning-day2](https://antigone4224.github.io/web3-url-colearning-day2)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-16
+
+    hw1:Find the ownership of an your favor NFT查询一下slides里展示的cyberbrokers吧ERC721有ownerOf方法可以通过tokenid查询owner的地址在etherscan上查询的合约地址可以调用ownerOf方法，然而cyberbrokers-meta这个地址却不能再尝试了一下发现那个0x89的合约地址同样...
+    ### [“web3-url-colearing-day1”](https://antigone4224.github.io/web3-url-colearing-day1)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-15
+
+    预习了一下第一次的 slides,简单的介绍了一下web3://协议ERC-4804提出了使用RFC 2396 URI来表示一个以太坊消息调用，给予了我们一种直接访问以太坊区块链的方式，也就是web3 url，从此不再需要经过http://或者ipfs的代理。可以参考下面这张图（直接从slides里扒的链接，可能会没法加载= =）下面的标识是对应URI的RFC标准，上面的标识是对应了对...
+    ### [Cereberus 2024](https://megachar0x01.github.io/posts/98ec204106d3e4d225d14217d9e16f106f5d8f0e3d1c8c1a3eb4d6184f7316d7/)  
+    >by [virus](https://megachar0x01.github.io), 2024-03-16
+
+    First, we begin with basic analysis. This involves checking its hash on VirusTotal and extracting hashes using HashMyFile. Checking on VirusTotal. After obtaining some hits, it’s time to invest more t...
+    ### [xnuca2020-babyV8](https://blog.csdn.net/qq_62172019/article/details/136332456)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-02-27
+
+    xnuca2020-babyV8...
 
 </div>
