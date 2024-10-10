@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [10.7本周小结](http://ba1100n.tech/weekly_diary/10-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-10-07
+
+    国庆快乐，这周前两天都不敢回去，在学校学习，但是后面还是觉得人都走了，自己还在那边的话状态不行，就回家去图书馆 […]...
     ### [9.28本周小结](http://ba1100n.tech/weekly_diary/9-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-28
 
@@ -121,18 +125,22 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-26
 
     这周机器到货了以后，连上uart串口，发现机器的各个地址确实是写死的！！甚至是栈地址，居然都是固定的，ret2 […]...
+    ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
+
+    最好用jdk1.8来搭建该靶场，先在源码中的src/main/resources/db.sql找到数据库文件，然后在navicat ......
     ### [8.19本周小结](http://ba1100n.tech/weekly_diary/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-19
 
     周二回到学校了，静下心来看了几天那个栈溢出复现，用户态仿真因为是qemu-user带起来的，有很多特性不一样， […]...
+    ### [PwnCollege](https://www.su-cvestone.cn/521/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-08-18
+
+    Optional Refreshers Program Misuse （本系列用的都是同一个程序babysuid） level 1 ......
     ### [ubuntu libc库大全](https://yukon.icu/2024/08/18/glibc_all_in_one/)  
     >by [Yukon](https://yukon.icu), 2024-08-18
 
     3a153b657c1b4a50d0b4b41bc23a9dbbce832fab3f7c9a678438c884837c1d101ac27840183beb9e450aee75d20075b3ad40510f9ea4d1207750ab9db735bd66775cdcdb07489a5c053c152b90c1f7b2a6c8ab92bc5516426c4120431bb11f5171dba6...
-    ### [8.12本周小结](http://ba1100n.tech/weekly_diary/8-12%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-08-11
-
-    这周还在家里，在市里图书馆学习，幸好现在图书馆允许用之前老早就安装好的桌子下的电源了·，感谢，但是能不能把狐臭 […]...
     ### [House_of_apple2](https://yukon.icu/2024/08/10/hoa2/)  
     >by [Yukon](https://yukon.icu), 2024-08-10
 
@@ -149,13 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-08-09
 
     bb2cd3915cb2779a5ff0f382ab08328858af39cfc75d69237ee2c5d43e061a3defb123903f0149e58a007374380ce1c57ffec623b675ac6f50d051c05d1daad2ddec5493a80375aa2cdd5523d19f500df7bfdecd5af5292e435a80e8dcc97269ca0530...
-    ### [TFCctf2024](https://yukon.icu/2024/08/07/TFCctf2024/)  
-    >by [Yukon](https://yukon.icu), 2024-08-06
-
-    可惜来的有点晚了，比赛已经结束了GUARD-THE-BYPASSGuard this cookie.Note: If you successfully create a working exploit in the provided Docker, ensure you try the exploit multiple times on the remote system if any issue...
-    ### [House Of Roman](https://yukon.icu/2024/07/26/io_stdout_libc/)  
-    >by [Yukon](https://yukon.icu), 2024-07-26
-
-    De1CTF weapon1234567891011unsigned __int64 menu(){  unsigned __int64 v1; // [rsp+8h] [rbp-8h]  v1 = __readfsqword(0x28u);  puts("1. create you weapon");  puts("2. delete you weapon");  puts("3. rename...
 
 </div>
