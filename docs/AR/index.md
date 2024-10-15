@@ -77,6 +77,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [10.14本周小结](http://ba1100n.tech/weekly_diary/10-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-10-14
+
+    这周病了大半周，新冠还是那个新冠，真厉害，真毒辣 收尾了一些事情，其实就是提交一些个漏洞什么的 头还是晕，想不 […]...
+    ### [安网杯复盘-awd](https://yukon.icu/2024/10/15/awb/)  
+    >by [Yukon](https://yukon.icu), 2024-10-14
+
+    2c1bd9eed3688030ff4ca93c071a4450376bb599a9f818e227097808d67a98ffba0aae20129f6137c2a9709033068ebfe3726ee3719d3f57a48fd0825023f687b5ffa820fdc0defc3c6c95aa23bf062b17e309376db822d448f59a620d0995f584c7b5...
     ### [10.7本周小结](http://ba1100n.tech/weekly_diary/10-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-07
 
@@ -129,10 +137,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
     最好用jdk1.8来搭建该靶场，先在源码中的src/main/resources/db.sql找到数据库文件，然后在navicat ......
-    ### [8.19本周小结](http://ba1100n.tech/weekly_diary/8-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-08-19
-
-    周二回到学校了，静下心来看了几天那个栈溢出复现，用户态仿真因为是qemu-user带起来的，有很多特性不一样， […]...
     ### [PwnCollege](https://www.su-cvestone.cn/521/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-18
 
@@ -153,9 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-08-09
 
     本文是为了学习apple做的铺垫，两种利用手法的利用原理是基于ctfshow的pwn213和pwn214动调和一些师傅的博客总结得出，如有侵权联系删除House of kiwi利用条件能够触发__malloc_assert能够申请到_IO_file_sync 和 _IO_helper_jumps这两个位置并且修改。利用原理在函数sysmalloc中，有一个检查top chunk是否对其的代码片段：...
-    ### [堆-杂](https://yukon.icu/2024/08/09/%E5%A0%86-%E6%9D%82/)  
-    >by [Yukon](https://yukon.icu), 2024-08-09
-
-    bb2cd3915cb2779a5ff0f382ab08328858af39cfc75d69237ee2c5d43e061a3defb123903f0149e58a007374380ce1c57ffec623b675ac6f50d051c05d1daad2ddec5493a80375aa2cdd5523d19f500df7bfdecd5af5292e435a80e8dcc97269ca0530...
 
 </div>
