@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [10.19本周小结](http://ba1100n.tech/weekly_diary/10-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-10-19
+
+    这周前两天还是继续生病，甚至一度发展到吃东西会有想呕吐感吃不下但是又饿到头晕，所以周末还得继续努力了 这周又把 […]...
     ### [10.14本周小结](http://ba1100n.tech/weekly_diary/10-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-14
 
@@ -129,10 +133,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-27
 
     前言 上次挖水星路由器，没有机会恢复Vxworks符号表，因为固件内部已经抹除了符号表了(其实没有完全抹掉，下 […]...
-    ### [8.26本周小结](http://ba1100n.tech/weekly_diary/8-26%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-08-26
-
-    这周机器到货了以后，连上uart串口，发现机器的各个地址确实是写死的！！甚至是栈地址，居然都是固定的，ret2 […]...
     ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
