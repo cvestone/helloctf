@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [(转载)浅析 Linux 程序的 Canary 机制](https://www.su-cvestone.cn/538/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-10-24
+
+    【转载原出处】 原作者：Kiprey 转载原因：对Canary机制的研究分析很透彻，很有参考价值，怕有天该好文章丢失找不到了。 一 ......
     ### [10.19本周小结](http://ba1100n.tech/weekly_diary/10-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-19
 
@@ -153,9 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-08-10
 
     House_of_apple1简述利用_IO_wstrn_overflow这个函数，通过伪造file的结构，这个函数可以覆盖传入fp->_wide_data上的地址覆盖为可以知道的堆地址，攻击效果和进行一次largebin attack一样，实现任意地址写已知地址。利用条件使用house of apple的条件为：1、程序从main函数返回或能调用exit函数2、能泄露出heap地址和libc地址...
-    ### [House of kiwi & emma](https://yukon.icu/2024/08/09/house_of_kiwi/)  
-    >by [Yukon](https://yukon.icu), 2024-08-09
-
-    本文是为了学习apple做的铺垫，两种利用手法的利用原理是基于ctfshow的pwn213和pwn214动调和一些师傅的博客总结得出，如有侵权联系删除House of kiwi利用条件能够触发__malloc_assert能够申请到_IO_file_sync 和 _IO_helper_jumps这两个位置并且修改。利用原理在函数sysmalloc中，有一个检查top chunk是否对其的代码片段：...
 
 </div>
