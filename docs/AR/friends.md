@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [BlackHat Qualifier cockatoo](https://megachar0x01.github.io/posts/cockatoo_BlackHat_2024_Qualifier/)  
+    >by [virus](https://megachar0x01.github.io), 2024-10-26
+
+    Purpose : Get The Flag #!/usr/bin/python3 from pwn import * import struct from ctypes import * import subprocess context.terminal = ['tmux','splitw'] os.environ['XDG_CACHE_HOME'] = '/tmp/' context.log...
     ### [(转载)浅析 Linux 程序的 Canary 机制](https://www.su-cvestone.cn/538/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-10-24
 
@@ -153,9 +157,5 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-08-10
 
     House of apple2上一篇博客中我们使用的house of apple1，需要和house of emma一起使用从而控制程序流，这一篇我们利用几条新的IO利用链，只通过劫持_wide_data来控制程序的执行流利用条件已知heap地址和glibc地址能控制程序执行IO操作，包括但不限于：从main函数返回、调用exit函数、通过__malloc_assert触发能控制_IO_FILE的...
-    ### [House_of_apple1](https://yukon.icu/2024/08/10/house_of_apple1/)  
-    >by [Yukon](https://yukon.icu), 2024-08-10
-
-    House_of_apple1简述利用_IO_wstrn_overflow这个函数，通过伪造file的结构，这个函数可以覆盖传入fp->_wide_data上的地址覆盖为可以知道的堆地址，攻击效果和进行一次largebin attack一样，实现任意地址写已知地址。利用条件使用house of apple的条件为：1、程序从main函数返回或能调用exit函数2、能泄露出heap地址和libc地址...
 
 </div>
