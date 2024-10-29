@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [10.28本周小结](http://ba1100n.tech/weekly_diary/10-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-10-28
+
+    又生病了，还是该运动一下的 这周在科研方向的进展主要是实现了信道模型的计算函数，实际上我发现自从梳理之前的项目 […]...
     ### [BlackHat Qualifier cockatoo](https://megachar0x01.github.io/posts/cockatoo_BlackHat_2024_Qualifier/)  
     >by [virus](https://megachar0x01.github.io), 2024-10-26
 
@@ -137,10 +141,6 @@ hide:
     >by [Yukon](https://yukon.icu), 2024-08-28
 
     羊城杯20241.pstack看汇编能发现控制rbp就能控制buf，溢出只有0x10字节，打栈迁移1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980...
-    ### [浅析Vxworks符号表恢复以及vxhunter改进点](http://ba1100n.tech/iot_security/%e6%b5%85%e6%9e%90vxworks%e7%ac%a6%e5%8f%b7%e8%a1%a8%e6%81%a2%e5%a4%8d%e4%bb%a5%e5%8f%8avxhunter%e6%94%b9%e8%bf%9b%e7%82%b9/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-08-27
-
-    前言 上次挖水星路由器，没有机会恢复Vxworks符号表，因为固件内部已经抹除了符号表了(其实没有完全抹掉，下 […]...
     ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
