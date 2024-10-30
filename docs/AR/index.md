@@ -97,10 +97,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-14
 
     这周病了大半周，新冠还是那个新冠，真厉害，真毒辣 收尾了一些事情，其实就是提交一些个漏洞什么的 头还是晕，想不 […]...
-    ### [安网杯复盘-awd](https://yukon.icu/2024/10/15/awb/)  
-    >by [Yukon](https://yukon.icu), 2024-10-14
-
-    2c1bd9eed3688030ff4ca93c071a4450376bb599a9f818e227097808d67a98ffba0aae20129f6137c2a9709033068ebfe3726ee3719d3f57a48fd0825023f687b5ffa820fdc0defc3c6c95aa23bf062b17e309376db822d448f59a620d0995f584c7b5...
     ### [10.7本周小结](http://ba1100n.tech/weekly_diary/10-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-07
 
@@ -117,18 +113,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-14
 
     这周开头的时候其实还是看paper看得很认真很认真的，而且当晚也能通过疯狂看iot的东西平衡一下，大概两者时间 […]...
-    ### [cve-2023-27021](https://yukon.icu/2024/09/15/cve-2023-27021/)  
-    >by [Yukon](https://yukon.icu), 2024-09-14
-
-    cve-2023-27021搭建qemu环境https://blog.csdn.net/weixin_44458100/article/details/136042605网上找了好几篇，最终参考了这篇博客AARCH64的工具链安装准备：1sudo apt-get install gcc-aarch64-linux-gnu -y下载编译安装QEMU12wget https://download.qe...
     ### [9.9本周小结](http://ba1100n.tech/weekly_diary/9-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-09
 
     开学以后，很多事情突然开始来了，这周刚开始主要是完成了一些之前没搞好的手续，其实还是导致有点精神紧张了，甚至头 […]...
-    ### [pwn出题](https://yukon.icu/2024/09/01/pwn%E5%87%BA%E9%A2%98/)  
-    >by [Yukon](https://yukon.icu), 2024-09-01
-
-    生成题目附件编写放一个ret2libc的模板在这里，注意尽量将主要逻辑放在单独的函数中，并且在进入这个函数之前要设置流，否则docker中需要换行才能有输出123456789101112131415161718192021#include <stdio.h>#include <stdlib.h>#include <string.h>void init() {    setvbuf(stdout,...
     ### [8.31本周小结](http://ba1100n.tech/weekly_diary/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
 
@@ -137,10 +125,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
 
     前言 被ptrace吓住了，看不明白，前几天仔细看了一下，了解了一下父子进程相关机制 赛题 https://n […]...
-    ### [羊城杯2024](https://yukon.icu/2024/08/28/ycb2024/)  
-    >by [Yukon](https://yukon.icu), 2024-08-28
-
-    羊城杯20241.pstack看汇编能发现控制rbp就能控制buf，溢出只有0x10字节，打栈迁移1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768697071727374757677787980...
     ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
@@ -149,13 +133,29 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-18
 
     Optional Refreshers Program Misuse （本系列用的都是同一个程序babysuid） level 1 ......
-    ### [ubuntu libc库大全](https://yukon.icu/2024/08/18/glibc_all_in_one/)  
-    >by [Yukon](https://yukon.icu), 2024-08-18
+    ### [密码保护：PTGA ctf-web培训xxe讲解](https://www.su-cvestone.cn/510/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-30
 
-    3a153b657c1b4a50d0b4b41bc23a9dbbce832fab3f7c9a678438c884837c1d101ac27840183beb9e450aee75d20075b3ad40510f9ea4d1207750ab9db735bd66775cdcdb07489a5c053c152b90c1f7b2a6c8ab92bc5516426c4120431bb11f5171dba6...
-    ### [House_of_apple2](https://yukon.icu/2024/08/10/hoa2/)  
-    >by [Yukon](https://yukon.icu), 2024-08-10
+    无法提供摘要。这是一篇受保护的文章。...
+    ### [密码保护：PTGA ctf-web培训sql注入讲解](https://www.su-cvestone.cn/504/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-07-30
 
-    House of apple2上一篇博客中我们使用的house of apple1，需要和house of emma一起使用从而控制程序流，这一篇我们利用几条新的IO利用链，只通过劫持_wide_data来控制程序的执行流利用条件已知heap地址和glibc地址能控制程序执行IO操作，包括但不限于：从main函数返回、调用exit函数、通过__malloc_assert触发能控制_IO_FILE的...
+    无法提供摘要。这是一篇受保护的文章。...
+    ### [web3-url-colearning-day8](https://antigone4224.github.io/web3-url-colearning-day8)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-22
+
+    今天就是听课，解答了我之前的一些疑问。。1.manual mod的路由实现问题，老师给了个示范项目// SPDX-License-Identifier: MITpragma solidity ^0.8.0;import "../W3RC3.sol";contract FlatDirectory is W3RC3 {    bytes public defaultFile =...
+    ### [web3-url-colearning-day7](https://antigone4224.github.io/web3-url-colearning-day7)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-22
+
+    Use eth-blob-uploader to upload files via blobsUse eth-blob-uploader to upload files via blobs测试一下blob上传的命令行工具（npm i -g eth-blob-uploader​```eth-blob-uploader -r <rpc> -p <private-key> -f...
+    ### [web3-url-colearning-day6](https://antigone4224.github.io/web3-url-colearning-day6)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-20
+
+    今天学习一下Ethfs安装Ethfs-clinpm install -g ethfs-cliethfs-cli upload -f <directory|file> -a <address> -p <private-key> -r [rpc] -t [upload-type]创建Flat Directory 合约ethfs-cli create -p privkeychai...
+    ### [web3-url-colearning-day5](https://antigone4224.github.io/web3-url-colearning-day5)  
+    >by [antigone](https://antigone4224.github.io/), 2024-07-19
+
+    在群组中发送地址，得到了1000测试ETH可以拿来在ETH Storage上传文件https://galileo.web3q.io/file.w3q/0x81fb5c383f192f7fa1f0788e1a06aed26ffac469/b_d42a32a060f284d3ffe3b4cf8cc08501.jpg上传了我的qq头像（成功的存在了galileo测试网上（...
 
 </div>
