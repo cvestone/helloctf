@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [密码保护：ref:ac6_vulns_batch](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/refac6_vulns_batch/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-10-30
+
+    无法提供摘要。这是一篇受保护的文章。...
     ### [10.28本周小结](http://ba1100n.tech/weekly_diary/10-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-28
 
@@ -121,10 +125,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
 
     本周总结了一下上周的nepctf，学习到了一些之前没有机会了解的东西，比如ptrace，vxworks恢复，但 […]...
-    ### [从NepBox一题看ptrace相关机制](http://ba1100n.tech/binary_security/%e4%bb%8enepbox%e4%b8%80%e9%a2%98%e7%9c%8bptrace%e7%9b%b8%e5%85%b3%e6%9c%ba%e5%88%b6/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
-
-    前言 被ptrace吓住了，看不明白，前几天仔细看了一下，了解了一下父子进程相关机制 赛题 https://n […]...
     ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
