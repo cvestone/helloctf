@@ -81,6 +81,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-30
 
     无法提供摘要。这是一篇受保护的文章。...
+    ### [Single Note - Ignite khi qualifying 2024](https://megachar0x01.github.io/posts/Single_Note/)  
+    >by [virus](https://megachar0x01.github.io), 2024-10-29
+
+    Purpose : Get The Flag Mitigations : Crash : Decompile : #!/usr/bin/python3 from pwn import * import struct # context.terminal = ['tmux','splitw','-h'] os.environ['XDG_CACHE_HOME'] = '/tmp/' context.l...
     ### [10.28本周小结](http://ba1100n.tech/weekly_diary/10-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-28
 
@@ -153,9 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-20
 
     今天学习一下Ethfs安装Ethfs-clinpm install -g ethfs-cliethfs-cli upload -f <directory|file> -a <address> -p <private-key> -r [rpc] -t [upload-type]创建Flat Directory 合约ethfs-cli create -p privkeychai...
-    ### [web3-url-colearning-day5](https://antigone4224.github.io/web3-url-colearning-day5)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-19
-
-    在群组中发送地址，得到了1000测试ETH可以拿来在ETH Storage上传文件https://galileo.web3q.io/file.w3q/0x81fb5c383f192f7fa1f0788e1a06aed26ffac469/b_d42a32a060f284d3ffe3b4cf8cc08501.jpg上传了我的qq头像（成功的存在了galileo测试网上（...
 
 </div>
