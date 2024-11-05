@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [11.4本周小结](http://ba1100n.tech/weekly_diary/11-4%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-11-04
+
+    114（察觉） 这周继续稳定病3天，看来是必须运动的了，中药西药都吃了不少，去看了好几次医生来着 这周是在家那 […]...
     ### [密码保护：ref:ac6_vulns_batch](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/refac6_vulns_batch/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-30
 
@@ -125,10 +129,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-09
 
     开学以后，很多事情突然开始来了，这周刚开始主要是完成了一些之前没搞好的手续，其实还是导致有点精神紧张了，甚至头 […]...
-    ### [8.31本周小结](http://ba1100n.tech/weekly_diary/8-31%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-08-31
-
-    本周总结了一下上周的nepctf，学习到了一些之前没有机会了解的东西，比如ptrace，vxworks恢复，但 […]...
     ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
