@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [vulnhub_machines](https://www.su-cvestone.cn/544/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-11-05
+
+    方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
     ### [11.4本周小结](http://ba1100n.tech/weekly_diary/11-4%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-04
 
@@ -153,9 +157,5 @@ hide:
     >by [antigone](https://antigone4224.github.io/), 2024-07-22
 
     Use eth-blob-uploader to upload files via blobsUse eth-blob-uploader to upload files via blobs测试一下blob上传的命令行工具（npm i -g eth-blob-uploader​```eth-blob-uploader -r <rpc> -p <private-key> -f...
-    ### [web3-url-colearning-day6](https://antigone4224.github.io/web3-url-colearning-day6)  
-    >by [antigone](https://antigone4224.github.io/), 2024-07-20
-
-    今天学习一下Ethfs安装Ethfs-clinpm install -g ethfs-cliethfs-cli upload -f <directory|file> -a <address> -p <private-key> -r [rpc] -t [upload-type]创建Flat Directory 合约ethfs-cli create -p privkeychai...
 
 </div>
