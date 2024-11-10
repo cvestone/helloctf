@@ -77,6 +77,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [11.9本周小结](http://ba1100n.tech/weekly_diary/11-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-11-09
+
+    病了一个月以后，这几天复活了，天天晚上运动第二天都不怎么累还起得很早，神奇 这周被老师夸代码写的不错了哈哈，好 […]...
+    ### [探究vxworks文件名恢复](http://ba1100n.tech/iot_security/%e6%8e%a2%e7%a9%b6vxworks%e6%96%87%e4%bb%b6%e5%90%8d%e6%81%a2%e5%a4%8d/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-11-09
+
+    前言 VxWorks以其良好的可靠性和卓越的实时性被广泛地应用在通信、军事、航空、航天等高精尖技术及实时性要求 […]...
     ### [vulnhub_machines](https://www.su-cvestone.cn/544/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-11-05
 
@@ -125,14 +133,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-23
 
     这周主要就是赶紧看老师安排的论文，然后我发现如果真的想要学深度学习，以前看公式推导什么的去理解，现在发现理解底 […]...
-    ### [9.14本周小结](http://ba1100n.tech/weekly_diary/9-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-09-14
-
-    这周开头的时候其实还是看paper看得很认真很认真的，而且当晚也能通过疯狂看iot的东西平衡一下，大概两者时间 […]...
-    ### [9.9本周小结](http://ba1100n.tech/weekly_diary/9-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-09-09
-
-    开学以后，很多事情突然开始来了，这周刚开始主要是完成了一些之前没搞好的手续，其实还是导致有点精神紧张了，甚至头 […]...
     ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
