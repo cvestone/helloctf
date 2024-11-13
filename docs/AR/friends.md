@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [密码保护：ref:DCME all series RCEs(six one)](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/dcme-all-series-rcessix-one/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-11-12
+
+    无法提供摘要。这是一篇受保护的文章。...
     ### [11.9本周小结](http://ba1100n.tech/weekly_diary/11-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-09
 
@@ -129,10 +133,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-09-28
 
     这周主要以阅读前人的项目为主，刚开始看感觉很杂乱，幸好文档的readme比较周全，但是推一些参数值的缩写代表什 […]...
-    ### [9.23本周小结](http://ba1100n.tech/weekly_diary/9-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-09-23
-
-    这周主要就是赶紧看老师安排的论文，然后我发现如果真的想要学深度学习，以前看公式推导什么的去理解，现在发现理解底 […]...
     ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
