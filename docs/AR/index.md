@@ -77,6 +77,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [11.16本周小结](http://ba1100n.tech/weekly_diary/11-16%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-11-16
+
+    十一月也快过去大半了，接下来不可能整什么长期研究的大活了吧。。。好多事情要做起来了 这周就像是秋天收获的时候， […]...
     ### [密码保护：ref:DCME all series RCEs(six one)](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/dcme-all-series-rcessix-one/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-12
 
@@ -129,10 +133,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-07
 
     国庆快乐，这周前两天都不敢回去，在学校学习，但是后面还是觉得人都走了，自己还在那边的话状态不行，就回家去图书馆 […]...
-    ### [9.28本周小结](http://ba1100n.tech/weekly_diary/9-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-09-28
-
-    这周主要以阅读前人的项目为主，刚开始看感觉很杂乱，幸好文档的readme比较周全，但是推一些参数值的缩写代表什 […]...
     ### [Hello-java-Sec靶场](https://www.su-cvestone.cn/523/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-08-20
 
