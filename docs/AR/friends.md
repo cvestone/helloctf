@@ -86,10 +86,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-16
 
     十一月也快过去大半了，接下来不可能整什么长期研究的大活了吧。。。好多事情要做起来了 这周就像是秋天收获的时候， […]...
-    ### [密码保护：ref:DCME all series RCEs(six one)](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/dcme-all-series-rcessix-one/)  
+    ### [ref:DCME all series RCEs(six one)](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/dcme-all-series-rcessix-one/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-12
 
-    无法提供摘要。这是一篇受保护的文章。...
+    download newest firmware This is the firmwares download […]...
     ### [11.9本周小结](http://ba1100n.tech/weekly_diary/11-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-09
 
@@ -106,10 +106,10 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-04
 
     114（察觉） 这周继续稳定病3天，看来是必须运动的了，中药西药都吃了不少，去看了好几次医生来着 这周是在家那 […]...
-    ### [密码保护：ref:ac6_vulns_batch](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/refac6_vulns_batch/)  
+    ### [ref:ac6_vulns_batch](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/refac6_vulns_batch/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-30
 
-    无法提供摘要。这是一篇受保护的文章。...
+    Hello CVE auditer! Here are some ac6 dos vuln point and […]...
     ### [Single Note - Ignite khi qualifying 2024](https://megachar0x01.github.io/posts/Single_Note/)  
     >by [virus](https://megachar0x01.github.io), 2024-10-29
 
