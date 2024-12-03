@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [12.2本周小结](http://ba1100n.tech/weekly_diary/12-2%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-12-02
+
+    上周效率其实不算完美，主要还是因为被一些个问题卡了挺久的，最后跟老师和师姐讨论了几次，敲定了最后的事情，然后周 […]...
     ### [11.24本周小结](http://ba1100n.tech/weekly_diary/11-24%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-24
 
@@ -130,10 +134,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-10-19
 
     这周前两天还是继续生病，甚至一度发展到吃东西会有想呕吐感吃不下但是又饿到头晕，所以周末还得继续努力了 这周又把 […]...
-    ### [10.14本周小结](http://ba1100n.tech/weekly_diary/10-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-10-14
-
-    这周病了大半周，新冠还是那个新冠，真厉害，真毒辣 收尾了一些事情，其实就是提交一些个漏洞什么的 头还是晕，想不 […]...
     ### [从ciscn_2019_c_1看ret2libc](http://arch3rn4r.github.io/2024/09/26/%E4%BB%8Eciscn-2019-c-1%E7%9C%8Bret2libc/)  
     >by [水委](https://arch3rn4r.github.io), 2024-09-26
 
