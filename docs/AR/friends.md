@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [12.7本周小结](http://ba1100n.tech/weekly_diary/12-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-12-07
+
+    这周主要以结尾论文代码并修bug为主，第一天修了无数bug，哈哈确实开发是挺容易犯错的 第二第三天，拿着纸计算 […]...
+    ### [密码保护：reference:Dlink DNS series machine RCE without Auth(x4)](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/referencedlink-dns-series-machine-rce-without-authx4/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-12-07
+
+    无法提供摘要。这是一篇受保护的文章。...
     ### [12.2本周小结](http://ba1100n.tech/weekly_diary/12-2%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-02
 
@@ -118,10 +126,6 @@ hide:
     >by [virus](https://megachar0x01.github.io), 2024-10-29
 
     Purpose : Get The Flag Mitigations : Crash : Decompile : #!/usr/bin/python3 from pwn import * import struct # context.terminal = ['tmux','splitw','-h'] os.environ['XDG_CACHE_HOME'] = '/tmp/' context.l...
-    ### [10.28本周小结](http://ba1100n.tech/weekly_diary/10-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-10-28
-
-    又生病了，还是该运动一下的 这周在科研方向的进展主要是实现了信道模型的计算函数，实际上我发现自从梳理之前的项目 […]...
     ### [BlackHat Qualifier cockatoo](https://megachar0x01.github.io/posts/cockatoo_BlackHat_2024_Qualifier/)  
     >by [virus](https://megachar0x01.github.io), 2024-10-26
 
@@ -130,10 +134,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-10-24
 
     【转载原出处】 原作者：Kiprey 转载原因：对Canary机制的研究分析很透彻，很有参考价值，怕有天该好文章丢失找不到了。 一 ......
-    ### [10.19本周小结](http://ba1100n.tech/weekly_diary/10-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-10-19
-
-    这周前两天还是继续生病，甚至一度发展到吃东西会有想呕吐感吃不下但是又饿到头晕，所以周末还得继续努力了 这周又把 […]...
     ### [从ciscn_2019_c_1看ret2libc](http://arch3rn4r.github.io/2024/09/26/%E4%BB%8Eciscn-2019-c-1%E7%9C%8Bret2libc/)  
     >by [水委](https://arch3rn4r.github.io), 2024-09-26
 
