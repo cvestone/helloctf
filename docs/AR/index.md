@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [12.14本周小结](http://ba1100n.tech/weekly_diary/12-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-12-14
+
+    这周主要是check模型其它地方对不对->变更优化器和学习率进行调参->发现模型设计不对->正在重新设计模型（ […]...
     ### [12.7本周小结](http://ba1100n.tech/weekly_diary/12-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-07
 
@@ -118,10 +122,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-04
 
     114（察觉） 这周继续稳定病3天，看来是必须运动的了，中药西药都吃了不少，去看了好几次医生来着 这周是在家那 […]...
-    ### [ref:ac6_vulns_batch](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/refac6_vulns_batch/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-10-30
-
-    Hello CVE auditer! Here are some ac6 dos vuln point and […]...
     ### [Single Note - Ignite khi qualifying 2024](https://megachar0x01.github.io/posts/Single_Note/)  
     >by [virus](https://megachar0x01.github.io), 2024-10-29
 
