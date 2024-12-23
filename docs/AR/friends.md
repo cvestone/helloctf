@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [12.23本周小结](http://ba1100n.tech/weekly_diary/12-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-12-22
+
+    这周疯狂调参+改来改去ai模型结构，顺便去补了一下基础知识，真的是慢慢在排坑 从刚开始模型跑起来，然后，每修一 […]...
     ### [12.14本周小结](http://ba1100n.tech/weekly_diary/12-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-14
 
@@ -118,10 +122,6 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-11-05
 
     方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
-    ### [11.4本周小结](http://ba1100n.tech/weekly_diary/11-4%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-11-04
-
-    114（察觉） 这周继续稳定病3天，看来是必须运动的了，中药西药都吃了不少，去看了好几次医生来着 这周是在家那 […]...
     ### [Single Note - Ignite khi qualifying 2024](https://megachar0x01.github.io/posts/Single_Note/)  
     >by [virus](https://megachar0x01.github.io), 2024-10-29
 
