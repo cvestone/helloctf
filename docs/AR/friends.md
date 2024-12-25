@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [upload-lab靶场(国光)](https://www.su-cvestone.cn/584/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2024-12-24
+
+    v1(前端校验bypass) 抓包监听，如果上传文件的时候还没有抓取到数据包，但是浏览器就提示文件类型不正确的话，那么这个多半就是 ......
     ### [12.23本周小结](http://ba1100n.tech/weekly_diary/12-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-22
 
@@ -154,9 +158,5 @@ hide:
     >by [水委](https://arch3rn4r.github.io), 2024-09-21
 
     chroot介绍通常来说，提到chroot一般有两个含义，chroot(1)是/usr/bin/chroot,要有一定权限才能使用chroot, chroot(2)是glibc中的一个函数,属于系统调用chroot(1)chroot - run command or interactive shell with special root directory 一个命令行工具，可用于创建沙箱shell...
-    ### [python逆向](http://arch3rn4r.github.io/2024/09/18/python%E9%80%86%E5%90%91/)  
-    >by [水委](https://arch3rn4r.github.io), 2024-09-18
-
-    参照此文章编写https://rocky.github.io/blackhat-asia-2024-additional/all-notes-printPython 字节码的变化非常大，每个版本之间都有很大的区别。高级字节码的一个方面：许多源信息（如变量名称及其类型）都保存在字节码中。所以反编译回来的程序会和源代码非常像（简直一模一样）。但是来自源文本的注释不会显示在重建结果中，这是因为这些注释不...
 
 </div>
