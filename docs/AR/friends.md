@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [12.28本周小结](http://ba1100n.tech/weekly_diary/12-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2024-12-28
+
+    这周又再继续调参，好消息是，这周终于确实把参数调到能够让模型学习到总体已知的最大值了 坏消息是，参数全都给到了 […]...
     ### [upload-lab靶场(国光)](https://www.su-cvestone.cn/584/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-12-24
 
@@ -118,10 +122,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-09
 
     病了一个月以后，这几天复活了，天天晚上运动第二天都不怎么累还起得很早，神奇 这周被老师夸代码写的不错了哈哈，好 […]...
-    ### [探究vxworks文件名恢复](http://ba1100n.tech/iot_security/%e6%8e%a2%e7%a9%b6vxworks%e6%96%87%e4%bb%b6%e5%90%8d%e6%81%a2%e5%a4%8d/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-11-09
-
-    前言 VxWorks以其良好的可靠性和卓越的实时性被广泛地应用在通信、军事、航空、航天等高精尖技术及实时性要求 […]...
     ### [vulnhub_machines](https://www.su-cvestone.cn/544/)  
     >by [cvestone](https://www.su-cvestone.cn/), 2024-11-05
 
