@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 3312. 查询排序后的最大公约数](https://blog.csdn.net/qq_62172019/article/details/144817178)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-12-30
+
+    leetcode刷题记录...
     ### [12.28本周小结](http://ba1100n.tech/weekly_diary/12-28%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-28
 
@@ -154,9 +158,5 @@ hide:
     >by [水委](https://arch3rn4r.github.io), 2024-09-21
 
     该想法来自chroot实验使用新方法建立bash后，我查看“上一条命令”，既按箭头”⋀“，出现的指令并不是当前界面下的历史命令比如shell1,我的命令是cd .. cat flag.txt shell2，我之前使用的命令是gcc -o 1 1.c ./1在shell1里使用vi新建shell后，再按”⋀“，出现的指令不是cat flag.txt 而是 ./1我知道是“新建”了一个shell，但这...
-    ### [linux沙箱之文件系统隔离](http://arch3rn4r.github.io/2024/09/21/linux%E6%B2%99%E7%AE%B1%E4%B9%8B%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E9%9A%94%E7%A6%BB/)  
-    >by [水委](https://arch3rn4r.github.io), 2024-09-21
-
-    chroot介绍通常来说，提到chroot一般有两个含义，chroot(1)是/usr/bin/chroot,要有一定权限才能使用chroot, chroot(2)是glibc中的一个函数,属于系统调用chroot(1)chroot - run command or interactive shell with special root directory 一个命令行工具，可用于创建沙箱shell...
 
 </div>
