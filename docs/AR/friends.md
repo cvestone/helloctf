@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 452. 用最少数量的箭引爆气球](https://blog.csdn.net/qq_62172019/article/details/144845782)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-12-31
+
+    leetcode 452. 用最少数量的箭引爆气球。...
+    ### [leetcode 435. 无重叠区间](https://blog.csdn.net/qq_62172019/article/details/144844352)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-12-31
+
+    leetcode 435. 无重叠区间。...
     ### [leetcode 3312. 查询排序后的最大公约数](https://blog.csdn.net/qq_62172019/article/details/144817178)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-12-30
 
@@ -150,13 +158,5 @@ hide:
     >by [水委](https://arch3rn4r.github.io), 2024-09-24
 
     使用的例题是**[CISCN 2022 东北]crackme_Android，**虽然这题的关键点在MD5爆破，但是它的主逻辑函数包括了“成功”和“失败”的判断，可以验证是否成功hook函数我的环境frida 16.4.2雷电模拟器(adb也是使用的雷电模拟器自带的）jadxIDEA初步分析初步分析，拖入模拟器后运行，随便输一个数，得到报错信息在jadx里使用文本搜索找到相应报错信息并得到判断条件...
-    ### [Linux沙箱之seccomp介绍](http://arch3rn4r.github.io/2024/09/21/Linux%E6%B2%99%E7%AE%B1%E4%B9%8Bseccomp%E4%BB%8B%E7%BB%8D/)  
-    >by [水委](https://arch3rn4r.github.io), 2024-09-21
-
-    介绍seccomp (Secure Computing Mode) 是 Linux 内核的一种安全机制，用于限制进程可以调用的系统调用集。本质上是linux系统调用的防火墙，可查看文档http://man7.org/linux/man-pages/man3/seccomp_rule_add.3.htmlseccomp很强大，它可以遗传给子进程，甚至能限制root用户运行的进程，而且可以自己编写复杂...
-    ### [shell的历史命令机制](http://arch3rn4r.github.io/2024/09/21/shell%E7%9A%84%E5%8E%86%E5%8F%B2%E5%91%BD%E4%BB%A4%E6%9C%BA%E5%88%B6/)  
-    >by [水委](https://arch3rn4r.github.io), 2024-09-21
-
-    该想法来自chroot实验使用新方法建立bash后，我查看“上一条命令”，既按箭头”⋀“，出现的指令并不是当前界面下的历史命令比如shell1,我的命令是cd .. cat flag.txt shell2，我之前使用的命令是gcc -o 1 1.c ./1在shell1里使用vi新建shell后，再按”⋀“，出现的指令不是cat flag.txt 而是 ./1我知道是“新建”了一个shell，但这...
 
 </div>
