@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 2658. 网格图中鱼的最大数目](https://blog.csdn.net/qq_62172019/article/details/144888120)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-02
+
+    leetcode 2658. 网格图中鱼的最大数目。...
+    ### [leetcode 2492. 两个城市间路径的最小分数](https://blog.csdn.net/qq_62172019/article/details/144886516)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-02
+
+    【代码】leetcode 2492. 两个城市间路径的最小分数。...
     ### [leetcode 452. 用最少数量的箭引爆气球](https://blog.csdn.net/qq_62172019/article/details/144845782)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2024-12-31
 
@@ -150,13 +158,5 @@ hide:
     >by [cvestone](https://www.su-cvestone.cn/), 2024-10-24
 
     【转载原出处】 原作者：Kiprey 转载原因：对Canary机制的研究分析很透彻，很有参考价值，怕有天该好文章丢失找不到了。 一 ......
-    ### [从ciscn_2019_c_1看ret2libc](http://arch3rn4r.github.io/2024/09/26/%E4%BB%8Eciscn-2019-c-1%E7%9C%8Bret2libc/)  
-    >by [水委](https://arch3rn4r.github.io), 2024-09-26
-
-    前置分析检查保护1234567└─$ checksec '/home/pwn/ciscn_2019_c_1' [*] '/home/pwn/ciscn_2019_c_1'    Arch:     amd64-64-little    RELRO:    Partial RELRO    Stack:    No canary found    NX:       NX enabled    PI...
-    ### [简单hook一下](http://arch3rn4r.github.io/2024/09/24/%E7%AE%80%E5%8D%95hook%E4%B8%80%E4%B8%8B/)  
-    >by [水委](https://arch3rn4r.github.io), 2024-09-24
-
-    使用的例题是**[CISCN 2022 东北]crackme_Android，**虽然这题的关键点在MD5爆破，但是它的主逻辑函数包括了“成功”和“失败”的判断，可以验证是否成功hook函数我的环境frida 16.4.2雷电模拟器(adb也是使用的雷电模拟器自带的）jadxIDEA初步分析初步分析，拖入模拟器后运行，随便输一个数，得到报错信息在jadx里使用文本搜索找到相应报错信息并得到判断条件...
 
 </div>
