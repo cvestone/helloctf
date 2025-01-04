@@ -78,6 +78,22 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 1328. 破坏回文串](https://blog.csdn.net/qq_62172019/article/details/144911548)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-03
+
+    leetcode 1328. 破坏回文串。...
+    ### [leetcode 1637. 两点之间不包含任何点的最宽垂直区域](https://blog.csdn.net/qq_62172019/article/details/144911016)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-03
+
+    leetcode 1637. 两点之间不包含任何点的最宽垂直区域。...
+    ### [leetcode 624. 数组列表中的最大距离](https://blog.csdn.net/qq_62172019/article/details/144910380)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-03
+
+    leetcode 624. 数组列表中的最大距离。...
+    ### [恶意软件开发1](http://arch3rn4r.github.io/2025/01/04/%E6%81%B6%E6%84%8F%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%911/)  
+    >by [水委](https://arch3rn4r.github.io), 2025-01-03
+
+    前提目的是做一个恶意软件，实现基本恶意功能，当前版本专注于实现基本功能，只有基本界面和功能。那么一个恶意软件应当具有什么功能呢，下面主要研究的是怎么做，而不是防御和绕过检测。它将是一个纯粹的恶意软件。以下信息pc和安卓都有，只是将基于Android端开发。。。恶意功能破坏性数据损坏和篡改：文件覆盖、数据加密，恶意修改数据无法正常使用业务：ddos无限弹窗锁屏功能系统崩溃：占用CPU、内存资源、制造...
     ### [leetcode 2658. 网格图中鱼的最大数目](https://blog.csdn.net/qq_62172019/article/details/144888120)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-02
 
@@ -142,21 +158,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-09
 
     病了一个月以后，这几天复活了，天天晚上运动第二天都不怎么累还起得很早，神奇 这周被老师夸代码写的不错了哈哈，好 […]...
-    ### [vulnhub_machines](https://www.su-cvestone.cn/544/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-11-05
-
-    方法指导 记录什么 学习技术专题的要点； 成功调试或配置的命令； 找到的参考资料； 技术⼼得； 反思、复盘和整理 记录方式 要点式 ......
-    ### [Single Note - Ignite khi qualifying 2024](https://megachar0x01.github.io/posts/Single_Note/)  
-    >by [virus](https://megachar0x01.github.io), 2024-10-29
-
-    Purpose : Get The Flag Mitigations : Crash : Decompile : #!/usr/bin/python3 from pwn import * import struct # context.terminal = ['tmux','splitw','-h'] os.environ['XDG_CACHE_HOME'] = '/tmp/' context.l...
-    ### [BlackHat Qualifier cockatoo](https://megachar0x01.github.io/posts/cockatoo_BlackHat_2024_Qualifier/)  
-    >by [virus](https://megachar0x01.github.io), 2024-10-26
-
-    Purpose : Get The Flag #!/usr/bin/python3 from pwn import * import struct from ctypes import * import subprocess context.terminal = ['tmux','splitw'] os.environ['XDG_CACHE_HOME'] = '/tmp/' context.log...
-    ### [(转载)浅析 Linux 程序的 Canary 机制](https://www.su-cvestone.cn/538/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-10-24
-
-    【转载原出处】 原作者：Kiprey 转载原因：对Canary机制的研究分析很透彻，很有参考价值，怕有天该好文章丢失找不到了。 一 ......
 
 </div>
