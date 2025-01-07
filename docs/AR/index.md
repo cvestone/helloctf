@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode LCR 127. 跳跃训练](https://blog.csdn.net/qq_62172019/article/details/144958506)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-06
+
+    leetcode LCR 127. 跳跃训练...
+    ### [leetcode 1871. 跳跃游戏 VII](https://blog.csdn.net/qq_62172019/article/details/144957490)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-06
+
+    leetcode 1871. 跳跃游戏 VII。...
     ### [leetcode 1328. 破坏回文串](https://blog.csdn.net/qq_62172019/article/details/144911548)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-03
 
@@ -150,13 +158,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-11-16
 
     十一月也快过去大半了，接下来不可能整什么长期研究的大活了吧。。。好多事情要做起来了 这周就像是秋天收获的时候， […]...
-    ### [ref:DCME all series RCEs(six one)](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/dcme-all-series-rcessix-one/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-11-12
-
-    download newest firmware This is the firmwares download […]...
-    ### [11.9本周小结](http://ba1100n.tech/weekly_diary/11-9%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-11-09
-
-    病了一个月以后，这几天复活了，天天晚上运动第二天都不怎么累还起得很早，神奇 这周被老师夸代码写的不错了哈哈，好 […]...
 
 </div>
