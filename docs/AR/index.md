@@ -78,6 +78,18 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 2279. 装满石头的背包的最大数量](https://blog.csdn.net/qq_62172019/article/details/144979574)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-07
+
+    leetcode 2279. 装满石头的背包的最大数量。...
+    ### [leetcode 2551. 将珠子放入背包中](https://blog.csdn.net/qq_62172019/article/details/144978995)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-07
+
+    leetcode 2551. 将珠子放入背包中。...
+    ### [1.7本周小结](http://ba1100n.tech/weekly_diary/1-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-01-07
+
+    上周，1.1直接生病了，然后躺了一两天。。。然后赶紧去继续调试ai，发现了一个公式相关的挺大的问题，终于能平衡 […]...
     ### [leetcode LCR 127. 跳跃训练](https://blog.csdn.net/qq_62172019/article/details/144958506)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-06
 
@@ -126,10 +138,6 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-28
 
     这周又再继续调参，好消息是，这周终于确实把参数调到能够让模型学习到总体已知的最大值了 坏消息是，参数全都给到了 […]...
-    ### [upload-lab靶场(国光)](https://www.su-cvestone.cn/584/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2024-12-24
-
-    v1(前端校验bypass) 抓包监听，如果上传文件的时候还没有抓取到数据包，但是浏览器就提示文件类型不正确的话，那么这个多半就是 ......
     ### [12.23本周小结](http://ba1100n.tech/weekly_diary/12-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-22
 
@@ -150,13 +158,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-02
 
     上周效率其实不算完美，主要还是因为被一些个问题卡了挺久的，最后跟老师和师姐讨论了几次，敲定了最后的事情，然后周 […]...
-    ### [11.24本周小结](http://ba1100n.tech/weekly_diary/11-24%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-11-24
-
-    这周不知道为什么感觉很低效率，其实这周虽然多花了点时间在vxworks的另外形态的固件逆向上，可是有的还是找来 […]...
-    ### [11.16本周小结](http://ba1100n.tech/weekly_diary/11-16%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-11-16
-
-    十一月也快过去大半了，接下来不可能整什么长期研究的大活了吧。。。好多事情要做起来了 这周就像是秋天收获的时候， […]...
 
 </div>
