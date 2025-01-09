@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 55. 跳跃游戏](https://blog.csdn.net/qq_62172019/article/details/145001670)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-08
+
+    leetcode 55. 跳跃游戏。...
+    ### [leetcode 5. 最长回文子串](https://blog.csdn.net/qq_62172019/article/details/145001272)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-08
+
+    leetcode 5. 最长回文子串。...
     ### [leetcode 2279. 装满石头的背包的最大数量](https://blog.csdn.net/qq_62172019/article/details/144979574)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-07
 
@@ -150,13 +158,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-07
 
     这周主要以结尾论文代码并修bug为主，第一天修了无数bug，哈哈确实开发是挺容易犯错的 第二第三天，拿着纸计算 […]...
-    ### [密码保护：reference:Dlink DNS series machine RCE without Auth(x4)](http://ba1100n.tech/%e6%bc%8f%e6%b4%9e%e6%8a%a5%e5%91%8a/referencedlink-dns-series-machine-rce-without-authx4/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-12-07
-
-    无法提供摘要。这是一篇受保护的文章。...
-    ### [12.2本周小结](http://ba1100n.tech/weekly_diary/12-2%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-12-02
-
-    上周效率其实不算完美，主要还是因为被一些个问题卡了挺久的，最后跟老师和师姐讨论了几次，敲定了最后的事情，然后周 […]...
 
 </div>
