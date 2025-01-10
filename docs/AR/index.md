@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 53. 最大子数组和](https://blog.csdn.net/qq_62172019/article/details/145033866)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-09
+
+    leetcode 53. 最大子数组和。...
+    ### [leetcode 22. 括号生成](https://blog.csdn.net/qq_62172019/article/details/145033376)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-09
+
+    leetcode 22. 括号生成。...
     ### [leetcode 55. 跳跃游戏](https://blog.csdn.net/qq_62172019/article/details/145001670)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-08
 
@@ -150,13 +158,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-22
 
     这周疯狂调参+改来改去ai模型结构，顺便去补了一下基础知识，真的是慢慢在排坑 从刚开始模型跑起来，然后，每修一 […]...
-    ### [12.14本周小结](http://ba1100n.tech/weekly_diary/12-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-12-14
-
-    这周主要是check模型其它地方对不对->变更优化器和学习率进行调参->发现模型设计不对->正在重新设计模型（ […]...
-    ### [12.7本周小结](http://ba1100n.tech/weekly_diary/12-7%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-12-07
-
-    这周主要以结尾论文代码并修bug为主，第一天修了无数bug，哈哈确实开发是挺容易犯错的 第二第三天，拿着纸计算 […]...
 
 </div>
