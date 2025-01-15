@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [1.14本周小结](http://ba1100n.tech/weekly_diary/1-14%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-01-14
+
+    114（察觉） 都周二了才来写本周小结，实际上，上周直到昨天（周一）是在为开题的事情忙着，同时也是最后终于让我 […]...
     ### [leetcode 53. 最大子数组和](https://blog.csdn.net/qq_62172019/article/details/145033866)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-09
 
@@ -154,9 +158,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2024-12-28
 
     这周又再继续调参，好消息是，这周终于确实把参数调到能够让模型学习到总体已知的最大值了 坏消息是，参数全都给到了 […]...
-    ### [12.23本周小结](http://ba1100n.tech/weekly_diary/12-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2024-12-22
-
-    这周疯狂调参+改来改去ai模型结构，顺便去补了一下基础知识，真的是慢慢在排坑 从刚开始模型跑起来，然后，每修一 […]...
 
 </div>
