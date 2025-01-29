@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 1493. 删掉一个元素以后全为 1 的最长子数组](https://blog.csdn.net/qq_62172019/article/details/145337372)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-28
+
+    leetcode 1493. 删掉一个元素以后全为 1 的最长子数组。...
+    ### [leetcode 1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://blog.csdn.net/qq_62172019/article/details/145321379)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-28
+
+    leetcode 1343. 大小为 K 且平均值大于等于阈值的子数组数目。...
     ### [leetcode 1750. 删除字符串两端相同字符后的最短长度](https://blog.csdn.net/qq_62172019/article/details/145380977)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-27
 
@@ -150,13 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-20
 
     leetcode 740. 删除并获得点数。...
-    ### [leetcode 62. 不同路径](https://blog.csdn.net/qq_62172019/article/details/145256046)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-20
-
-    leetcode 62. 不同路径...
-    ### [leetcode 221. 最大正方形](https://blog.csdn.net/qq_62172019/article/details/145254596)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-20
-
-    leetcode 221. 最大正方形...
 
 </div>
