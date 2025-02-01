@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 34. 在排序数组中查找元素的第一个和最后一个位置](https://blog.csdn.net/qq_62172019/article/details/145406886)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-31
+
+    leetcode 34. 在排序数组中查找元素的第一个和最后一个位置。...
+    ### [leetcode 2300. 咒语和药水的成功对数](https://blog.csdn.net/qq_62172019/article/details/145406838)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-31
+
+    leetcode 2300. 咒语和药水的成功对数。...
     ### [leetcode 1493. 删掉一个元素以后全为 1 的最长子数组](https://blog.csdn.net/qq_62172019/article/details/145337372)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-28
 
@@ -150,13 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-21
 
     leetcode 479. 最大回文数乘积。...
-    ### [leetcode 198. 打家劫舍](https://blog.csdn.net/qq_62172019/article/details/145257704)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-20
-
-    leetcode 198.打家劫舍...
-    ### [leetcode 740. 删除并获得点数](https://blog.csdn.net/qq_62172019/article/details/145256755)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-20
-
-    leetcode 740. 删除并获得点数。...
 
 </div>
