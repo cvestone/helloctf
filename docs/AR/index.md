@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 2563. 统计公平数对的数目](https://blog.csdn.net/qq_62172019/article/details/145414630)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-01
+
+    leetcode 2563. 统计公平数对的数目。...
+    ### [leetcode 2080. 区间内查询数字的频率](https://blog.csdn.net/qq_62172019/article/details/145414480)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-01
+
+    leetcode 2080. 区间内查询数字的频率。...
     ### [leetcode 34. 在排序数组中查找元素的第一个和最后一个位置](https://blog.csdn.net/qq_62172019/article/details/145406886)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-31
 
@@ -106,10 +114,6 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-26
 
     leetcode 930. 和相同的二元子数组。...
-    ### [入门MQTT漏挖：从概念，底层原理到rce](http://ba1100n.tech/iot_security/%e5%85%a5%e9%97%a8mqtt%e6%bc%8f%e6%8c%96%ef%bc%9a%e4%bb%8e%e6%a6%82%e5%bf%b5%ef%bc%8c%e5%ba%95%e5%b1%82%e5%8e%9f%e7%90%86%e5%88%b0rce/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2025-01-26
-
-    前言 别的事情搞得差不多了，又回来继续学习啦这篇存在大量借鉴、复现别人的东西，属于是初学的一个记录吧，在这个过 […]...
     ### [leetcode 1358. 包含所有三种字符的子字符串数目](https://blog.csdn.net/qq_62172019/article/details/145352790)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-25
 
@@ -130,10 +134,6 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-24
 
     leetcode 3090. 每个字符最多出现两次的最长子字符串。...
-    ### [1.19本周小结](http://ba1100n.tech/weekly_diary/1-19%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2025-01-24
-
-    忘记写了oh no，不过好像截止至1.19，这一周也还是每天都在做实验，仅此而已， 不过这段时间真的发现自己有 […]...
     ### [leetcode 2090. 半径为 k 的子数组平均值](https://blog.csdn.net/qq_62172019/article/details/145321331)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-23
 
