@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 2187. 完成旅途的最少时间](https://blog.csdn.net/qq_62172019/article/details/145417095)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-02
+
+    leetcode 2187. 完成旅途的最少时间。...
+    ### [leetcode 2856. 删除数对后的最小数组长度](https://blog.csdn.net/qq_62172019/article/details/145417048)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-02
+
+    leetcode 2856. 删除数对后的最小数组长度。...
     ### [leetcode 2563. 统计公平数对的数目](https://blog.csdn.net/qq_62172019/article/details/145414630)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-01
 
@@ -150,13 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-22
 
     leetcode 300. 最长递增子序列。...
-    ### [leetcode 1620. 网络信号最好的坐标](https://blog.csdn.net/qq_62172019/article/details/145278336)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-21
-
-    leetcode 1620. 网络信号最好的坐标。...
-    ### [leetcode 479. 最大回文数乘积](https://blog.csdn.net/qq_62172019/article/details/145277677)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-21
-
-    leetcode 479. 最大回文数乘积。...
 
 </div>
