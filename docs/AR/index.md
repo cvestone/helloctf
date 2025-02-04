@@ -78,6 +78,18 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 2594. 修车的最少时间](https://blog.csdn.net/qq_62172019/article/details/145428221)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-03
+
+    leetcode 2594. 修车的最少时间。...
+    ### [leetcode 1482. 制作 m 束花所需的最少天数](https://blog.csdn.net/qq_62172019/article/details/145428164)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-03
+
+    leetcode 1482. 制作 m 束花所需的最少天数。...
+    ### [leetcode 2226. 每个小孩最多能分到多少糖果](https://blog.csdn.net/qq_62172019/article/details/145428060)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-03
+
+    leetcode 2226. 每个小孩最多能分到多少糖果。...
     ### [leetcode 2187. 完成旅途的最少时间](https://blog.csdn.net/qq_62172019/article/details/145417095)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-02
 
@@ -146,17 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-23
 
     leetcode 2090. 半径为 k 的子数组平均值。...
-    ### [leetcode 2134. 最少交换次数来组合所有的 1 II](https://blog.csdn.net/qq_62172019/article/details/145321271)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-23
-
-    leetcode 2134. 最少交换次数来组合所有的 1 II。...
-    ### [leetcode 712. 两个字符串的最小ASCII删除和](https://blog.csdn.net/qq_62172019/article/details/145301045)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-22
-
-    leetcode 712. 两个字符串的最小ASCII删除和。...
-    ### [leetcode 300. 最长递增子序列](https://blog.csdn.net/qq_62172019/article/details/145300940)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-22
-
-    leetcode 300. 最长递增子序列。...
 
 </div>
