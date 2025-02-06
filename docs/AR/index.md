@@ -142,6 +142,10 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-26
 
     leetcode 930. 和相同的二元子数组。...
+    ### [入门MQTT漏挖：从概念，底层原理到rce](http://ba1100n.tech/iot_security/%e5%85%a5%e9%97%a8mqtt%e6%bc%8f%e6%8c%96%ef%bc%9a%e4%bb%8e%e6%a6%82%e5%bf%b5%ef%bc%8c%e5%ba%95%e5%b1%82%e5%8e%9f%e7%90%86%e5%88%b0rce/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-01-26
+
+    前言 别的事情搞得差不多了，又回来继续学习啦这篇存在大量借鉴、复现别人的东西，属于是初学的一个记录吧，在这个过 […]...
     ### [leetcode 1358. 包含所有三种字符的子字符串数目](https://blog.csdn.net/qq_62172019/article/details/145352790)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-25
 
@@ -154,9 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-25
 
     leetcode 1652. 拆炸弹。...
-    ### [leetcode 3. 无重复字符的最长子串](https://blog.csdn.net/qq_62172019/article/details/145338161)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-24
-
-    leetcode 3. 无重复字符的最长子串。...
 
 </div>
