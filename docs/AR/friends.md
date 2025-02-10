@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 1926. 迷宫中离入口最近的出口](https://blog.csdn.net/qq_62172019/article/details/145524818)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-09
+
+    leetcode 1926. 迷宫中离入口最近的出口。...
     ### [leetcode 1034. 边界着色](https://blog.csdn.net/qq_62172019/article/details/145524854)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-09
 
@@ -154,9 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-28
 
     leetcode 1343. 大小为 K 且平均值大于等于阈值的子数组数目。...
-    ### [leetcode 1750. 删除字符串两端相同字符后的最短长度](https://blog.csdn.net/qq_62172019/article/details/145380977)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-27
-
-    leetcode 1750. 删除字符串两端相同字符后的最短长度。...
 
 </div>
