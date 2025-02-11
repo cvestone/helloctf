@@ -78,6 +78,18 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 2104. 子数组范围和](https://blog.csdn.net/qq_62172019/article/details/145545577)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-10
+
+    leetcode 2104. 子数组范围和。...
+    ### [leetcode 402. 移掉 K 位数字](https://blog.csdn.net/qq_62172019/article/details/145545002)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-10
+
+    leetcode 402. 移掉 K 位数字。...
+    ### [2.10本周小结](http://ba1100n.tech/weekly_diary/2-10%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-02-10
+
+    这周，开始新的一年的学习了，新的一年希望自己更加厉害，达成新的目标 新年除了开始头三天出去拜年，然后就是在家睡 […]...
     ### [leetcode 1926. 迷宫中离入口最近的出口](https://blog.csdn.net/qq_62172019/article/details/145524818)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-09
 
@@ -146,17 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-31
 
     leetcode 34. 在排序数组中查找元素的第一个和最后一个位置。...
-    ### [leetcode 2300. 咒语和药水的成功对数](https://blog.csdn.net/qq_62172019/article/details/145406838)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-31
-
-    leetcode 2300. 咒语和药水的成功对数。...
-    ### [leetcode 1493. 删掉一个元素以后全为 1 的最长子数组](https://blog.csdn.net/qq_62172019/article/details/145337372)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-28
-
-    leetcode 1493. 删掉一个元素以后全为 1 的最长子数组。...
-    ### [leetcode 1343. 大小为 K 且平均值大于等于阈值的子数组数目](https://blog.csdn.net/qq_62172019/article/details/145321379)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-28
-
-    leetcode 1343. 大小为 K 且平均值大于等于阈值的子数组数目。...
 
 </div>
