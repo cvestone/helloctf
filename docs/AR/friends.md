@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 2466. 统计构造好字符串的方案数](https://blog.csdn.net/qq_62172019/article/details/145567630)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-11
+
+    leetcode 2466. 统计构造好字符串的方案数。...
+    ### [leetcode 3186. 施咒的最大总伤害](https://blog.csdn.net/qq_62172019/article/details/145567369)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-11
+
+    leetcode 3186. 施咒的最大总伤害。...
     ### [leetcode 2104. 子数组范围和](https://blog.csdn.net/qq_62172019/article/details/145545577)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-10
 
@@ -150,13 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-01
 
     leetcode 2563. 统计公平数对的数目。...
-    ### [leetcode 2080. 区间内查询数字的频率](https://blog.csdn.net/qq_62172019/article/details/145414480)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-01
-
-    leetcode 2080. 区间内查询数字的频率。...
-    ### [leetcode 34. 在排序数组中查找元素的第一个和最后一个位置](https://blog.csdn.net/qq_62172019/article/details/145406886)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-01-31
-
-    leetcode 34. 在排序数组中查找元素的第一个和最后一个位置。...
 
 </div>
