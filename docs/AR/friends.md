@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 347. 前 K 个高频元素](https://blog.csdn.net/qq_62172019/article/details/145621953)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-13
+
+    leetcode 347. 前 K 个高频元素。...
+    ### [leetcode 543. 二叉树的直径](https://blog.csdn.net/qq_62172019/article/details/145621856)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-13
+
+    leetcode 543. 二叉树的直径。...
     ### [leetcode 2304. 网格中的最小路径代价](https://blog.csdn.net/qq_62172019/article/details/145588953)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-12
 
@@ -150,13 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-04
 
     leetcode 901. 股票价格跨度。...
-    ### [leetcode 2594. 修车的最少时间](https://blog.csdn.net/qq_62172019/article/details/145428221)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-03
-
-    leetcode 2594. 修车的最少时间。...
-    ### [leetcode 1482. 制作 m 束花所需的最少天数](https://blog.csdn.net/qq_62172019/article/details/145428164)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-03
-
-    leetcode 1482. 制作 m 束花所需的最少天数。...
 
 </div>
