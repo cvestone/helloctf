@@ -78,6 +78,26 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 3180. 执行操作可获得的最大总奖励 I](https://blog.csdn.net/qq_62172019/article/details/145679473)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
+
+    leetcode 3180. 执行操作可获得的最大总奖励 I。...
+    ### [leetcode 1289. 下降路径最小和 II](https://blog.csdn.net/qq_62172019/article/details/145679384)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
+
+    leetcode 1289. 下降路径最小和 II。...
+    ### [leetcode 2435. 矩阵中和能被 K 整除的路径](https://blog.csdn.net/qq_62172019/article/details/145679150)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
+
+    leetcode 2435. 矩阵中和能被 K 整除的路径。...
+    ### [leetcode 3393. 统计异或值为给定值的路径数目](https://blog.csdn.net/qq_62172019/article/details/145678903)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
+
+    leetcode 3393. 统计异或值为给定值的路径数目。...
+    ### [2.17本周小结](http://ba1100n.tech/weekly_diary/2-17%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-02-17
+
+    这周主要是生了一场大病，上吐下泻的。。。 仍然没有重新开始正常的学习，而且还发现一个之前没发现但是挺严重的问题 […]...
     ### [leetcode 297. 二叉树的序列化与反序列化](https://blog.csdn.net/qq_62172019/article/details/145641605)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-14
 
@@ -138,25 +158,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2025-02-10
 
     这周，开始新的一年的学习了，新的一年希望自己更加厉害，达成新的目标 新年除了开始头三天出去拜年，然后就是在家睡 […]...
-    ### [leetcode 1926. 迷宫中离入口最近的出口](https://blog.csdn.net/qq_62172019/article/details/145524818)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-09
-
-    leetcode 1926. 迷宫中离入口最近的出口。...
-    ### [leetcode 1034. 边界着色](https://blog.csdn.net/qq_62172019/article/details/145524854)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-09
-
-    leetcode 1034. 边界着色。...
-    ### [leetcode 695. 岛屿的最大面积](https://blog.csdn.net/qq_62172019/article/details/145512421)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-08
-
-    leetcode 695. 岛屿的最大面积。...
-    ### [leetcode 1905. 统计子岛屿](https://blog.csdn.net/qq_62172019/article/details/145512120)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-08
-
-    leetcode 1905. 统计子岛屿。...
-    ### [leetcode 1391. 检查网格中是否存在有效路径](https://blog.csdn.net/qq_62172019/article/details/145511777)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-08
-
-    leetcode 1391. 检查网格中是否存在有效路径。...
 
 </div>
