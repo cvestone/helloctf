@@ -78,6 +78,18 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 2266. 统计打字方案数](https://blog.csdn.net/qq_62172019/article/details/145701081)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-18
+
+    leetcode 2266. 统计打字方案数。...
+    ### [leetcode 151. 反转字符串中的单词](https://blog.csdn.net/qq_62172019/article/details/145700813)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-18
+
+    leetcode 151. 反转字符串中的单词。...
+    ### [leetcode 2606. 找到最大开销的子字符串](https://blog.csdn.net/qq_62172019/article/details/145700506)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-18
+
+    leetcode 2606. 找到最大开销的子字符串。...
     ### [leetcode 3180. 执行操作可获得的最大总奖励 I](https://blog.csdn.net/qq_62172019/article/details/145679473)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
 
@@ -146,17 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-11
 
     leetcode 3186. 施咒的最大总伤害。...
-    ### [leetcode 2104. 子数组范围和](https://blog.csdn.net/qq_62172019/article/details/145545577)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-10
-
-    leetcode 2104. 子数组范围和。...
-    ### [leetcode 402. 移掉 K 位数字](https://blog.csdn.net/qq_62172019/article/details/145545002)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-10
-
-    leetcode 402. 移掉 K 位数字。...
-    ### [2.10本周小结](http://ba1100n.tech/weekly_diary/2-10%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2025-02-10
-
-    这周，开始新的一年的学习了，新的一年希望自己更加厉害，达成新的目标 新年除了开始头三天出去拜年，然后就是在家睡 […]...
 
 </div>
