@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [2.23本周小结](http://ba1100n.tech/weekly_diary/2-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-02-23
+
+    上周生病，没办法，这周修好了上周一发现的超严重bug，引入了两三个稳定机制，然后还想出了一个比较特殊的对于回归 […]...
     ### [leetcode 2826. 将三个组排序](https://blog.csdn.net/qq_62172019/article/details/145750013)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-20
 
@@ -154,9 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-14
 
     leetcode 2915. 和为目标值的最长子序列的长度...
-    ### [leetcode 347. 前 K 个高频元素](https://blog.csdn.net/qq_62172019/article/details/145621953)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-13
-
-    leetcode 347. 前 K 个高频元素。...
 
 </div>
