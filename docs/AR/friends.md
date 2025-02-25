@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 207. 课程表](https://blog.csdn.net/qq_62172019/article/details/145841297)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-24
+
+    leetcode 207. 课程表...
     ### [2.23本周小结](http://ba1100n.tech/weekly_diary/2-23%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
     >by [ba1100n](http://www.ba1100n.tech), 2025-02-23
 
@@ -154,9 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-14
 
     leetcode 416. 分割等和子集。...
-    ### [leetcode 2915. 和为目标值的最长子序列的长度](https://blog.csdn.net/qq_62172019/article/details/145640739)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-14
-
-    leetcode 2915. 和为目标值的最长子序列的长度...
 
 </div>
