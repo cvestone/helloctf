@@ -78,6 +78,18 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 75. 颜色分类](https://blog.csdn.net/qq_62172019/article/details/145841776)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-25
+
+    leetcode 75. 颜色分类。...
+    ### [leetcode 169. 多数元素](https://blog.csdn.net/qq_62172019/article/details/145841697)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-25
+
+    leetcode 169. 多数元素。...
+    ### [leetcode 136. 只出现一次的数字](https://blog.csdn.net/qq_62172019/article/details/145841601)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-25
+
+    leetcode 136. 只出现一次的数字。...
     ### [leetcode 207. 课程表](https://blog.csdn.net/qq_62172019/article/details/145841297)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-24
 
@@ -146,17 +158,5 @@ hide:
     >by [ba1100n](http://www.ba1100n.tech), 2025-02-17
 
     这周主要是生了一场大病，上吐下泻的。。。 仍然没有重新开始正常的学习，而且还发现一个之前没发现但是挺严重的问题 […]...
-    ### [leetcode 297. 二叉树的序列化与反序列化](https://blog.csdn.net/qq_62172019/article/details/145641605)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-14
-
-    leetcode 297. 二叉树的序列化与反序列化。...
-    ### [leetcode 1594. 矩阵的最大非负积](https://blog.csdn.net/qq_62172019/article/details/145641511)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-14
-
-    leetcode 1594. 矩阵的最大非负积...
-    ### [leetcode 416. 分割等和子集](https://blog.csdn.net/qq_62172019/article/details/145641112)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-14
-
-    leetcode 416. 分割等和子集。...
 
 </div>
