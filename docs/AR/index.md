@@ -78,6 +78,26 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [leetcode 3183. 达到总和的方法数量](https://blog.csdn.net/qq_62172019/article/details/145886452)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-26
+
+    leetcode 3183. 达到总和的方法数量。...
+    ### [leetcode 41. 缺失的第一个正数](https://blog.csdn.net/qq_62172019/article/details/145886169)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-26
+
+    leetcode 41. 缺失的第一个正数。...
+    ### [leetcode 73. 矩阵置零](https://blog.csdn.net/qq_62172019/article/details/145886049)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-26
+
+    leetcode 73. 矩阵置零。...
+    ### [leetcode 1392. 最长快乐前缀](https://blog.csdn.net/qq_62172019/article/details/145885881)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-26
+
+    leetcode 1392. 最长快乐前缀。...
+    ### [leetcode 3036. 匹配模式数组的子数组数目 II](https://blog.csdn.net/qq_62172019/article/details/145885745)  
+    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-26
+
+    leetcode 3036. 匹配模式数组的子数组数目 II。...
     ### [leetcode 75. 颜色分类](https://blog.csdn.net/qq_62172019/article/details/145841776)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-25
 
@@ -138,25 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-18
 
     leetcode 2606. 找到最大开销的子字符串。...
-    ### [leetcode 3180. 执行操作可获得的最大总奖励 I](https://blog.csdn.net/qq_62172019/article/details/145679473)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
-
-    leetcode 3180. 执行操作可获得的最大总奖励 I。...
-    ### [leetcode 1289. 下降路径最小和 II](https://blog.csdn.net/qq_62172019/article/details/145679384)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
-
-    leetcode 1289. 下降路径最小和 II。...
-    ### [leetcode 2435. 矩阵中和能被 K 整除的路径](https://blog.csdn.net/qq_62172019/article/details/145679150)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
-
-    leetcode 2435. 矩阵中和能被 K 整除的路径。...
-    ### [leetcode 3393. 统计异或值为给定值的路径数目](https://blog.csdn.net/qq_62172019/article/details/145678903)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-17
-
-    leetcode 3393. 统计异或值为给定值的路径数目。...
-    ### [2.17本周小结](http://ba1100n.tech/weekly_diary/2-17%e6%9c%ac%e5%91%a8%e5%b0%8f%e7%bb%93/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2025-02-17
-
-    这周主要是生了一场大病，上吐下泻的。。。 仍然没有重新开始正常的学习，而且还发现一个之前没发现但是挺严重的问题 […]...
 
 </div>
