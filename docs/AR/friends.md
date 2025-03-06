@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [加密算法识别经验小结](http://ba1100n.tech/%e5%8a%a0%e8%a7%a3%e5%af%86%e7%ae%97%e6%b3%95/%e5%8a%a0%e5%af%86%e7%ae%97%e6%b3%95%e8%af%86%e5%88%ab%e7%bb%8f%e9%aa%8c%e6%80%bb%e7%bb%93%e6%8c%81%e7%bb%ad%e6%9b%b4%e6%96%b0/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-03-05
+
+    见一个搞懂一个,仅供自用，具体看这篇 https://bbs.kanxue.com/thread-265939 […]...
     ### [leetcode 102. 二叉树的层序遍历](https://blog.csdn.net/qq_62172019/article/details/146025609)  
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-03-04
 
@@ -154,9 +158,5 @@ hide:
     >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-28
 
     leetcode 94. 二叉树的中序遍历。...
-    ### [leetcode 239. 滑动窗口最大值](https://blog.csdn.net/qq_62172019/article/details/145924423)  
-    >by [摸鱼的猫](https://blog.csdn.net/qq_62172019/), 2025-02-28
-
-    leetcode 239. 滑动窗口最大值。...
 
 </div>
