@@ -78,7 +78,7 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
-    ### [Mirai源代码精读(bot部分)](http://ba1100n.tech/iot_security/mirai%e6%ba%90%e4%bb%a3%e7%a0%81%e7%b2%be%e8%af%bbbot%e9%83%a8%e5%88%86/)  
+    ### [Mirai源代码精读(bot部分)](http://www.ba1100n.tech/iot_security/mirai%e6%ba%90%e4%bb%a3%e7%a0%81%e7%b2%be%e8%af%bbbot%e9%83%a8%e5%88%86/)  
     >by [ba1100n](http://www.ba1100n.tech), 2025-03-18
 
     前言 虽然感觉前人分析挺多，但我觉得很多文章干看看不懂，很多地方跳来跳去，没铺垫我真的有点乱，也没有讲通我的疑 […]...
