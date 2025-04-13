@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [HTB_ctf](https://www.su-cvestone.cn/603/)  
+    >by [cvestone](https://www.su-cvestone.cn/), 2025-04-12
+
+    Hardware Debugging Interface 考察点 SALEAE Logic分析器的异步串行解码操作 描述 We a ......
     ### [Mirai源代码精读(bot部分)](http://www.ba1100n.tech/iot_security/mirai%e6%ba%90%e4%bb%a3%e7%a0%81%e7%b2%be%e8%af%bbbot%e9%83%a8%e5%88%86/)  
     >by [ba1100n](http://www.ba1100n.tech), 2025-03-18
 
@@ -154,9 +158,5 @@ hide:
     >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
 
     leetcode 94. 二叉树的中序遍历。...
-    ### [leetcode 239. 滑动窗口最大值](https://blog.csdn.net/qq_62172019/article/details/145924423)  
-    >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
-
-    leetcode 239. 滑动窗口最大值。...
 
 </div>
