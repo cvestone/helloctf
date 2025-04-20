@@ -78,14 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [基于LAN的intent触发](http://arch3rn4r.github.io/2025/04/19/%E5%9F%BA%E4%BA%8ELAN%E7%9A%84intent%E8%A7%A6%E5%8F%91/)  
+    >by [水委](https://arch3rn4r.github.io), 2025-04-19
+
+    漏洞简述Firefox for Android（68.11.0 及更低版本）会发送定期发送SSDP信息，在其解析LCATION时没有正确验证LOCATION字段的的信息，它错误地将 LOCATION 字段里的任何字符串（包括 intent:// 这种非标准的 URI）直接传递给了 Android 系统的 Intent 处理机制。（打开 Web 浏览器的 URI 方案定义为 http 或 https...
     ### [Frida-Labs wp](http://arch3rn4r.github.io/2025/04/17/Frida-Labs-wp/)  
     >by [水委](https://arch3rn4r.github.io), 2025-04-17
 
     0x1 同一个类中的静态方法分析基本结构如下12345678910111213public class MainActivity extends AppCompatActivity {    protected void onCreate(Bundle bundle) {            public void onClick(View view) {                if (...
-    ### [HTB_ctf](https://www.su-cvestone.cn/603/)  
-    >by [cvestone](https://www.su-cvestone.cn/), 2025-04-12
-
-    Hardware Debugging Interface 考察点 SALEAE Logic分析器的异步串行解码操作 描述 We a ......
     ### [Mirai源代码精读(bot部分)](http://www.ba1100n.tech/iot_security/mirai%e6%ba%90%e4%bb%a3%e7%a0%81%e7%b2%be%e8%af%bbbot%e9%83%a8%e5%88%86/)  
     >by [ba1100n](http://www.ba1100n.tech), 2025-03-18
 
