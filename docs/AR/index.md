@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [ble_ctf wp](http://arch3rn4r.github.io/2025/04/26/%E4%BB%8Eble-ctf%E5%AD%A6%E8%93%9D%E7%89%99/)  
+    >by [水委](https://arch3rn4r.github.io), 2025-04-26
+
+    0x0 前期配置所需设备：蓝牙适配器，刷入了blectf的esp32,能进行蓝牙操作的设备（kali或者Ubuntu）启动蓝牙123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354┌──(kali㉿kali)-[~/Desktop]└─$ hciconfi...
     ### [基于LAN的intent触发](http://arch3rn4r.github.io/2025/04/19/%E5%9F%BA%E4%BA%8ELAN%E7%9A%84intent%E8%A7%A6%E5%8F%91/)  
     >by [水委](https://arch3rn4r.github.io), 2025-04-19
 
@@ -154,9 +158,5 @@ hide:
     >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
 
     【代码】leetcode 686. 重复叠加字符串匹配。...
-    ### [leetcode 189. 轮转数组](https://blog.csdn.net/qq_62172019/article/details/145924799)  
-    >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
-
-    leetcode 189. 轮转数组。...
 
 </div>
