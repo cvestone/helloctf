@@ -90,10 +90,6 @@ hide:
     >by [水委](https://arch3rn4r.github.io), 2025-04-17
 
     0x1 同一个类中的静态方法分析基本结构如下12345678910111213public class MainActivity extends AppCompatActivity {    protected void onCreate(Bundle bundle) {            public void onClick(View view) {                if (...
-    ### [Mirai源代码精读(bot部分)](http://www.ba1100n.tech/iot_security/mirai%e6%ba%90%e4%bb%a3%e7%a0%81%e7%b2%be%e8%af%bbbot%e9%83%a8%e5%88%86/)  
-    >by [ba1100n](http://www.ba1100n.tech), 2025-03-18
-
-    前言 虽然感觉前人分析挺多，但我觉得很多文章干看看不懂，很多地方跳来跳去，没铺垫我真的有点乱，也没有讲通我的疑 […]...
     ### [leetcode 102. 二叉树的层序遍历](https://blog.csdn.net/qq_62172019/article/details/146025609)  
     >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-03-04
 
@@ -158,5 +154,9 @@ hide:
     >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
 
     【代码】leetcode 686. 重复叠加字符串匹配。...
+    ### [leetcode 189. 轮转数组](https://blog.csdn.net/qq_62172019/article/details/145924799)  
+    >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
+
+    leetcode 189. 轮转数组。...
 
 </div>
