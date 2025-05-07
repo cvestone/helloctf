@@ -78,6 +78,10 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [BitSiegeCTF2025-Watcher](http://arch3rn4r.github.io/2025/05/06/BitSiegeCTF2025-Watcher/)  
+    >by [水委](https://arch3rn4r.github.io), 2025-05-06
+
+    前置分析题目描述题目下载链接:https://github.com/0xbinder/BitCTF-2025/blob/main/watcher.apk打开modsf，获取到它的基本信息和暴露的组件Package Name： com.example.watcherexported services：com.example.watcher.WatcherService查看WatcherService...
     ### [ble_ctf wp](http://arch3rn4r.github.io/2025/04/26/%E4%BB%8Eble-ctf%E5%AD%A6%E8%93%9D%E7%89%99/)  
     >by [水委](https://arch3rn4r.github.io), 2025-04-26
 
@@ -154,9 +158,5 @@ hide:
     >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
 
     【代码】leetcode 686. 重复叠加字符串匹配。...
-    ### [leetcode 189. 轮转数组](https://blog.csdn.net/qq_62172019/article/details/145924799)  
-    >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
-
-    leetcode 189. 轮转数组。...
 
 </div>
