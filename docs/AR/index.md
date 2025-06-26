@@ -78,6 +78,14 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
+    ### [20250625_开源XDR_wazuh_反序列化RCE](http://www.ba1100n.tech/daily_vuln/20250625_wazuh_preauthrce/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-06-25
+
+    今天看到这个文章https://www.akamai.com/blog/security-research/2 […]...
+    ### [CornCtf He_protect](https://megachar0x01.github.io/posts/Pwn_he_Protect_2025/)  
+    >by [virus](https://megachar0x01.github.io), 2025-06-24
+
+    Purpose : Get The Flag The challenge binary mmaps a memory region at 0x500000 with a size of 0x1000 bytes and grants it read, write, and execute permissions. It then: Asks the user how many bytes they...
     ### [BitSiegeCTF2025-Watcher](http://arch3rn4r.github.io/2025/05/06/BitSiegeCTF2025-Watcher/)  
     >by [水委](https://arch3rn4r.github.io), 2025-05-06
 
@@ -150,13 +158,5 @@ hide:
     >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-03-02
 
     leetcode 76. 最小覆盖子串。...
-    ### [frida绕过检测学习](http://arch3rn4r.github.io/2025/03/02/frida%E7%BB%95%E8%BF%87%E6%A3%80%E6%B5%8B%E5%AD%A6%E4%B9%A0/)  
-    >by [水委](https://arch3rn4r.github.io), 2025-03-02
-
-    检测点检测Frida的机制一般在Native层实现，通常会创建几个线程轮询检测。查看检测的so先检查检测部分的代码在哪里1234567891011Interceptor.attach(Module.findExportByName(null, "android_dlopen_ext"),      {          onEnter: function (args) {...
-    ### [leetcode 128. 最长连续序列](https://blog.csdn.net/qq_62172019/article/details/145925385)  
-    >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-02-28
-
-    leetcode 128. 最长连续序列。...
 
 </div>
