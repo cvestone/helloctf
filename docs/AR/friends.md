@@ -78,7 +78,11 @@ hide:
 -   :fontawesome-solid-blog:{ .lg .middle } __最近更新__
 
     ---
-    ### [20250625_开源XDR_wazuh_反序列化RCE](http://www.ba1100n.tech/daily_vuln/20250625_wazuh_preauthrce/)  
+    ### [【每日一洞20250626】ErlangOTP_SSH漏洞导致未授权RCE(10分!)](http://www.ba1100n.tech/daily_vuln/%e3%80%90%e6%af%8f%e6%97%a5%e4%b8%80%e6%b4%9e20250626%e3%80%91erlangotp_ssh%e6%bc%8f%e6%b4%9e%e5%af%bc%e8%87%b4%e6%9c%aa%e6%8e%88%e6%9d%83rce10%e5%88%86/)  
+    >by [ba1100n](http://www.ba1100n.tech), 2025-06-26
+
+    漏洞编号为，CVE-2025-32433，官方通告：https://github.com/erlang/otp […]...
+    ### [【每日一洞20250625】开源XDR_wazuh_反序列化RCE](http://www.ba1100n.tech/daily_vuln/20250625_wazuh_preauthrce/)  
     >by [ba1100n](http://www.ba1100n.tech), 2025-06-25
 
     今天看到这个文章https://www.akamai.com/blog/security-research/2 […]...
@@ -154,9 +158,5 @@ hide:
     >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-03-02
 
     leetcode 48. 旋转图像。...
-    ### [leetcode 76. 最小覆盖子串](https://blog.csdn.net/qq_62172019/article/details/145964325)  
-    >by [命途行者](https://blog.csdn.net/qq_62172019/), 2025-03-02
-
-    leetcode 76. 最小覆盖子串。...
 
 </div>
