@@ -1,0 +1,2212 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="RP01sword战队成员博客实时更新情况">
+      
+      
+        <meta name="author" content="cvestone">
+      
+      
+        <link rel="canonical" href="https://rp01ctfer.su-cvestone.cn/HC_envSet/CTFtool/">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.16">
+    
+    
+      
+        <title>CTF工具集合 - RP01sword Service</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:300,300i,400,400i,700,700i%7CFira+Code:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Noto Sans SC";--md-code-font:"Fira Code"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.16.8/katex.min.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="../../stylesheets/bannerSlider.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-V9998CDNR1"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-V9998CDNR1",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-V9998CDNR1",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ctf" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../.." title="RP01sword Service" class="md-header__button md-logo" aria-label="RP01sword Service" data-md-component="logo">
+      
+  <img src="../../assets/images/rp01sword_logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            RP01sword Service
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              CTF工具集合
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="black" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="分享" aria-label="分享" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91s2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/cvestone/helloctf" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Hello-CTF
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../ET/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  赛事
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../TK/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  工具
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../AR/" class="md-tabs__link">
+          
+  
+  
+    
+  
+  Archives
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="RP01sword Service" class="md-nav__button md-logo" aria-label="RP01sword Service" data-md-component="logo">
+      
+  <img src="../../assets/images/rp01sword_logo.png" alt="logo">
+
+    </a>
+    RP01sword Service
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/cvestone/helloctf" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    Hello-CTF
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../ET/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    赛事
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_1" id="__nav_1_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            赛事
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ET/Upcoming_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    即将开始
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ET/Now_running/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    正在进行
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ET/Past_events/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    已经结束
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../TK/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    工具
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../AR/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    Archives
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Archives
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    师傅们和他们的博客
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            师傅们和他们的博客
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AR/friends/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Friends
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    社区资源
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            社区资源
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AR/Community.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    None
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    书单推荐
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            书单推荐
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AR/books.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    None
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_5" id="__nav_3_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    视频资源
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_5">
+            <span class="md-nav__icon md-icon"></span>
+            视频资源
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AR/Videos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Awsome-Sec.CTF-Videomaker
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      食用说明
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      💻常用软件
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ctf_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      🏴 CTF 工具合集
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🏴 CTF 工具合集">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      🪐 环境基础
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#web-web" class="md-nav__link">
+    <span class="md-ellipsis">
+      🌐 Web | Web安全
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#misc" class="md-nav__link">
+    <span class="md-ellipsis">
+      🕸 MISC | 杂项
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="🕸 MISC | 杂项">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      ❆ 基础工具
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
+    <span class="md-ellipsis">
+      ❆ 解题工具
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#_6" class="md-nav__link">
+    <span class="md-ellipsis">
+      ❆ 开源脚本
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crypto" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔑 Crypto | 密码学
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#reverse" class="md-nav__link">
+    <span class="md-ellipsis">
+      💫 Reverse | 逆向
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="💫 Reverse | 逆向">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#_7" class="md-nav__link">
+    <span class="md-ellipsis">
+      基础工具
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pwn" class="md-nav__link">
+    <span class="md-ellipsis">
+      💥 PWN | 二进制
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#awd-awdp" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛡 AWD / AWDP
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  <!-- News -->
+
+
+<!-- Event -->
+
+
+<!-- Tags -->
+
+
+<!-- Actions -->
+<!-- Actions -->
+
+
+  <!-- Edit button -->
+  
+    <a
+      href="https://github.com/cvestone/helloctf/tree/main/docs/HC_envSet/CTFtool.md"
+      title="编辑此页"
+      class="md-content__button md-icon"
+    >
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4zm10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1z"/></svg>
+    </a>
+  
+
+  <!-- View button -->
+  
+    
+      
+    
+    <a
+      href="https://github.com/cvestone/helloctf/tree/main/docs/HC_envSet/CTFtool.md"
+      title="查看本页的源代码"
+      class="md-content__button md-icon"
+    >
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.2 8.2 0 0 1-1.23-2"/></svg>
+    </a>
+  
+
+
+<!-- Page content -->
+<div><h1 id="ctf">CTF工具集合<a class="headerlink" href="#ctf" title="Permanent link">¶</a></h1>
+<p>该页面基于项目【CTFtools-wiki】<a href="https://github.com/ProbiusOfficial/CTFtools-wiki">https://github.com/ProbiusOfficial/CTFtools-wiki</a>
+若本项目对您有所帮助，还劳烦点个 Star ⭐ 支持一下~谢谢！！！</p>
+<h2 id="_1">食用说明<a class="headerlink" href="#_1" title="Permanent link">¶</a></h2>
+<p>该合集将尽力做到对各个阶段的CTFer都有所帮助，您可以依照各方向环境配置文档在这里寻找各个工具的下载地址和使用方法。</p>
+<h2 id="_2">💻常用软件<a class="headerlink" href="#_2" title="Permanent link">¶</a></h2>
+<ul>
+<li>该栏目提供的工具只为提高效率，可能与项目核心有一定偏差。</li>
+<li>项目Release提供封装好的基础工具箱，工具箱将基于 <a href="https://github.com/25H/MayeLite">Maye Lite</a> 进行相对路径封装，以便于解决路径问题，做到开箱即用。</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">项目名称</th>
+<th style="text-align: left;">项目简介</th>
+<th style="text-align: left;">项目地址</th>
+<th style="text-align: left;">项目文档</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="https://github.com/25H/MayeLite">Maye Lite</a></td>
+<td style="text-align: left;">专注于文件快速启动的简洁、轻量级工具<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td style="text-align: left;"><a href="https://github.com/25H/MayeLite">Github</a></td>
+<td style="text-align: left;"><a href="https://t.arae.cc/p/25804.html">https://t.arae.cc/p/25804.html</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://u.tools/">uTools</a></td>
+<td style="text-align: left;">一个极简、插件化的现代桌面软件。<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td style="text-align: left;"><a href="https://u.tools/">官网</a></td>
+<td style="text-align: left;"><a href="https://u.tools/docs/guide/about-uTools.html">https://u.tools/docs/guide/about-uTools.html</a></td>
+</tr>
+<tr>
+<td style="text-align: left;"><a href="https://www.voidtools.com/zh-cn/downloads/">Everything</a></td>
+<td style="text-align: left;">一款强大的本地文件索引和搜索工具<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td style="text-align: left;"><a href="https://www.voidtools.com/zh-cn/downloads/">官网</a></td>
+<td style="text-align: left;">/</td>
+</tr>
+</tbody>
+</table>
+<p>欢迎在issue中推荐更多的效率工具，但是请注意，适合自己的工具才是最好的，您并不需要下载所有的工具，请勿持有 ALL IN 思想。</p>
+<h2 id="ctf_1">🏴 CTF 工具合集<a class="headerlink" href="#ctf_1" title="Permanent link">¶</a></h2>
+<h3 id="_3">🪐  环境基础<a class="headerlink" href="#_3" title="Permanent link">¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th style="text-align: center;">使用文档</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vscode</td>
+<td>最好用 最轻量的 文本编辑器 依靠扩展可实现包括但不限于 IDE 各种功能<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://code.visualstudio.com/">官网</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>Vmware Workstation</td>
+<td>虚拟机软件<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">官网</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>PyCharm</td>
+<td>Python 集成开发环境(IDE)<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://www.jetbrains.com/zh-cn/pycharm/">官网</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>IDEA</td>
+<td>Java 集成开发环境(IDE)<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://www.jetbrains.com/zh-cn/idea/">官网</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>PHPStorm</td>
+<td>PHP 集成开发环境(IDE)<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://www.jetbrains.com/zh-cn/phpstorm/">官网</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>Phpstudy</td>
+<td>Web环境 (Apache / Nginx + FTP + MySQL) 快速部署 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17">  <br>常用于 Web初学阶段的一些本地web页面的搭建</td>
+<td><a href="https://www.xp.cn/download.html">官网</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>Docker</td>
+<td>容器服务 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"><br>常用于 题目本地搭建测试  靶场环境，漏洞复现环境搭建等 <br> 除了静态附件题目，几乎所有的CTF题目都依赖Docker</td>
+<td><a href="https://www.docker.com/">官网</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>Navicat</td>
+<td>优秀的数据库 管理 操作 调试 以及 可视化软件<a href="https://www.ghxi.com/navicat16.html"><img src="../CTFtool.assets/windows.svg" width="17" height="17"></a><img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://navicat.com.cn/download/navicat-premium">官网</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>Watt Toolkit</td>
+<td>Github Discord 部分谷歌服务 页面元素CDN 访问加速 | <br>不是用来让你打游戏的啊喂(#`O′)！<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/BeyondDimension/SteamTools">Github</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+<tr>
+<td>Clash</td>
+<td>部分服务访问加速 | 我也只能说这么多<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/Dreamacro/clash">Github</a></td>
+<td style="text-align: center;">/</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="web-web">🌐  Web | Web安全<a class="headerlink" href="#web-web" title="Permanent link">¶</a></h3>
+<ul>
+<li>注意 工具包含 应用程序<img src="../CTFtool.assets/application.svg" width="19" height="13"> 和 浏览器插件<img src="../CTFtool.assets/chrome.svg" width="19" height="13"></li>
+<li>以下为Web常用工具或者说基础工具，一些漏洞利用程序将不会被归纳到这，您可以 点击此处 查看后方的CTF项目归档来查找更多工具。</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>使用文档</th>
+<th>其他</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">hackbar <img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td>浏览器插件，能够在页面上直接完成 请求/响应内容编辑，完成各种包括但是不限于伪造的工作。</td>
+<td><a href="https://chrome.google.com/webstore/detail/ginpbkfigcoaokgflihfhhmglmbchinc">谷歌商店</a><br><a href="https://github.com/Mr-xn/hackbar2.1.3">Github</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td style="text-align: left;">Proxy SwitchyOmega <img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td>代理管理软件，方便一个浏览器多个代理端口的切换。</td>
+<td><a href="https://github.com/FelisCatus/SwitchyOmega">Github</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td style="text-align: left;">Wappalyzer <img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td>页面技术识别软件，方便快速定位页面的框架技术等信息</td>
+<td><a href="https://www.wappalyzer.com/">官网</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td style="text-align: left;">Burp Suite <img src="../CTFtool.assets/application.svg" width="19" height="13"></td>
+<td>代理抓包软件，用于Web应用程序的渗透测试和攻击<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://portswigger.net/burp">官网</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td style="text-align: left;">Antsword <img src="../CTFtool.assets/application.svg" width="19" height="13"></td>
+<td>开源Webshell管理工具<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/AntSwordProject/antSword">Github</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td style="text-align: left;">dirsearch <img src="../CTFtool.assets/application.svg" width="19" height="13"></td>
+<td>目录扫描工具<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/maurosoria/dirsearch">Github</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td style="text-align: left;">SQLMap<img src="../CTFtool.assets/application.svg" width="19" height="13"></td>
+<td>自动化的SQL注入利用工具<img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/sqlmapproject/sqlmap">Github</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td style="text-align: left;">JD-GUI <img src="../CTFtool.assets/application.svg" width="19" height="13"></td>
+<td>Jar包反编译工具 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/java-decompiler/jd-gui">Github</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td style="text-align: left;">Ysoserial<img src="../CTFtool.assets/application.svg" width="19" height="13"></td>
+<td>Java 反序列漏洞利用工具 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/frohoff/ysoserial">Github</a></td>
+<td>/</td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="misc">🕸  MISC | 杂项<a class="headerlink" href="#misc" title="Permanent link">¶</a></h3>
+<h4 id="_4">❆ 基础工具<a class="headerlink" href="#_4" title="Permanent link">¶</a></h4>
+<ul>
+<li><strong>基础语言 | 模块</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>文档</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Python</td>
+<td>MISC方向中用途最广的语言。</td>
+<td><a href="https://www.python.org/">官网</a></td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>编码 / 解码 / 解密 工具</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>文档</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CyberChef</td>
+<td>近乎全能的编码解码工具。<img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td><a href="https://cyberchef.org/">官网</a><br><a href="https://ctf.mzy0.com/CyberChef3/">国内中文镜像站</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Ciphey</td>
+<td>自动化解密工具。</td>
+<td><a href="https://github.com/Ciphey/Ciphey">Github</a></td>
+<td></td>
+</tr>
+<tr>
+<td>CTFCrackTools</td>
+<td>国内首个CTF工具框架,内涵多个主流密码加解密，支持添加支持Python编写的插件。</td>
+<td><a href="https://github.com/0Chencc/CTFCrackTools">Github</a></td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>文本 / Hex 编辑 | 文件工具</strong>    </li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>文档</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>010 Editor</td>
+<td>专业的文本编辑器和16进制编辑器，可通过加载模块脚本，解析文件结构。<img src="../CTFtool.assets/windows.svg" width="17" height="17"><img src="../CTFtool.assets/linux.svg" width="17" height="17"></td>
+<td><a href="http://www.010editor.com/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>lmHex</td>
+<td>开源的16进制编辑器。 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/WerWolv/ImHex">Github</a></td>
+<td></td>
+</tr>
+<tr>
+<td>WinHex</td>
+<td>16 进制编辑器为核心的数据处理软件。<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://www.x-ways.net/winhex/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Binwalk</td>
+<td>可识别文件分离提取工具，常用于从文件中提取隐写到其中的其他文件。<img src="../CTFtool.assets/linux.svg" width="17" height="17"></td>
+<td><a href="https://github.com/ReFirmLabs/binwalk">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Foremost</td>
+<td>用于提取一个文件中包含的多个文件。<img src="../CTFtool.assets/linux.svg" width="17" height="17"></td>
+<td>/</td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>隐写工具 | 图像 / 音频</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>文档</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Qrazybox<img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td>二维码分析和恢复<img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td><a href="https://github.com/Merricx/qrazybox">Github</a><br><a href="https://merri.cx/qrazybox/">Usagepage</a></td>
+<td></td>
+</tr>
+<tr>
+<td>QR Research</td>
+<td>专业的二维码扫描识别软件，支持多个纠错等级，掩码选项(已停止维护)。<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>UleadGIFAnimator</td>
+<td>高级GIF编辑器<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td>/</td>
+<td><a href="https://www.52pojie.cn/thread-1276299-1-1.html">吾爱论坛</a></td>
+</tr>
+<tr>
+<td><strong>-----图像类</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Stegsolve</td>
+<td>图像分析工具。 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/Giotino/stegsolve">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>TweakPNG</td>
+<td>用于检查和修改PNG图像文件 |类似于010的Png Template功能 <img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://entropymine.com/jason/tweakpng/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>BlindWaterMark(python)</td>
+<td>基于 python 的图像盲水印</td>
+<td><a href="https://github.com/ww23/BlindWatermark">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>BlindWatermark(java)</td>
+<td>基于 java 的图像盲水印</td>
+<td><a href="https://github.com/ww23/BlindWatermark">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>WaterMark(隐藏水印)</td>
+<td>图像隐写工具，在频域添加数字水印 <img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td>/</td>
+<td><a href="https://www.52pojie.cn/thread-709668-1-1.html">吾爱论坛</a></td>
+</tr>
+<tr>
+<td>WaterMarkH</td>
+<td>单图盲水印(频域隐写)工具</td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>zsteg</td>
+<td>PNG 和 BMP 图片隐写</td>
+<td><a href="https://github.com/zed-0xff/zsteg">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>StegoVeritas</td>
+<td>隐写工具</td>
+<td><a href="https://github.com/bannsec/stegoVeritas">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Stegdetect</td>
+<td>检测jpeg图像隐写工具，搭配stegbreak食用更佳</td>
+<td><a href="https://github.com/abeluck/stegdetect">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td><strong>-----音频类</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Steghide</td>
+<td>将文件隐藏到**图片或音频**中的工具 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"></td>
+<td><a href="https://steghide.sourceforge.net/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Audacity</td>
+<td>多轨音频处理软件。<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://github.com/audacity/audacity">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Mp3stego</td>
+<td>音频隐写提取工具<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://www.petitcolas.net/steganography/mp3stego/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Silenteye</td>
+<td>音频/图像隐写工具 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://achorein.github.io/silenteye/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>DeepSound</td>
+<td>可以将文件加密保存到一段声音文件中<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://jpinsoft.net/deepsound/documentation.aspx">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Mp3tag</td>
+<td>音频文件元资料编辑器 <img src="../CTFtool.assets/windows.svg" width="17" height="17"><img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://www.mp3tag.de/en/">官网</a></td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>取证工具</strong></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>文档</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Forensics-Wiki</td>
+<td>取证综合资料库<img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td><a href="https://www.forensics-wiki.com/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td><strong>-----密码爆破</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ZipCenOp</td>
+<td>伪加密加/解密工具 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://github.com/442048209as/ZipCenOp">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>ARCHPR</td>
+<td>压缩文件密码暴力破解工具。<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>Ziperello</td>
+<td>zip压缩包密码恢复软件。<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>Aopr</td>
+<td>Office文件密码暴力破解工具。<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>Passware Kit Forensic</td>
+<td>十分强大的解密工具，各类文件/磁盘密码爆破，密钥搜索等</td>
+<td>/</td>
+<td>- <a href="https://blog.csdn.net/u010418732/article/details/120189354">依依的汉化包</a><br>- <a href="https://www.mzy0.com/archives/82/">汉化版</a></td>
+</tr>
+<tr>
+<td>Hashcat</td>
+<td>高性能，GPU/CPU 兼容的本地密码破解，支持多种不同格式</td>
+<td><a href="https://github.com/hashcat/hashcat">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>John the Ripper</td>
+<td>简单易用的离线破解</td>
+<td><a href="https://github.com/openwall/john">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Hydra</td>
+<td>远程或在线密码的并行暴力破解。</td>
+<td><a href="https://github.com/vanhauser-thc/thc-hydra">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td><strong>-----流量分析</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Wireshark</td>
+<td>流量分析取证软件。 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://www.wireshark.org/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td><strong>-----内存 磁盘 取证</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Volatility</td>
+<td>内存分析取证软件。 <img src="../CTFtool.assets/windows.svg" width="17" height="17"> <img src="../CTFtool.assets/linux.svg" width="17" height="17"> <img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://www.volatilityfoundation.org/">官网</a><br><a href="https://github.com/volatilityfoundation">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>MemProcFS</td>
+<td>新型内存取证框架<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://github.com/ufrisk/MemProcFS">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>NtfsStreamsEditor</td>
+<td>NTFS流分析<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://www.nirsoft.net/utils/alternate_data_streams.html">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>R-Studio</td>
+<td>内存取证tick+磁盘文件恢复分析<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://www.r-studio.com/zhcn/data-recovery-software">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>AutoPsy</td>
+<td>用来分析磁盘映像和恢复文件的开源取证工具<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://www.autopsy.com/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>RegistryExplorer</td>
+<td>注册表文件分析器<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="http://www.regxplor.com/download.html">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>PowerToy</td>
+<td>注册表文件分析器<img src="../CTFtool.assets/windows.svg" width="17" height="17"></td>
+<td><a href="https://github.com/microsoft/PowerToys">Github</a></td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<h4 id="_5">❆ 解题工具<a class="headerlink" href="#_5" title="Permanent link">¶</a></h4>
+<p>⚠请不要过分依赖下面工具！！！</p>
+<ul>
+<li>MISC是一个对编程能力要求比较高的方向，不过大多数考点的固定衍生出比较多的"轮子"，当然轮子减少手动操作，确实是好东西，但是容易产生一些弊端，因为跳过了手动操作所以不懂原理也能梭题目，可能会导致选手略过本来应该学的原理，手动会做之后再碰到了用工具减少操作是完全没问题的，即便没有这些整合工具，用现成脚本说到底本质也是一样的。</li>
+</ul>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>使用工具获取便利的同时 请不要忽略对原理的学习！
+</code></pre></div>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>相关地址</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>随波逐流</td>
+<td>离线加密解密，字符编码进行转换，文件隐写查看等多项功能。</td>
+<td><a href="http://1o1o.xyz/index.html">官网</a></td>
+</tr>
+<tr>
+<td>PuzzleSolver</td>
+<td>MISC 综合解题工具，由Byxs20开发。</td>
+<td><a href="https://github.com/Byxs20/PuzzleSolver">神秘数字</a></td>
+</tr>
+</tbody>
+</table>
+<h4 id="_6">❆ 开源脚本<a class="headerlink" href="#_6" title="Permanent link">¶</a></h4>
+<p>🔔MISC是一个十分注重编程能力 <del>和 脑洞</del> 的方向，希望你能从下面的开源脚本中获得启发，也欢迎pr投稿你的开源脚本x</p>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>项目地址</th>
+<th>项目作者</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>自动爆破PNG图片宽高并一键修复工具</td>
+<td><a href="https://github.com/AabyssZG/Deformed-Image-Restorer">Github</a></td>
+<td><a href="https://github.com/AabyssZG">AabyssZG (曾哥) )</a></td>
+</tr>
+<tr>
+<td>文件反转、倒置、导出工具</td>
+<td><a href="https://github.com/AabyssZG/FileReverse-Tools">Github</a></td>
+<td><a href="https://github.com/AabyssZG">AabyssZG (曾哥) )</a></td>
+</tr>
+<tr>
+<td>CRC碰撞全自动化脚本</td>
+<td><a href="https://github.com/AabyssZG/CRC32-Tools">Github</a></td>
+<td><a href="https://github.com/AabyssZG">AabyssZG (曾哥) )</a></td>
+</tr>
+<tr>
+<td>自动化内存取证_GUI版本</td>
+<td><a href="https://github.com/Tokeii0/VolatilityPro">Github</a></td>
+<td><a href="https://github.com/Tokeii0">Tokeii0 (猫捉鱼) </a></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="crypto">🔑 Crypto | 密码学<a class="headerlink" href="#crypto" title="Permanent link">¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>其它</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>---<strong>语言 | 模块</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Python</td>
+<td>CTF密码学中离不开的语言x</td>
+<td><a href="https://www.python.org/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Crypto 包<img src="../CTFtool.assets/python.svg" width="17" height="17"></td>
+<td>密码学工具库，用于在Python中实现各种加密、解密和哈希算法。</td>
+<td><a href="https://github.com/Legrandin/pycryptodome">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>gmpy2 包<img src="../CTFtool.assets/python.svg" width="17" height="17"></td>
+<td>包含了许多常用的数论函数和算法，适配各种大整数情况，算法效率高于原生库。</td>
+<td><a href="https://github.com/aleaxit/gmpy">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>numpy 包<img src="../CTFtool.assets/python.svg" width="17" height="17"></td>
+<td>基于C代码实现了底层数据结构和计算函数优化，适用于处理大型数据集和高性能计算，在密码学中常用于矩阵类运算。</td>
+<td><a href="https://github.com/numpy/numpy">Github</a><br><a href="https://numpy.org/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>---<strong>应用程序</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sagemath</td>
+<td>开源的数学软件系统,整合了许多开源Python包。 <img src="../CTFtool.assets/linux.svg" width="17" height="17"><img src="../CTFtool.assets/apple.svg" width="17" height="17"></td>
+<td><a href="https://www.sagemath.org/">官网</a><br><a href="https://github.com/sagemath">Github</a></td>
+<td><a href="https://www.osgeo.cn/sagemath/index.html">Sage 中文文档</a></td>
+</tr>
+<tr>
+<td>Yafu</td>
+<td>本地的因数分解程序</td>
+<td><a href="https://sourceforge.net/projects/yafu/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Factordb</td>
+<td>在线的因数分解网站</td>
+<td><a href="http://factordb.com/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>z3</td>
+<td>开源的约束求解器，针对约束求解题型</td>
+<td><a href="https://github.com/Z3Prover/z3/">Github</a></td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3 id="reverse">💫 Reverse | 逆向<a class="headerlink" href="#reverse" title="Permanent link">¶</a></h3>
+<h4 id="_7">基础工具<a class="headerlink" href="#_7" title="Permanent link">¶</a></h4>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>其他</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>微步沙箱</td>
+<td>文件敏感操作检查<img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td><a href="https://s.threatbook.com">UsagePage</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Binaryai</td>
+<td>基于开源项目代码匹配度在线反编译工具<img src="../CTFtool.assets/chrome.svg" width="19" height="13"></td>
+<td><a href="https://www.binaryai.cn/">UsagePage</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>IDA</td>
+<td>最常用的静态逆向工具</td>
+<td><a href="https://hex-rays.com/ida-pro/">官网</a></td>
+<td><a href="https://github.com/Coldwave96/WebSecurity/blob/master/IDA%20Pro%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.pdf">ida pro权威指南</a></td>
+</tr>
+<tr>
+<td>Ghidra</td>
+<td>开源的静态逆向工具，和IDA作用相同</td>
+<td><a href="https://ghidra-sre.org/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Ollydbg</td>
+<td>同为反汇编调试器(官方已经停止维护)</td>
+<td><a href="https://www.ollydbg.de/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>x64dbg / x32dbg</td>
+<td>在windows上使用的开源 x64 / x32 调试器</td>
+<td><a href="https://x64dbg.com/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>DIE</td>
+<td>查壳工具，拿到程序第一件事就是分析文件类型，是否有壳</td>
+<td><a href="https://github.com/horsicq/Detect-It-Easy">Github</a></td>
+<td><a href="https://github.com/horsicq/Detect-It-Easy">Github</a></td>
+</tr>
+<tr>
+<td>Exeinfope</td>
+<td>同为查壳工具</td>
+<td><a href="http://www.exeinfo.byethost18.com">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Cheat Engine</td>
+<td>对程序的内存数据进行扫描和调试。</td>
+<td><a href="https://www.cheatengine.org/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>GDB</td>
+<td>一般用于ELF的动态调试，配合插件(如pwngdb，gdb-peda)使用更佳</td>
+<td>使用包管理工具安装</td>
+<td><a href="https://www.sourceware.org/gdb/documentation/">Sourceware</a></td>
+</tr>
+<tr>
+<td>z3</td>
+<td>开源的约束求解器，针对约束求解题型</td>
+<td><a href="https://github.com/Z3Prover/z3/">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>dnSpy</td>
+<td>强大的.NET调试、修改和反编译的工具(已停止维护)</td>
+<td><a href="https://github.com/dnSpy/dnSpy">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>----<strong>Java反编译</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>JADX</td>
+<td>开源 更好的代码可读性 自动恢复丢失的类和方法、变量和方法名称、可以将反编译结果导出为 Eclipse 或 IDEA 项目</td>
+<td><a href="https://github.com/skylot/jadx">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>JD-GUI</td>
+<td>更好的代码可读性 可导出为 Java 文件或 Jar 包</td>
+<td><a href="http://java-decompiler.github.io/">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>JEB</td>
+<td>支持wasm 可交叉引用、可看字节码、反编译结果纯粹</td>
+<td><a href="https://www.pnfsoftware.com/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>GDA</td>
+<td>支持apk, dex, odex, oat, jar, class, aar文件的反编译， 支持python及java脚本自动化分析</td>
+<td><a href="http://www.gda.wiki:9090/">官网</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Fernflower</td>
+<td>IDEA 采用的反编译工具,支持Jar包反编译。</td>
+<td><a href="https://github.com/fesh0r/fernflower">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>----<strong>Python反编译</strong></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>pycdc</td>
+<td>pyc反编译,对高版本有不错兼容性。</td>
+<td><a href="https://github.com/zrax/pycdc">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Unpy2exe</td>
+<td>对py2exe打包的python程序提取字节码文件  <strong>(.pyc)</strong>。</td>
+<td><a href="https://github.com/matiasb/unpy2exe">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Pyinstxtractor</td>
+<td>对pyInstaller打包的python程序提取字节码文件  <strong>(.pyc)</strong>。</td>
+<td><a href="https://github.com/extremecoders-re/pyinstxtractor">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>[Python]uncompyle</td>
+<td>用于对Python字节码文件 <strong>(.pyc)</strong> 的反汇编，将其变成python源代码。</td>
+<td><a href="https://pypi.org/project/uncompyle6/">官网</a></td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<div>  
+    <!-- 拿到一个文件，先分析它是什么类型的文件，可以在Linux下使用flie来查看他是什么类型的文件(一般是一个可执行文件)，分析后查看它是否有壳，有的话先脱壳，脱壳后针对文件类型来使用逆向工具，如Jar包我们就用jd-gui，.NET文件我们就使用dnSpy，IDA一般是万金油，不知道用什么的话就先用IDA静态分析。在了解程序大概结构后，我们可以对程序关键部分下断点进行动态调试，但在这之前，我们或许还会遇到需要解决混淆和反调试保护等问题......本文注重工具的介绍，这里不再对题型过多赘述。 -->
+</div>
+
+<hr>
+<h3 id="pwn">💥 PWN | 二进制<a class="headerlink" href="#pwn" title="Permanent link">¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>其他</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GDB</td>
+<td>一般用于ELF的动态调试，配合插件(如pwngdb，gdb-peda)使用更佳。</td>
+<td><a href="https://www.sourceware.org/gdb/documentation/">Sourceware</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Pwntools</td>
+<td>用于编写EXP。</td>
+<td><a href="https://github.com/Gallopsled/pwntools">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Pwncli</td>
+<td>一款简单、易用的<code>pwn</code>题调试与攻击工具，帮助你快速编写<code>pwn</code>题攻击脚本，并实现本地调试和远程攻击的便捷切换，提高你在<code>CTF</code>比赛中调试<code>pwn</code>题脚本的速度与效率。</td>
+<td><a href="https://github.com/RoderickChan/pwncli">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>Checksec</td>
+<td>查看二进制文件开启了哪些保护机制。</td>
+<td><a href="https://github.com/slimm609/checksec.sh">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>ROPgadget</td>
+<td>编写ROP的EXP时需要用到，可以帮助你寻找合适的gadgets。</td>
+<td><a href="https://github.com/JonathanSalwan/ROPgadget">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>objdump</td>
+<td>反汇编工具，查看文件的一些表信息，如got表。</td>
+<td>/</td>
+<td>/</td>
+</tr>
+<tr>
+<td>radare2</td>
+<td>UNIX-like reverse engineering framework and command-line toolset.</td>
+<td><a href="https://github.com/radareorg/radare2">Github</a></td>
+<td>/</td>
+</tr>
+<tr>
+<td>windbg</td>
+<td>Window 内核模式和用户模式代码调试。</td>
+<td><a href="https://learn.microsoft.com/zh-cn/windows-hardware/drivers/debugger/debugger-download-tools">Microsoft Learn</a></td>
+<td>/</td>
+</tr>
+</tbody>
+</table>
+<div>  
+    <!-- Pwn的解题过程与Reverse差不多，我们拿到文件需要先分析文件类型，然后再对文件开启的保护机制分析，反汇编出它的源代码，对源代码的逻辑分析，找出漏洞，编写EXP,在编写EXP的过程中，我们可以使用gdb在本地动态调试，一步一步修改我们的EXP,Pwn掉这题！ -->
+</div>
+
+<hr>
+<h3 id="awd-awdp">🛡   AWD  / AWDP<a class="headerlink" href="#awd-awdp" title="Permanent link">¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>项目名称</th>
+<th>Usage</th>
+<th>项目地址</th>
+<th>其他</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+
+<!-- Source file information -->
+
+
+<!-- Was this page helpful? -->
+
+  
+
+
+
+
+<!-- Previous and next pages link -->
+<nav
+class="md-footer__inner md-grid"
+aria-label="页脚"
+
+>
+
+<!-- Link to previous page -->
+
+
+<!-- Link to next page -->
+
+</nav>
+
+<!-- Comment system -->
+
+  <h2 id="__comments">评论</h2>
+  <!-- Insert generated snippet here -->
+  
+  <script src="https://giscus.app/client.js"
+  data-repo="ProbiusOfficial/Hello-CTF"
+  data-repo-id="R_kgDOJXX6hg"
+  data-category="Show and tell"
+  data-category-id="DIC_kwDOJXX6hs4CXmuV"
+  data-mapping="pathname"
+  data-strict="0"
+  data-reactions-enabled="1"
+  data-emit-metadata="0"
+  data-input-position="top"
+  data-theme="preferred_color_scheme"
+  data-lang="zh-CN"
+  crossorigin="anonymous"
+  async>
+</script>
+
+  <!-- Synchronize Giscus theme with palette -->
+  <script>
+    var giscus = document.querySelector("script[src*=giscus]")
+
+    /* Set palette on initial load */
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object") {
+      var theme = palette.color.scheme === "slate" ? "dark" : "light"
+      giscus.setAttribute("data-theme", theme) 
+    }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; site by cvestone & project from 探姬
+    </div>
+  
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/cvestone" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<stonectf1@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M536.4-26.3c9.8-3.5 20.6-1 28 6.3s9.8 18.2 6.3 28l-178 496.9c-5 13.9-18.1 23.1-32.8 23.1-14.2 0-27-8.6-32.3-21.7l-64.2-158c-4.5-11-2.5-23.6 5.2-32.6l94.5-112.4c5.1-6.1 4.7-15-.9-20.6s-14.6-6-20.6-.9l-112.4 94.3c-9.1 7.6-21.6 9.6-32.6 5.2L38.1 216.8c-13.1-5.3-21.7-18.1-21.7-32.3 0-14.7 9.2-27.8 23.1-32.8z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../..", "features": ["content.action.edit", "content.action.view", "content.code.annotate", "content.code.copy", "content.tabs.link", "content.tooltips", "navigation.indexes", "navigation.instant", "navigation.tabs", "navigation.top", "navigation.footer", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.50899def.min.js"></script>
+      
+        <script src="../../javascripts/katex.js"></script>
+      
+        <script src="https://cdn.bootcdn.net/ajax/libs/KaTeX/0.16.8/katex.min.js"></script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js"></script>
+      
+        <script src="../../javascripts/statis.js"></script>
+      
+        <script src="../../javascripts/bannerSlider.js"></script>
+      
+    
+  </body>
+</html>
